@@ -1,0 +1,18 @@
+[
+  {"date":"2026-10-16","name":"Collletttivo — fonderie libre italienne",
+   "summary":"Collectif italien dont tout le catalogue est sous SIL OFL : Apfel Grotezk, Ronzino, Sprat (18 graisses + variable), Halibut, Necto Mono… Des display expressifs utilisables en commercial et en rendu, avec crédit demandé.",
+   "url":"https://collletttivo.it/typefaces","tags":["fonderie","ofl","display"],
+   "source":{"label":"Web — collletttivo.it","url":"https://collletttivo.it/typefaces"}},
+  {"date":"2026-10-16","name":"Atkinson Hyperlegible Next",
+   "summary":"Version 2024 de la police hyperlisible du Braille Institute : nouveaux glyphes, crénage revu, 6 graisses avec italiques (contre 2). OFL 1.1, sources sur GitHub, sur Google Fonts. Idéale pour UI, sous-titres et docs.",
+   "url":"https://github.com/googlefonts/atkinson-hyperlegible-next","tags":["ofl","lisibilite","google-fonts"],
+   "source":{"label":"GitHub — googlefonts","url":"https://github.com/googlefonts/atkinson-hyperlegible-next"}},
+  {"date":"2026-10-16","name":"Inter 4.1",
+   "summary":"La sans-serif d'écran de référence (OFL 1.1), variable avec axe optique et nombreuses features OpenType (chiffres tabulaires, alternates). Projet mature ; dernière version 4.1 (nov. 2024). Valeur sûre pour interfaces et appairage.",
+   "url":"https://github.com/rsms/inter","tags":["ofl","variable","ui","appairage"],
+   "source":{"label":"GitHub — rsms/inter","url":"https://github.com/rsms/inter/releases"}},
+  {"date":"2026-10-16","name":"FontForge 20251009",
+   "summary":"Éditeur de fontes libre et open source (Windows, macOS, Linux), scriptable en Python : dessiner, retoucher, convertir ses propres polices. Projet mûr ; dernière version publiée le 9 oct. 2025. Gratuit (dons).",
+   "url":"https://fontforge.org/","tags":["outil","edition-fonte","libre"],
+   "source":{"label":"GitHub — fontforge releases","url":"https://github.com/fontforge/fontforge/releases"}}
+]
