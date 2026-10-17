@@ -5,8 +5,71 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>fontc 1.0 — le compilateur de fontes de Google en Rust</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Version stable (1er sept. 2026) du compilateur Rust de Google Fonts, remplaçant direct de fontmake pour sources Glyphs ou UFO : polices variables compilées bien plus vite. TrueType seulement, pas d'instances statiques. Apache 2.0, testé sur ~3 450 cibles.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>fontTools 4.67</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-fonttools-4-67</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-fonttools-4-67</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Le couteau suisse Python des fontes (ttx, subset, varLib) en 4.67 (14 oct. 2026) : instanciation des variables COLRv1, correctifs feaLib et CFF2. Pour alléger une police web, figer un axe ou scripter un pipeline. MIT, très mature.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Geist 1.8.1</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-geist-1-8-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-geist-1-8-1</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Geist Sans et Geist Mono de Vercel, sobres, pour l'UI et le code. La 1.8.1 (16 oct. 2026) aligne les versions des binaires sur le paquet et corrige l'oméga minuscule, qui pointait vers le signe Ohm. OFL 1.1, releases régulières depuis 2023.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Monaspace 1.4</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-monaspace-1-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-monaspace-1-4</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Superfamille monospace de GitHub Next (Neon, Argon, Xenon, Radon, Krypton) avec « texture healing » qui équilibre lettres larges et étroites. La 1.400 ajoute cyrillique, grec, vietnamien et API. Variables, web et Nerd Fonts. OFL 1.1.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Maple Mono 7.9</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-maple-mono-7-9</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-maple-mono-7-9</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Monospace arrondie pour IDE et terminal : ligatures, icônes Nerd Font, script pour figer ses variantes (option « Normal » proche de JetBrains Mono). La 7.9 ajoute des glyphes API et corrige le gel des features. OFL 1.1, ~29 000 étoiles.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Fontsource</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-fontsource</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-fontsource</guid>
+      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Des milliers de polices libres en paquets npm à auto-héberger : un import et la police, statique ou variable, est servie par son propre site, sans CDN tiers. Catalogue en ligne pour tester. Code MIT, chaque police garde sa licence (souvent OFL).</description>
+      <category>web</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
     <item>
       <title>Collletttivo — fonderie libre italienne</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-16-collletttivo-fonderie-libre-italienne</link>

@@ -1,18 +1,156 @@
 [
-  {"date":"2026-10-16","name":"Collletttivo — fonderie libre italienne",
-   "summary":"Collectif italien dont tout le catalogue est sous SIL OFL : Apfel Grotezk, Ronzino, Sprat (18 graisses + variable), Halibut, Necto Mono… Des display expressifs utilisables en commercial et en rendu, avec crédit demandé.",
-   "url":"https://collletttivo.it/typefaces","tags":["fonderie","ofl","display"],
-   "source":{"label":"Web — collletttivo.it","url":"https://collletttivo.it/typefaces"}},
-  {"date":"2026-10-16","name":"Atkinson Hyperlegible Next",
-   "summary":"Version 2024 de la police hyperlisible du Braille Institute : nouveaux glyphes, crénage revu, 6 graisses avec italiques (contre 2). OFL 1.1, sources sur GitHub, sur Google Fonts. Idéale pour UI, sous-titres et docs.",
-   "url":"https://github.com/googlefonts/atkinson-hyperlegible-next","tags":["ofl","lisibilite","google-fonts"],
-   "source":{"label":"GitHub — googlefonts","url":"https://github.com/googlefonts/atkinson-hyperlegible-next"}},
-  {"date":"2026-10-16","name":"Inter 4.1",
-   "summary":"La sans-serif d'écran de référence (OFL 1.1), variable avec axe optique et nombreuses features OpenType (chiffres tabulaires, alternates). Projet mature ; dernière version 4.1 (nov. 2024). Valeur sûre pour interfaces et appairage.",
-   "url":"https://github.com/rsms/inter","tags":["ofl","variable","ui","appairage"],
-   "source":{"label":"GitHub — rsms/inter","url":"https://github.com/rsms/inter/releases"}},
-  {"date":"2026-10-16","name":"FontForge 20251009",
-   "summary":"Éditeur de fontes libre et open source (Windows, macOS, Linux), scriptable en Python : dessiner, retoucher, convertir ses propres polices. Projet mûr ; dernière version publiée le 9 oct. 2025. Gratuit (dons).",
-   "url":"https://fontforge.org/","tags":["outil","edition-fonte","libre"],
-   "source":{"label":"GitHub — fontforge releases","url":"https://github.com/fontforge/fontforge/releases"}}
+ {
+  "date": "2026-10-17",
+  "name": "fontc 1.0 — le compilateur de fontes de Google en Rust",
+  "summary": "Version stable (1er sept. 2026) du compilateur Rust de Google Fonts, remplaçant direct de fontmake pour sources Glyphs ou UFO : polices variables compilées bien plus vite. TrueType seulement, pas d'instances statiques. Apache 2.0, testé sur ~3 450 cibles.",
+  "url": "https://github.com/googlefonts/fontc",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — googlefonts/fontc 1.0",
+   "url": "https://github.com/googlefonts/fontc/releases/tag/fontc-v1.0.0"
+  }
+ },
+ {
+  "date": "2026-10-17",
+  "name": "fontTools 4.67",
+  "summary": "Le couteau suisse Python des fontes (ttx, subset, varLib) en 4.67 (14 oct. 2026) : instanciation des variables COLRv1, correctifs feaLib et CFF2. Pour alléger une police web, figer un axe ou scripter un pipeline. MIT, très mature.",
+  "url": "https://github.com/fonttools/fonttools",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — fonttools 4.67.0",
+   "url": "https://github.com/fonttools/fonttools/releases/tag/4.67.0"
+  }
+ },
+ {
+  "date": "2026-10-17",
+  "name": "Geist 1.8.1",
+  "summary": "Geist Sans et Geist Mono de Vercel, sobres, pour l'UI et le code. La 1.8.1 (16 oct. 2026) aligne les versions des binaires sur le paquet et corrige l'oméga minuscule, qui pointait vers le signe Ohm. OFL 1.1, releases régulières depuis 2023.",
+  "url": "https://vercel.com/font",
+  "tags": [
+   "ofl",
+   "ui",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — vercel/geist-font v1.8.1",
+   "url": "https://github.com/vercel/geist-font/releases/tag/v1.8.1"
+  }
+ },
+ {
+  "date": "2026-10-17",
+  "name": "Monaspace 1.4",
+  "summary": "Superfamille monospace de GitHub Next (Neon, Argon, Xenon, Radon, Krypton) avec « texture healing » qui équilibre lettres larges et étroites. La 1.400 ajoute cyrillique, grec, vietnamien et API. Variables, web et Nerd Fonts. OFL 1.1.",
+  "url": "https://monaspace.githubnext.com/",
+  "tags": [
+   "ofl",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — monaspace v1.400",
+   "url": "https://github.com/githubnext/monaspace/releases/tag/v1.400"
+  }
+ },
+ {
+  "date": "2026-10-17",
+  "name": "Maple Mono 7.9",
+  "summary": "Monospace arrondie pour IDE et terminal : ligatures, icônes Nerd Font, script pour figer ses variantes (option « Normal » proche de JetBrains Mono). La 7.9 ajoute des glyphes API et corrige le gel des features. OFL 1.1, ~29 000 étoiles.",
+  "url": "https://font.subf.dev/",
+  "tags": [
+   "ofl",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — maple-font v7.9",
+   "url": "https://github.com/subframe7536/maple-font/releases/tag/v7.9"
+  }
+ },
+ {
+  "date": "2026-10-17",
+  "name": "Fontsource",
+  "summary": "Des milliers de polices libres en paquets npm à auto-héberger : un import et la police, statique ou variable, est servie par son propre site, sans CDN tiers. Catalogue en ligne pour tester. Code MIT, chaque police garde sa licence (souvent OFL).",
+  "url": "https://fontsource.org/",
+  "tags": [
+   "web",
+   "libre",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — fontsource",
+   "url": "https://github.com/fontsource/fontsource"
+  }
+ },
+ {
+  "date": "2026-10-16",
+  "name": "Collletttivo — fonderie libre italienne",
+  "summary": "Collectif italien dont tout le catalogue est sous SIL OFL : Apfel Grotezk, Ronzino, Sprat (18 graisses + variable), Halibut, Necto Mono… Des display expressifs utilisables en commercial et en rendu, avec crédit demandé.",
+  "url": "https://collletttivo.it/typefaces",
+  "tags": [
+   "fonderie",
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "Web — collletttivo.it",
+   "url": "https://collletttivo.it/typefaces"
+  }
+ },
+ {
+  "date": "2026-10-16",
+  "name": "Atkinson Hyperlegible Next",
+  "summary": "Version 2024 de la police hyperlisible du Braille Institute : nouveaux glyphes, crénage revu, 6 graisses avec italiques (contre 2). OFL 1.1, sources sur GitHub, sur Google Fonts. Idéale pour UI, sous-titres et docs.",
+  "url": "https://github.com/googlefonts/atkinson-hyperlegible-next",
+  "tags": [
+   "ofl",
+   "lisibilite",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — googlefonts",
+   "url": "https://github.com/googlefonts/atkinson-hyperlegible-next"
+  }
+ },
+ {
+  "date": "2026-10-16",
+  "name": "Inter 4.1",
+  "summary": "La sans-serif d'écran de référence (OFL 1.1), variable avec axe optique et nombreuses features OpenType (chiffres tabulaires, alternates). Projet mature ; dernière version 4.1 (nov. 2024). Valeur sûre pour interfaces et appairage.",
+  "url": "https://github.com/rsms/inter",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — rsms/inter",
+   "url": "https://github.com/rsms/inter/releases"
+  }
+ },
+ {
+  "date": "2026-10-16",
+  "name": "FontForge 20251009",
+  "summary": "Éditeur de fontes libre et open source (Windows, macOS, Linux), scriptable en Python : dessiner, retoucher, convertir ses propres polices. Projet mûr ; dernière version publiée le 9 oct. 2025. Gratuit (dons).",
+  "url": "https://fontforge.org/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — fontforge releases",
+   "url": "https://github.com/fontforge/fontforge/releases"
+  }
+ }
 ]
