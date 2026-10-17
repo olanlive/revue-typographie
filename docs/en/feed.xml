@@ -8,105 +8,105 @@
     <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title xml:lang="fr">fontc 1.0 — le compilateur de fontes de Google en Rust</title>
+      <title>fontc 1.0 — Google's font compiler in Rust</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Version stable (1er sept. 2026) du compilateur Rust de Google Fonts, remplaçant direct de fontmake pour sources Glyphs ou UFO : polices variables compilées bien plus vite. TrueType seulement, pas d'instances statiques. Apache 2.0, testé sur ~3 450 cibles.</description>
+      <description>Stable release (Sept 1, 2026) of Google Fonts' Rust compiler, a drop-in replacement for fontmake for Glyphs or UFO sources: variable fonts compiled much faster. TrueType only, no static instances. Apache 2.0, tested on ~3,450 targets.</description>
       <category>outil</category>
       <category>edition-fonte</category>
       <category>variable</category>
       <category>libre</category>
     </item>
     <item>
-      <title xml:lang="fr">fontTools 4.67</title>
+      <title>fontTools 4.67</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fonttools-4-67</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-fonttools-4-67</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Le couteau suisse Python des fontes (ttx, subset, varLib) en 4.67 (14 oct. 2026) : instanciation des variables COLRv1, correctifs feaLib et CFF2. Pour alléger une police web, figer un axe ou scripter un pipeline. MIT, très mature.</description>
+      <description>The Python Swiss Army knife for fonts (ttx, subset, varLib) at 4.67 (Oct 14, 2026): instancing of COLRv1 variable fonts, feaLib and CFF2 fixes. For slimming a web font, freezing an axis or scripting a pipeline. MIT, very mature.</description>
       <category>outil</category>
       <category>edition-fonte</category>
       <category>variable</category>
       <category>libre</category>
     </item>
     <item>
-      <title xml:lang="fr">Geist 1.8.1</title>
+      <title>Geist 1.8.1</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-geist-1-8-1</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-geist-1-8-1</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Geist Sans et Geist Mono de Vercel, sobres, pour l'UI et le code. La 1.8.1 (16 oct. 2026) aligne les versions des binaires sur le paquet et corrige l'oméga minuscule, qui pointait vers le signe Ohm. OFL 1.1, releases régulières depuis 2023.</description>
+      <description>Vercel's Geist Sans and Geist Mono, understated, for UI and code. 1.8.1 (Oct 16, 2026) aligns binary versions with the package and fixes the lowercase omega, which pointed to the Ohm sign. OFL 1.1, regular releases since 2023.</description>
       <category>ofl</category>
       <category>ui</category>
       <category>code</category>
       <category>variable</category>
     </item>
     <item>
-      <title xml:lang="fr">Monaspace 1.4</title>
+      <title>Monaspace 1.4</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-monaspace-1-4</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-monaspace-1-4</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Superfamille monospace de GitHub Next (Neon, Argon, Xenon, Radon, Krypton) avec « texture healing » qui équilibre lettres larges et étroites. La 1.400 ajoute cyrillique, grec, vietnamien et API. Variables, web et Nerd Fonts. OFL 1.1.</description>
+      <description>GitHub Next's monospace superfamily (Neon, Argon, Xenon, Radon, Krypton) with “texture healing” that balances wide and narrow letters. 1.400 adds Cyrillic, Greek, Vietnamese and IPA. Variable, web and Nerd Fonts. OFL 1.1.</description>
       <category>ofl</category>
       <category>code</category>
       <category>variable</category>
     </item>
     <item>
-      <title xml:lang="fr">Maple Mono 7.9</title>
+      <title>Maple Mono 7.9</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-maple-mono-7-9</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-maple-mono-7-9</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Monospace arrondie pour IDE et terminal : ligatures, icônes Nerd Font, script pour figer ses variantes (option « Normal » proche de JetBrains Mono). La 7.9 ajoute des glyphes API et corrige le gel des features. OFL 1.1, ~29 000 étoiles.</description>
+      <description>Rounded monospace for IDEs and terminals: ligatures, Nerd Font icons, a script to freeze your variants (a “Normal” option close to JetBrains Mono). 7.9 adds IPA glyphs and fixes feature freezing. OFL 1.1, ~29,000 stars.</description>
       <category>ofl</category>
       <category>code</category>
       <category>variable</category>
     </item>
     <item>
-      <title xml:lang="fr">Fontsource</title>
+      <title>Fontsource</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontsource</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontsource</guid>
       <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Des milliers de polices libres en paquets npm à auto-héberger : un import et la police, statique ou variable, est servie par son propre site, sans CDN tiers. Catalogue en ligne pour tester. Code MIT, chaque police garde sa licence (souvent OFL).</description>
+      <description>Thousands of free fonts as npm packages to self-host: one import and the font, static or variable, is served by your own site, with no third-party CDN. Online catalog for testing. MIT code, each font keeps its own licence (often OFL).</description>
       <category>web</category>
       <category>libre</category>
       <category>appairage</category>
     </item>
     <item>
-      <title xml:lang="fr">Collletttivo — fonderie libre italienne</title>
+      <title>Collletttivo — Italian libre foundry</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-16-collletttivo-fonderie-libre-italienne</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-16-collletttivo-fonderie-libre-italienne</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Collectif italien dont tout le catalogue est sous SIL OFL : Apfel Grotezk, Ronzino, Sprat (18 graisses + variable), Halibut, Necto Mono… Des display expressifs utilisables en commercial et en rendu, avec crédit demandé.</description>
+      <description>Italian collective whose whole catalog is under the SIL OFL: Apfel Grotezk, Ronzino, Sprat (18 weights + variable), Halibut, Necto Mono… Expressive display faces usable commercially and in renders, with credit requested.</description>
       <category>fonderie</category>
       <category>ofl</category>
       <category>display</category>
     </item>
     <item>
-      <title xml:lang="fr">Atkinson Hyperlegible Next</title>
+      <title>Atkinson Hyperlegible Next</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-16-atkinson-hyperlegible-next</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-16-atkinson-hyperlegible-next</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Version 2024 de la police hyperlisible du Braille Institute : nouveaux glyphes, crénage revu, 6 graisses avec italiques (contre 2). OFL 1.1, sources sur GitHub, sur Google Fonts. Idéale pour UI, sous-titres et docs.</description>
+      <description>2024 version of the Braille Institute's hyperlegible typeface: new glyphs, revised kerning, 6 weights with italics (versus 2). OFL 1.1, sources on GitHub, on Google Fonts. Ideal for UI, subtitles and docs.</description>
       <category>ofl</category>
       <category>lisibilite</category>
       <category>google-fonts</category>
     </item>
     <item>
-      <title xml:lang="fr">Inter 4.1</title>
+      <title>Inter 4.1</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-16-inter-4-1</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-16-inter-4-1</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">La sans-serif d'écran de référence (OFL 1.1), variable avec axe optique et nombreuses features OpenType (chiffres tabulaires, alternates). Projet mature ; dernière version 4.1 (nov. 2024). Valeur sûre pour interfaces et appairage.</description>
+      <description>The reference screen sans-serif (OFL 1.1), variable with an optical size axis and many OpenType features (tabular figures, alternates). A mature project; latest version 4.1 (Nov 2024). A safe choice for interfaces and pairing.</description>
       <category>ofl</category>
       <category>variable</category>
       <category>ui</category>
       <category>appairage</category>
     </item>
     <item>
-      <title xml:lang="fr">FontForge 20251009</title>
+      <title>FontForge 20251009</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-16-fontforge-20251009</link>
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-16-fontforge-20251009</guid>
       <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description xml:lang="fr">Éditeur de fontes libre et open source (Windows, macOS, Linux), scriptable en Python : dessiner, retoucher, convertir ses propres polices. Projet mûr ; dernière version publiée le 9 oct. 2025. Gratuit (dons).</description>
+      <description>Free and open source font editor (Windows, macOS, Linux), scriptable in Python: draw, retouch and convert your own fonts. A mature project; latest version released Oct 9, 2025. Free (donations).</description>
       <category>outil</category>
       <category>edition-fonte</category>
       <category>libre</category>
