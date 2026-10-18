@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Redaction — the legal-document serif, coming to Google Fonts</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-redaction-le-serif-des-documents-judiciaires-bientot-sur-google-fonts</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-redaction-le-serif-des-documents-judiciaires-bientot-sur-google-fonts</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Serif by Jeremy Mickel (MCKL), between Times and Century Schoolbook, in 7 families: one clean and six increasingly "photocopied" (10 to 100). Great for textured titles or an archival look. OFL 1.1, Google Fonts onboarding under way (Oct 2026).</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Fontra Pak 2026.10</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-fontra-pak-2026-10</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-fontra-pak-2026-10</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
+      <description>The free font editor that runs in your browser, bundled for macOS, Windows and Linux. 2026.10 (Oct 5) adds a proper File menu and a button to open a .ufo or .fontra project directly. GPL 3.0, still in active development, monthly releases.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Glyphr Studio 2.10.6</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-glyphr-studio-2-10-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-glyphr-studio-2-10-6</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A 100% web-based font editor, no install or account, built for beginners: draw a display alphabet or an icon font in one evening. 2.10.6 (Oct 2, 2026) fixes tool states and search within a Unicode range. GPL 3.0, free.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Iosevka 34.9</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-iosevka-34-9</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-iosevka-34-9</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A narrow, fully configurable monospace (glyph variants, custom builds), available as Term, Slab, Aile and Etoile. 34.9 (Sept 26, 2026) adds variants for ζ, ξ, ς and dozens of diacritics. OFL 1.1, a very mature project since 2015.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>IBM Plex Mono variable</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-ibm-plex-mono-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-ibm-plex-mono-variable</guid>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Plex Mono is finally a variable font: one file, weight axis from 100 to 700, Thin to Bold instances. Handy for code and web UI without juggling files. Joins Plex Serif and Sans variable. OFL 1.1, a very mature IBM family.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+      <category>ui</category>
+    </item>
     <item>
       <title>fontc 1.0 — Google's font compiler in Rust</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</link>

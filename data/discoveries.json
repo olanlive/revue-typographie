@@ -1,5 +1,95 @@
 [
  {
+  "date": "2026-10-18",
+  "name": "Redaction — le serif des documents judiciaires, bientôt sur Google Fonts",
+  "name_en": "Redaction — the legal-document serif, coming to Google Fonts",
+  "summary": "Serif de Jeremy Mickel (MCKL), entre Times et Century Schoolbook, en 7 familles : une nette et six de plus en plus « photocopiées » (10 à 100). Idéal pour un titrage texturé ou un rendu d'archive. OFL 1.1, intégration Google Fonts en cours (oct. 2026).",
+  "summary_en": "Serif by Jeremy Mickel (MCKL), between Times and Century Schoolbook, in 7 families: one clean and six increasingly \"photocopied\" (10 to 100). Great for textured titles or an archival look. OFL 1.1, Google Fonts onboarding under way (Oct 2026).",
+  "url": "https://github.com/jeremymickel/Redaction",
+  "tags": [
+   "ofl",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts PR #11094",
+   "label_en": "GitHub — google/fonts PR #11094",
+   "url": "https://github.com/google/fonts/pull/11094"
+  }
+ },
+ {
+  "date": "2026-10-18",
+  "name": "Fontra Pak 2026.10",
+  "name_en": "Fontra Pak 2026.10",
+  "summary": "L'éditeur de fontes libre qui tourne dans le navigateur, empaqueté pour macOS, Windows et Linux. La 2026.10 (5 oct.) ajoute un vrai menu Fichier et un bouton pour ouvrir directement un .ufo ou un .fontra. GPL 3.0, encore en développement actif, releases mensuelles.",
+  "summary_en": "The free font editor that runs in your browser, bundled for macOS, Windows and Linux. 2026.10 (Oct 5) adds a proper File menu and a button to open a .ufo or .fontra project directly. GPL 3.0, still in active development, monthly releases.",
+  "url": "https://fontra.xyz/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — fontra/fontra-pak 2026.10.0",
+   "label_en": "GitHub — fontra/fontra-pak 2026.10.0",
+   "url": "https://github.com/fontra/fontra-pak/releases/tag/2026.10.0"
+  }
+ },
+ {
+  "date": "2026-10-18",
+  "name": "Glyphr Studio 2.10.6",
+  "name_en": "Glyphr Studio 2.10.6",
+  "summary": "Éditeur de fontes 100 % web, sans installation ni compte, pensé pour débuter : dessiner un alphabet de titrage ou une police d'icônes en une soirée. La 2.10.6 (2 oct. 2026) corrige l'état des outils et la recherche par plage Unicode. GPL 3.0, gratuit.",
+  "summary_en": "A 100% web-based font editor, no install or account, built for beginners: draw a display alphabet or an icon font in one evening. 2.10.6 (Oct 2, 2026) fixes tool states and search within a Unicode range. GPL 3.0, free.",
+  "url": "https://www.glyphrstudio.com/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — Glyphr-Studio-2 v2.10.6",
+   "label_en": "GitHub — Glyphr-Studio-2 v2.10.6",
+   "url": "https://github.com/glyphr-studio/Glyphr-Studio-2/releases/tag/v2.10.6"
+  }
+ },
+ {
+  "date": "2026-10-18",
+  "name": "Iosevka 34.9",
+  "name_en": "Iosevka 34.9",
+  "summary": "Monospace étroite et entièrement configurable (variantes de glyphes, build sur mesure), déclinée en Term, Slab, Aile et Etoile. La 34.9 (26 sept. 2026) ajoute des variantes pour ζ, ξ, ς et des dizaines de diacritiques. OFL 1.1, projet très mature depuis 2015.",
+  "summary_en": "A narrow, fully configurable monospace (glyph variants, custom builds), available as Term, Slab, Aile and Etoile. 34.9 (Sept 26, 2026) adds variants for ζ, ξ, ς and dozens of diacritics. OFL 1.1, a very mature project since 2015.",
+  "url": "https://typeof.net/Iosevka/",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — be5invis/Iosevka v34.9.0",
+   "label_en": "GitHub — be5invis/Iosevka v34.9.0",
+   "url": "https://github.com/be5invis/Iosevka/releases/tag/v34.9.0"
+  }
+ },
+ {
+  "date": "2026-10-18",
+  "name": "IBM Plex Mono variable",
+  "name_en": "IBM Plex Mono variable",
+  "summary": "Plex Mono existe enfin en police variable : un seul fichier, axe de graisse de 100 à 700, instances Thin à Bold. Pratique pour le code et l'UI web sans multiplier les fichiers. Rejoint Plex Serif et Sans variables. OFL 1.1, famille IBM très mature.",
+  "summary_en": "Plex Mono is finally a variable font: one file, weight axis from 100 to 700, Thin to Bold instances. Handy for code and web UI without juggling files. Joins Plex Serif and Sans variable. OFL 1.1, a very mature IBM family.",
+  "url": "https://www.ibm.com/plex/",
+  "tags": [
+   "ofl",
+   "code",
+   "variable",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — IBM/plex-mono-variable 1.0.0",
+   "label_en": "GitHub — IBM/plex-mono-variable 1.0.0",
+   "url": "https://github.com/IBM/plex/releases/tag/%40ibm/plex-mono-variable%401.0.0"
+  }
+ },
+ {
   "date": "2026-10-17",
   "name": "fontc 1.0 — le compilateur de fontes de Google en Rust",
   "name_en": "fontc 1.0 — Google's font compiler in Rust",
