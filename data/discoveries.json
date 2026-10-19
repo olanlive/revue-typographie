@@ -1,5 +1,98 @@
 [
  {
+  "date": "2026-10-19",
+  "name": "Cal Sans 2.011",
+  "name_en": "Cal Sans 2.011",
+  "summary": "Le sans géométrique de Cal.com devenu un système variable : graisse 400–700, tailles optiques 8–45 pt, axe GEOM (de A11y à Geo), vraies italiques. La 2.011 (15 oct.) ajoute Cal Sans Phlex, des formes qui se métamorphosent sans avar2. OFL 1.1, Flex encore expérimental.",
+  "summary_en": "Cal.com's geometric sans, now a variable system: weight 400–700, optical sizes 8–45 pt, a GEOM axis (from A11y to Geo), real italics. 2.011 (Oct 15) adds Cal Sans Phlex, morphing letterforms without avar2. OFL 1.1; Flex is still experimental.",
+  "url": "https://cal.com/font",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — calcom/sans v2.011",
+   "label_en": "GitHub — calcom/sans v2.011",
+   "url": "https://github.com/calcom/sans/releases/tag/v2.011"
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "name": "Kode Mono 2.003",
+  "name_en": "Kode Mono 2.003",
+  "summary": "Monospace pour le code avec ligatures et glyphes Powerline. La série 2.0 ajoute deux axes variables, largeur (75–125) et arrondi (ROND 0–100), plus un jeu ss01 qui distingue D/0/O et 8/B. La 2.003 (8 oct.) est en route vers Google Fonts. OFL 1.1, projet mûr depuis 2023.",
+  "summary_en": "A coding monospace with ligatures and Powerline glyphs. The 2.0 series adds two variable axes, width (75–125) and roundness (ROND 0–100), plus an ss01 set that tells D/0/O and 8/B apart. 2.003 (Oct 8) is heading to Google Fonts. OFL 1.1, mature since 2023.",
+  "url": "https://kodemono.com",
+  "tags": [
+   "ofl",
+   "code",
+   "variable",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts PR #11054",
+   "label_en": "GitHub — google/fonts PR #11054",
+   "url": "https://github.com/google/fonts/pull/11054"
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "name": "Wavefont et Linefont — des graphiques écrits en texte",
+  "name_en": "Wavefont and Linefont — charts written as text",
+  "summary": "Deux polices variables de Dmitry Iv. : chaque caractère devient une barre (Wavefont : formes d'onde, histogrammes) ou un point de courbe (Linefont : séries temporelles). Idéal pour des mini-graphes dans une UI web sans canvas. Mises à jour sur Google Fonts le 9 oct. OFL 1.1.",
+  "summary_en": "Two variable fonts by Dmitry Iv.: each character becomes a bar (Wavefont: waveforms, histograms) or a curve point (Linefont: time series). Great for tiny charts in a web UI without canvas. Updated on Google Fonts on Oct 9. OFL 1.1.",
+  "url": "https://dy.github.io/wavefont/",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts PR #11050 et #11051",
+   "label_en": "GitHub — google/fonts PRs #11050 and #11051",
+   "url": "https://github.com/google/fonts/pull/11050"
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "name": "Libron 0.31",
+  "name_en": "Libron 0.31",
+  "summary": "Serif de lecture dérivée de Readerly (elle-même issue de Newsreader), retravaillée à la main dans FontForge pour un gris plus calme. Builds pour Kobo, KOReader, Kindle, bureau et web. La 0.31 (9 oct.) ajoute fractions, exposants et espaces Unicode. OFL, en développement actif.",
+  "summary_en": "A reading serif derived from Readerly (itself based on Newsreader), hand-edited in FontForge for a calmer texture. Ready-made builds for Kobo, KOReader, Kindle, desktop and web. 0.31 (Oct 9) adds fractions, superscripts and Unicode spaces. OFL, in active development.",
+  "url": "https://github.com/nicoverbruggen/libron",
+  "tags": [
+   "ofl",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — nicoverbruggen/libron v0.31",
+   "label_en": "GitHub — nicoverbruggen/libron v0.31",
+   "url": "https://github.com/nicoverbruggen/libron/releases/tag/v0.31"
+  }
+ },
+ {
+  "date": "2026-10-19",
+  "name": "Ark Pixel Font 2026.10.16",
+  "name_en": "Ark Pixel Font 2026.10.16",
+  "summary": "Police pixel open source en 10 et 12 px, latin et chinois/japonais/coréen, en version monospace ou proportionnelle avec crénage. Parfaite pour une UI de jeu ou un HUD rétro. Release du 16 oct. (le 16 px est retiré). Fontes OFL 1.1, code MIT, projet actif depuis 2021.",
+  "summary_en": "An open source pixel font in 10 and 12 px, covering Latin and Chinese/Japanese/Korean, in monospaced or proportional versions with kerning. Perfect for a game UI or a retro HUD. Released Oct 16 (16 px dropped). Fonts OFL 1.1, code MIT, active since 2021.",
+  "url": "https://ark-pixel-font.takwolf.com/",
+  "tags": [
+   "ofl",
+   "display",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — TakWolf/ark-pixel-font 2026.10.16",
+   "label_en": "GitHub — TakWolf/ark-pixel-font 2026.10.16",
+   "url": "https://github.com/TakWolf/ark-pixel-font/releases/tag/2026.10.16"
+  }
+ },
+ {
   "date": "2026-10-18",
   "name": "Redaction — le serif des documents judiciaires, bientôt sur Google Fonts",
   "name_en": "Redaction — the legal-document serif, coming to Google Fonts",

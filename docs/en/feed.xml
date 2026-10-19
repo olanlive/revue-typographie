@@ -5,8 +5,61 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cal Sans 2.011</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-cal-sans-2-011</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-cal-sans-2-011</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Cal.com's geometric sans, now a variable system: weight 400–700, optical sizes 8–45 pt, a GEOM axis (from A11y to Geo), real italics. 2.011 (Oct 15) adds Cal Sans Phlex, morphing letterforms without avar2. OFL 1.1; Flex is still experimental.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Kode Mono 2.003</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-kode-mono-2-003</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-kode-mono-2-003</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A coding monospace with ligatures and Powerline glyphs. The 2.0 series adds two variable axes, width (75–125) and roundness (ROND 0–100), plus an ss01 set that tells D/0/O and 8/B apart. 2.003 (Oct 8) is heading to Google Fonts. OFL 1.1, mature since 2023.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Wavefont and Linefont — charts written as text</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Two variable fonts by Dmitry Iv.: each character becomes a bar (Wavefont: waveforms, histograms) or a curve point (Linefont: time series). Great for tiny charts in a web UI without canvas. Updated on Google Fonts on Oct 9. OFL 1.1.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Libron 0.31</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-libron-0-31</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-libron-0-31</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A reading serif derived from Readerly (itself based on Newsreader), hand-edited in FontForge for a calmer texture. Ready-made builds for Kobo, KOReader, Kindle, desktop and web. 0.31 (Oct 9) adds fractions, superscripts and Unicode spaces. OFL, in active development.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Ark Pixel Font 2026.10.16</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-ark-pixel-font-2026-10-16</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-ark-pixel-font-2026-10-16</guid>
+      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
+      <description>An open source pixel font in 10 and 12 px, covering Latin and Chinese/Japanese/Korean, in monospaced or proportional versions with kerning. Perfect for a game UI or a retro HUD. Released Oct 16 (16 px dropped). Fonts OFL 1.1, code MIT, active since 2021.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>ui</category>
+    </item>
     <item>
       <title>Redaction — the legal-document serif, coming to Google Fonts</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-redaction-le-serif-des-documents-judiciaires-bientot-sur-google-fonts</link>
