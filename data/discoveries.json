@@ -1,5 +1,97 @@
 [
  {
+  "date": "2026-10-20",
+  "name": "Google Sans Flex 5.000",
+  "name_en": "Google Sans Flex 5.000",
+  "summary": "La police de marque de Google, en libre : un sans géométrique variable sur cinq axes (graisse 1–1000, chasse 25–151, inclinaison, arrondi ROND, tailles optiques 1–144). La 5.000 (9 oct.) retire l'axe GRAD et soigne les petits corps. OFL 1.1, intégrée à google/fonts.",
+  "summary_en": "Google's brand typeface, released as open source: a geometric variable sans on five axes (weight 1–1000, width 25–151, slant, ROND roundness, optical sizes 1–144). 5.000 (Oct 9) drops the GRAD axis and refines tiny sizes. OFL 1.1, merged into the google/fonts repo.",
+  "url": "https://github.com/googlefonts/googlesans-flex",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — googlefonts/googlesans-flex v5.000",
+   "label_en": "GitHub — googlefonts/googlesans-flex v5.000",
+   "url": "https://github.com/googlefonts/googlesans-flex/releases/tag/v5.000"
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "name": "Tiny5 et Tiny5 Duo 2.007 — le pixel devient variable",
+  "name_en": "Tiny5 and Tiny5 Duo 2.007 — pixel type goes variable",
+  "summary": "Une police pixel de 5 px de haut, désormais variable : graisse, chasse, arrondi et deux axes rares, BLED (bavure d'encre, halo CRT) et JITT (tremblement), plus des italiques. Tiny5 Duo passe les fûts à 2 px. Idéal pour des HUD rétro. OFL, fusionnée dans google/fonts le 9 oct.",
+  "summary_en": "A 5-pixel-tall pixel font, now variable: weight, width, roundness and two rare axes, BLED (ink spread, CRT glow) and JITT (jitter), plus italics. Tiny5 Duo uses 2-pixel stems. Great for HUDs and retro interfaces. OFL, merged into google/fonts on Oct 9.",
+  "url": "https://github.com/Gissio/font_tiny5",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts PR #10889 et #11087",
+   "label_en": "GitHub — google/fonts PRs #10889 and #11087",
+   "url": "https://github.com/google/fonts/pull/10889"
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "name": "Firjar — un kufique bilingue arabe-latin",
+  "name_en": "Firjar — a bilingual Kufic Arabic-Latin typeface",
+  "summary": "Un sans d'inspiration kufique, construit au compas (quarts de cercle, droites nettes), qui accorde arabe et latin dans une famille variable : graisse 100–800, chasse 75–125. Pour titrages, identités et UI bilingues. Par Mestara Type, OFL, ajoutée à google/fonts le 15 oct.",
+  "summary_en": "A Kufic-inspired sans built like a compass drawing (quarter circles and clean straight lines), pairing Arabic and Latin in one variable family: weight 100–800, width 75–125. For headlines, branding and bilingual UI. By Mestara Type, OFL, added to google/fonts on Oct 15.",
+  "url": "https://github.com/Mestaratype/Firjar",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts PR #11123",
+   "label_en": "GitHub — google/fonts PR #11123",
+   "url": "https://github.com/google/fonts/pull/11123"
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "name": "Fontspector 1.9",
+  "name_en": "Fontspector 1.9",
+  "summary": "Le successeur de Fontbakery, réécrit en Rust : contrôle qualité de fontes en ligne de commande, en module Python ou dans le navigateur (WASM), avec profils Google Fonts, OpenType et universel. La 1.9 (9 oct.) corrige certains défauts directement dans les sources UFO. Apache 2.0.",
+  "summary_en": "Fontbakery's successor, rewritten in Rust: font quality checks from the command line, as a Python module or right in the browser (WASM), with Google Fonts, OpenType and universal profiles. 1.9 (Oct 9) can fix some issues directly in UFO sources. Apache 2.0.",
+  "url": "https://github.com/fonttools/fontspector",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — fonttools/fontspector v1.9.0",
+   "label_en": "GitHub — fonttools/fontspector v1.9.0",
+   "url": "https://github.com/fonttools/fontspector/releases/tag/fontspector-v1.9.0"
+  }
+ },
+ {
+  "date": "2026-10-20",
+  "name": "LXGW WenKai 1.530",
+  "name_en": "LXGW WenKai 1.530",
+  "summary": "Police chinoise libre de style kai, dérivée de Klee One de Fontworks, très appréciée pour la lecture. La 1.530 (17 oct.) ajoute 50 caractères en petit sceau d'Unicode 18, des symboles de mahjong et de dés, complète les kanji JIS X 0213 et redessine des centaines de glyphes. OFL.",
+  "summary_en": "A free Chinese kai-style font derived from Fontworks' Klee One, popular for reading. 1.530 (Oct 17) adds 50 Unicode 18 small seal script characters, mahjong and dice symbols, completes JIS X 0213 kanji and redraws hundreds of glyphs. OFL 1.1.",
+  "url": "https://github.com/lxgw/LxgwWenKai",
+  "tags": [
+   "ofl",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — lxgw/LxgwWenKai v1.530",
+   "label_en": "GitHub — lxgw/LxgwWenKai v1.530",
+   "url": "https://github.com/lxgw/LxgwWenKai/releases/tag/v1.530"
+  }
+ },
+ {
   "date": "2026-10-19",
   "name": "Cal Sans 2.011",
   "name_en": "Cal Sans 2.011",

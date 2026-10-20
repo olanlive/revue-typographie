@@ -5,8 +5,60 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Sans Flex 5.000</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-google-sans-flex-5-000</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-google-sans-flex-5-000</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
+      <description>La police de marque de Google, en libre : un sans géométrique variable sur cinq axes (graisse 1–1000, chasse 25–151, inclinaison, arrondi ROND, tailles optiques 1–144). La 5.000 (9 oct.) retire l'axe GRAD et soigne les petits corps. OFL 1.1, intégrée à google/fonts.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Tiny5 et Tiny5 Duo 2.007 — le pixel devient variable</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-tiny5-et-tiny5-duo-2-007-le-pixel-devient-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-tiny5-et-tiny5-duo-2-007-le-pixel-devient-variable</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Une police pixel de 5 px de haut, désormais variable : graisse, chasse, arrondi et deux axes rares, BLED (bavure d'encre, halo CRT) et JITT (tremblement), plus des italiques. Tiny5 Duo passe les fûts à 2 px. Idéal pour des HUD rétro. OFL, fusionnée dans google/fonts le 9 oct.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Firjar — un kufique bilingue arabe-latin</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-firjar-un-kufique-bilingue-arabe-latin</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-firjar-un-kufique-bilingue-arabe-latin</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Un sans d'inspiration kufique, construit au compas (quarts de cercle, droites nettes), qui accorde arabe et latin dans une famille variable : graisse 100–800, chasse 75–125. Pour titrages, identités et UI bilingues. Par Mestara Type, OFL, ajoutée à google/fonts le 15 oct.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Fontspector 1.9</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-fontspector-1-9</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-fontspector-1-9</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Le successeur de Fontbakery, réécrit en Rust : contrôle qualité de fontes en ligne de commande, en module Python ou dans le navigateur (WASM), avec profils Google Fonts, OpenType et universel. La 1.9 (9 oct.) corrige certains défauts directement dans les sources UFO. Apache 2.0.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>LXGW WenKai 1.530</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-lxgw-wenkai-1-530</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-lxgw-wenkai-1-530</guid>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Police chinoise libre de style kai, dérivée de Klee One de Fontworks, très appréciée pour la lecture. La 1.530 (17 oct.) ajoute 50 caractères en petit sceau d'Unicode 18, des symboles de mahjong et de dés, complète les kanji JIS X 0213 et redessine des centaines de glyphes. OFL.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+    </item>
     <item>
       <title>Cal Sans 2.011</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-19-cal-sans-2-011</link>
