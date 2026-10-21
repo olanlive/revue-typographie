@@ -1,5 +1,94 @@
 [
  {
+  "date": "2026-10-21",
+  "name": "Lilex 2.630",
+  "name_en": "Lilex 2.630",
+  "summary": "Police de code dérivée d'IBM Plex Mono, avec ligatures et version variable. La 2.630 (5 oct.) ajoute les pictogrammes de contrôle ASCII, le surligné, des virgules et guillemets arrondis (ss05) et corrige ligatures et diacritiques. OFL 1.1, projet actif depuis 2019.",
+  "summary_en": "A coding font derived from IBM Plex Mono, with ligatures and a variable version. 2.630 (Oct 5) adds ASCII control pictures, an overline, rounded commas and quotes (ss05), and fixes ligature and diacritic alignment. OFL 1.1, active since 2019.",
+  "url": "https://github.com/mishamyrt/Lilex",
+  "tags": [
+   "ofl",
+   "variable",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — mishamyrt/Lilex 2.630",
+   "label_en": "GitHub — mishamyrt/Lilex 2.630",
+   "url": "https://github.com/mishamyrt/Lilex/releases/tag/2.630"
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "name": "Sarasa Gothic 1.0.42",
+  "name_en": "Sarasa Gothic 1.0.42",
+  "summary": "Une police composite qui marie Inter, Iosevka et Source Han Sans : latin et chinois, japonais, coréen alignés, dont des variantes à chasse fixe pour le terminal et le code. Version 1.0.42 du 26 sept., en TTF, TTC ou SuperTTC. OFL 1.1, projet mûr et très suivi.",
+  "summary_en": "A composite font combining Inter, Iosevka and Source Han Sans: Latin plus Chinese, Japanese and Korean that line up, including monospaced variants for terminals and code. Version 1.0.42 (Sep 26), as TTF, TTC or SuperTTC. OFL 1.1, mature and widely used.",
+  "url": "https://github.com/be5invis/Sarasa-Gothic",
+  "tags": [
+   "ofl",
+   "code",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — be5invis/Sarasa-Gothic v1.0.42",
+   "label_en": "GitHub — be5invis/Sarasa-Gothic v1.0.42",
+   "url": "https://github.com/be5invis/Sarasa-Gothic/releases/tag/v1.0.42"
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "name": "Noto Emoji — Unicode 18",
+  "name_en": "Noto Emoji — Unicode 18",
+  "summary": "La bibliothèque d'emojis libre de Google passe à Unicode 18 (24 sept.) : police couleur 2D v2.057, déclinaison 3D v3.054 livrée à part, plus les SVG et PNG sources. Une version monochrome variable existe aussi sur Google Fonts. Polices OFL 1.1, outils Apache 2.0.",
+  "summary_en": "Google's open emoji library moves to Unicode 18 (Sep 24): 2D color font v2.057, a 3D edition v3.054 shipped separately, plus the source SVGs and PNGs. A variable monochrome version is also on Google Fonts. Fonts under OFL 1.1, tools under Apache 2.0.",
+  "url": "https://github.com/googlefonts/noto-emoji",
+  "tags": [
+   "ofl",
+   "google-fonts",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — googlefonts/noto-emoji, release Unicode 18",
+   "label_en": "GitHub — googlefonts/noto-emoji, Unicode 18 release",
+   "url": "https://github.com/googlefonts/noto-emoji/releases/tag/v2026-09-24-unicode18_0"
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "name": "HarfBuzz 14.6.0",
+  "name_en": "HarfBuzz 14.6.0",
+  "summary": "Le moteur de mise en forme du texte derrière Chrome, Firefox, Android ou LibreOffice. La 14.6.0 (5 oct.) corrige une régression sur les ID de glyphes hors limites, gère la table DMAP et les variations de lookup FeatureVariations 1.1. Licence « Old MIT », projet de référence.",
+  "summary_en": "The text-shaping engine behind Chrome, Firefox, Android and LibreOffice. 14.6.0 (Oct 5) fixes a regression with out-of-range glyph IDs, and adds the DMAP table and FeatureVariations 1.1 lookup variations. \"Old MIT\" license, an industry reference.",
+  "url": "https://harfbuzz.github.io/",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — harfbuzz/harfbuzz 14.6.0",
+   "label_en": "GitHub — harfbuzz/harfbuzz 14.6.0",
+   "url": "https://github.com/harfbuzz/harfbuzz/releases/tag/14.6.0"
+  }
+ },
+ {
+  "date": "2026-10-21",
+  "name": "glyphsLib 6.16",
+  "name_en": "glyphsLib 6.16",
+  "summary": "La passerelle Python qui convertit les sources .glyphs en UFO et designspace, pour compiler avec fontmake sans ouvrir Glyphs. La 6.16 (8 oct.) place les corner components comme Glyphs 3.5, et la 6.16.1 (16 oct.) affine instances et zones d'alignement. Apache 2.0, projet mûr.",
+  "summary_en": "The Python bridge that converts .glyphs sources to UFO and designspace, so you can build with fontmake without opening Glyphs. 6.16 (Oct 8) places corner components like Glyphs 3.5, and 6.16.1 (Oct 16) refines instances and alignment zones. Apache 2.0, mature.",
+  "url": "https://github.com/googlefonts/glyphsLib",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — googlefonts/glyphsLib v6.16.1",
+   "label_en": "GitHub — googlefonts/glyphsLib v6.16.1",
+   "url": "https://github.com/googlefonts/glyphsLib/releases/tag/v6.16.1"
+  }
+ },
+ {
   "date": "2026-10-20",
   "name": "Google Sans Flex 5.000",
   "name_en": "Google Sans Flex 5.000",

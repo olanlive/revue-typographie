@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lilex 2.630</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-lilex-2-630</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-lilex-2-630</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Police de code dérivée d'IBM Plex Mono, avec ligatures et version variable. La 2.630 (5 oct.) ajoute les pictogrammes de contrôle ASCII, le surligné, des virgules et guillemets arrondis (ss05) et corrige ligatures et diacritiques. OFL 1.1, projet actif depuis 2019.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Sarasa Gothic 1.0.42</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-sarasa-gothic-1-0-42</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-sarasa-gothic-1-0-42</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Une police composite qui marie Inter, Iosevka et Source Han Sans : latin et chinois, japonais, coréen alignés, dont des variantes à chasse fixe pour le terminal et le code. Version 1.0.42 du 26 sept., en TTF, TTC ou SuperTTC. OFL 1.1, projet mûr et très suivi.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Noto Emoji — Unicode 18</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-noto-emoji-unicode-18</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-noto-emoji-unicode-18</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
+      <description>La bibliothèque d'emojis libre de Google passe à Unicode 18 (24 sept.) : police couleur 2D v2.057, déclinaison 3D v3.054 livrée à part, plus les SVG et PNG sources. Une version monochrome variable existe aussi sur Google Fonts. Polices OFL 1.1, outils Apache 2.0.</description>
+      <category>ofl</category>
+      <category>google-fonts</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>HarfBuzz 14.6.0</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-harfbuzz-14-6-0</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-harfbuzz-14-6-0</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Le moteur de mise en forme du texte derrière Chrome, Firefox, Android ou LibreOffice. La 14.6.0 (5 oct.) corrige une régression sur les ID de glyphes hors limites, gère la table DMAP et les variations de lookup FeatureVariations 1.1. Licence « Old MIT », projet de référence.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>glyphsLib 6.16</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-glyphslib-6-16</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-glyphslib-6-16</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
+      <description>La passerelle Python qui convertit les sources .glyphs en UFO et designspace, pour compiler avec fontmake sans ouvrir Glyphs. La 6.16 (8 oct.) place les corner components comme Glyphs 3.5, et la 6.16.1 (16 oct.) affine instances et zones d'alignement. Apache 2.0, projet mûr.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Google Sans Flex 5.000</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-20-google-sans-flex-5-000</link>
