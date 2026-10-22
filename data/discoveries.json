@@ -1,5 +1,116 @@
 [
  {
+  "date": "2026-10-22",
+  "name": "Clarity City",
+  "name_en": "Clarity City",
+  "summary": "Sans-serif géométrique née chez VMware pour son design system Clarity, désormais sur Google Fonts (sept. 2026) en variable : graisses 100 à 900 avec italiques. Une police d'interface sobre pour des maquettes, des outils ou un site. OFL 1.1, police éprouvée depuis 2019.",
+  "summary_en": "A geometric sans born at VMware for its Clarity design system, now on Google Fonts (Sep 2026) as a variable font: weights 100 to 900 with italics. A sober interface face for mockups, tools or a website. OFL 1.1, a proven font since 2019.",
+  "url": "https://fonts.google.com/specimen/Clarity+City",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "Google Fonts — nouveautés",
+   "label_en": "Google Fonts — new additions",
+   "url": "https://github.com/googlefonts/clarity-city"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "name": "Libre Caslon Condensed",
+  "name_en": "Libre Caslon Condensed",
+  "summary": "Un Caslon étroit dérivé de Libre Caslon Text, enfin sur Google Fonts : serif condensé variable (400 à 700) avec italiques, rare en libre. Idéal pour des titres élégants qui tiennent sur une ligne, affiches ou couvertures. OFL 1.1, projet suivi depuis 2023.",
+  "summary_en": "A narrow Caslon derived from Libre Caslon Text, now on Google Fonts: a variable condensed serif (400 to 700) with italics, rare among free fonts. Ideal for elegant headlines that fit on one line, posters or covers. OFL 1.1, maintained since 2023.",
+  "url": "https://github.com/ertekinno/libre-caslon-condensed",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — ertekinno/libre-caslon-condensed",
+   "label_en": "GitHub — ertekinno/libre-caslon-condensed",
+   "url": "https://fonts.google.com/specimen/Libre+Caslon+Condensed"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "name": "Kripa",
+  "name_en": "Kripa",
+  "summary": "Sans géométrique latin et devanagari au rythme commun : variable de 100 à 900, 20 variantes de caractères, ligatures facultatives, chiffres tabulaires. Utile pour une identité bilingue ou des titres chaleureux. OFL 1.1, toute jeune, arrivée sur Google Fonts en septembre.",
+  "summary_en": "A geometric sans for Latin and Devanagari sharing one rhythm: variable from 100 to 900, 20 character variants, discretionary ligatures, tabular figures. Handy for a bilingual identity or warm headlines. OFL 1.1, brand new, added to Google Fonts in September.",
+  "url": "https://github.com/kedar9/kripa",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "Google Fonts — nouveautés",
+   "label_en": "Google Fonts — new additions",
+   "url": "https://fonts.google.com/specimen/Kripa"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "name": "Isometra",
+  "name_en": "Isometra",
+  "summary": "Slab serif gras construit sur une grille isométrique à 60°, en une seule graisse. Pour un œil habitué à la 3D, un titrage qui a l'air modélisé : enseignes, logos, titres. OFL 1.1, projet récent (2025) entré sur Google Fonts en septembre 2026.",
+  "summary_en": "A bold slab serif built loosely on a 60-degree isometric grid, in a single weight. For an eye used to 3D, display type that looks modeled: signage, logos, titles. OFL 1.1, a recent project (2025) added to Google Fonts in September 2026.",
+  "url": "https://github.com/field2/isometra",
+  "tags": [
+   "ofl",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "Google Fonts — nouveautés",
+   "label_en": "Google Fonts — new additions",
+   "url": "https://fonts.google.com/specimen/Isometra"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "name": "Fontaine 1.0.2",
+  "name_en": "Fontaine 1.0.2",
+  "summary": "Outil JavaScript qui génère des polices de repli calées sur les métriques de la police web, pour éviter le saut de mise en page au chargement. La 1.0.2 (21 oct.) ajoute des replis Liberation compatibles en métriques et repère mieux les polices locales. MIT, projet unjs mûr.",
+  "summary_en": "A JavaScript tool that generates fallback fonts matched to your web font's metrics, so the layout doesn't jump while it loads. 1.0.2 (Oct 21) adds metric-compatible Liberation fallbacks and better matching of local fonts. MIT, a mature unjs project.",
+  "url": "https://github.com/unjs/fontaine",
+  "tags": [
+   "outil",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — unjs/fontaine 1.0.2",
+   "label_en": "GitHub — unjs/fontaine 1.0.2",
+   "url": "https://github.com/unjs/fontaine/releases/tag/release-2026-10-21"
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "name": "Capsize",
+  "name_en": "Capsize",
+  "summary": "Outil web et bibliothèque CSS qui rognent l'espace vide au-dessus et sous le texte grâce aux métriques de la police : un titre s'aligne enfin pile sur la grille. La mise à jour des métriques (15 oct.) couvre les nouveautés Google Fonts d'octobre. MIT, stable depuis 2020.",
+  "summary_en": "A web tool and CSS library that trim the empty space above and below text using the font's metrics, so headings finally sit exactly on the grid. The Oct 15 metrics update covers the October Google Fonts additions. MIT, stable since 2020.",
+  "url": "https://seek-oss.github.io/capsize/",
+  "tags": [
+   "outil",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — seek-oss/capsize",
+   "label_en": "GitHub — seek-oss/capsize",
+   "url": "https://github.com/seek-oss/capsize/releases"
+  }
+ },
+ {
   "date": "2026-10-21",
   "name": "Lilex 2.630",
   "name_en": "Lilex 2.630",

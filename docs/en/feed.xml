@@ -5,8 +5,71 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Clarity City</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-clarity-city</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-clarity-city</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A geometric sans born at VMware for its Clarity design system, now on Google Fonts (Sep 2026) as a variable font: weights 100 to 900 with italics. A sober interface face for mockups, tools or a website. OFL 1.1, a proven font since 2019.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Libre Caslon Condensed</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-libre-caslon-condensed</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-libre-caslon-condensed</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A narrow Caslon derived from Libre Caslon Text, now on Google Fonts: a variable condensed serif (400 to 700) with italics, rare among free fonts. Ideal for elegant headlines that fit on one line, posters or covers. OFL 1.1, maintained since 2023.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Kripa</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-kripa</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-kripa</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A geometric sans for Latin and Devanagari sharing one rhythm: variable from 100 to 900, 20 character variants, discretionary ligatures, tabular figures. Handy for a bilingual identity or warm headlines. OFL 1.1, brand new, added to Google Fonts in September.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Isometra</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-isometra</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-isometra</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A bold slab serif built loosely on a 60-degree isometric grid, in a single weight. For an eye used to 3D, display type that looks modeled: signage, logos, titles. OFL 1.1, a recent project (2025) added to Google Fonts in September 2026.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Fontaine 1.0.2</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-fontaine-1-0-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-fontaine-1-0-2</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A JavaScript tool that generates fallback fonts matched to your web font's metrics, so the layout doesn't jump while it loads. 1.0.2 (Oct 21) adds metric-compatible Liberation fallbacks and better matching of local fonts. MIT, a mature unjs project.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Capsize</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-capsize</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-capsize</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A web tool and CSS library that trim the empty space above and below text using the font's metrics, so headings finally sit exactly on the grid. The Oct 15 metrics update covers the October Google Fonts additions. MIT, stable since 2020.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Lilex 2.630</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-21-lilex-2-630</link>
