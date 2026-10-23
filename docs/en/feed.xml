@@ -5,8 +5,60 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kerberos 1.4</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-kerberos-1-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-kerberos-1-4</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A text serif in the Kis-Janson line, rare among free fonts: four variable axes (weight 300-700, optical size 8-72 pt, grade, lowercase height), small caps, ligatures, Latin, Greek and Cyrillic. For long reading on screen or in PDFs. OFL 1.1, a young project (Oct 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Vavin 1.1</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-vavin-1-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-vavin-1-1</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A Garamond for screens: derived from EB Garamond, with an x-height raised by 16% (0.72 of the cap height). Nine styles in three families, including a condensed and a display one, 503 Latin languages. Readable at small sizes, still classic. OFL 1.1, version 1.1 out Oct 2026.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Agràve Pro</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-agrave-pro</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-agrave-pro</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A handwriting face designed for longer texts: open counters, even strokes, small caps and figure sets. Variable (weight 100-700), it was just merged into the Google Fonts repository. For a handwritten touch that stays readable. OFL 1.1, version 1.100, a 2026 project.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Punctum — a variable dot-matrix font</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-punctum-matrice-de-points-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-punctum-matrice-de-points-variable</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A 5x7 dot-matrix font with two axes: dot size (from pinhole LED to touching dots) and shape (round to square pixel). One continuous grid, real descenders, 108 ASCII characters plus arrows. Great for info boards, HUDs or retro posters. OFL 1.1, version 1.000 (Oct 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Furifont 0.6</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-furifont-0-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-furifont-0-6</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A Japanese font that shows furigana above kanji by itself, with no ruby markup or JavaScript, using ligatures. Derived from Source Han Sans and Serif, with a variable version and a CLI to build your own variant. Fonts OFL 1.1, code MIT; a young project (0.6.2, Oct 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>web</category>
+      <category>outil</category>
+    </item>
     <item>
       <title>Clarity City</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-clarity-city</link>

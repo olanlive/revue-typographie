@@ -1,5 +1,97 @@
 [
  {
+  "date": "2026-10-23",
+  "name": "Kerberos 1.4",
+  "name_en": "Kerberos 1.4",
+  "summary": "Serif de labeur de la lignée Kis-Janson, rare en libre : quatre axes (graisse 300 à 700, taille optique 8 à 72 pt, grade, hauteur d'x), petites capitales, ligatures, latin, grec, cyrillique. Pour de longs textes à l'écran ou en PDF. OFL 1.1, projet jeune (oct. 2026).",
+  "summary_en": "A text serif in the Kis-Janson line, rare among free fonts: four variable axes (weight 300-700, optical size 8-72 pt, grade, lowercase height), small caps, ligatures, Latin, Greek and Cyrillic. For long reading on screen or in PDFs. OFL 1.1, a young project (Oct 2026).",
+  "url": "https://jul-sh.github.io/Kerberos/",
+  "tags": [
+   "ofl",
+   "variable",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — jul-sh/Kerberos",
+   "label_en": "GitHub — jul-sh/Kerberos",
+   "url": "https://github.com/jul-sh/Kerberos/releases"
+  }
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Vavin 1.1",
+  "name_en": "Vavin 1.1",
+  "summary": "Un Garamond pour l'écran : dérivé d'EB Garamond, avec une hauteur d'x relevée de 16 % (0,72 de la capitale). Neuf styles en trois familles, dont une condensée et une de titrage, 503 langues latines. Lisible en petit corps. OFL 1.1, version 1.1 sortie en oct. 2026.",
+  "summary_en": "A Garamond for screens: derived from EB Garamond, with an x-height raised by 16% (0.72 of the cap height). Nine styles in three families, including a condensed and a display one, 503 Latin languages. Readable at small sizes, still classic. OFL 1.1, version 1.1 out Oct 2026.",
+  "url": "https://adrbn.github.io/vavin/",
+  "tags": [
+   "ofl",
+   "lisibilite",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — adrbn/vavin",
+   "label_en": "GitHub — adrbn/vavin",
+   "url": "https://github.com/adrbn/vavin"
+  }
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Agràve Pro",
+  "name_en": "Agràve Pro",
+  "summary": "Manuscrite pensée pour les textes longs : contrepoinçons ouverts, traits réguliers, petites capitales et jeux de chiffres. Variable (graisse 100 à 700), elle vient d'être intégrée au dépôt Google Fonts. Une touche manuscrite lisible. OFL 1.1, version 1.100, projet de 2026.",
+  "summary_en": "A handwriting face designed for longer texts: open counters, even strokes, small caps and figure sets. Variable (weight 100-700), it was just merged into the Google Fonts repository. For a handwritten touch that stays readable. OFL 1.1, version 1.100, a 2026 project.",
+  "url": "https://daanjobsis.github.io/agrave-pro/",
+  "tags": [
+   "ofl",
+   "variable",
+   "lisibilite",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts",
+   "label_en": "GitHub — google/fonts",
+   "url": "https://github.com/google/fonts/pull/11093"
+  }
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Punctum — matrice de points variable",
+  "name_en": "Punctum — a variable dot-matrix font",
+  "summary": "Police matricielle 5×7 à deux axes : taille des points (de la LED fine aux points jointifs) et forme (rond vers pixel carré). Une seule grille continue, vrais jambages, 108 caractères. Pour écrans d'info, HUD ou affiches rétro. OFL 1.1, version 1.000 (oct. 2026).",
+  "summary_en": "A 5x7 dot-matrix font with two axes: dot size (from pinhole LED to touching dots) and shape (round to square pixel). One continuous grid, real descenders, 108 ASCII characters plus arrows. Great for info boards, HUDs or retro posters. OFL 1.1, version 1.000 (Oct 2026).",
+  "url": "https://sundyme.github.io/punctum/",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — sundyme/punctum",
+   "label_en": "GitHub — sundyme/punctum",
+   "url": "https://github.com/sundyme/punctum"
+  }
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Furifont 0.6",
+  "name_en": "Furifont 0.6",
+  "summary": "Police japonaise affichant seule les furigana au-dessus des kanji, sans balise ruby ni JavaScript, via des ligatures. Dérivée de Source Han Sans et Serif, avec une version variable et une CLI pour créer sa variante. Polices OFL 1.1, code MIT ; jeune projet (0.6.2, oct. 2026).",
+  "summary_en": "A Japanese font that shows furigana above kanji by itself, with no ruby markup or JavaScript, using ligatures. Derived from Source Han Sans and Serif, with a variable version and a CLI to build your own variant. Fonts OFL 1.1, code MIT; a young project (0.6.2, Oct 2026).",
+  "url": "https://furifont.antfu.me/",
+  "tags": [
+   "ofl",
+   "variable",
+   "web",
+   "outil"
+  ],
+  "source": {
+   "label": "GitHub — antfu/furifont",
+   "label_en": "GitHub — antfu/furifont",
+   "url": "https://github.com/antfu/furifont"
+  }
+ },
+ {
   "date": "2026-10-22",
   "name": "Clarity City",
   "name_en": "Clarity City",

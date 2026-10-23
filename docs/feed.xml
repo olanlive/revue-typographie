@@ -5,8 +5,60 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kerberos 1.4</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-kerberos-1-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-kerberos-1-4</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Serif de labeur de la lignée Kis-Janson, rare en libre : quatre axes (graisse 300 à 700, taille optique 8 à 72 pt, grade, hauteur d'x), petites capitales, ligatures, latin, grec, cyrillique. Pour de longs textes à l'écran ou en PDF. OFL 1.1, projet jeune (oct. 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Vavin 1.1</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-vavin-1-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-vavin-1-1</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Un Garamond pour l'écran : dérivé d'EB Garamond, avec une hauteur d'x relevée de 16 % (0,72 de la capitale). Neuf styles en trois familles, dont une condensée et une de titrage, 503 langues latines. Lisible en petit corps. OFL 1.1, version 1.1 sortie en oct. 2026.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Agràve Pro</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-agrave-pro</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-agrave-pro</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Manuscrite pensée pour les textes longs : contrepoinçons ouverts, traits réguliers, petites capitales et jeux de chiffres. Variable (graisse 100 à 700), elle vient d'être intégrée au dépôt Google Fonts. Une touche manuscrite lisible. OFL 1.1, version 1.100, projet de 2026.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Punctum — matrice de points variable</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-punctum-matrice-de-points-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-punctum-matrice-de-points-variable</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Police matricielle 5×7 à deux axes : taille des points (de la LED fine aux points jointifs) et forme (rond vers pixel carré). Une seule grille continue, vrais jambages, 108 caractères. Pour écrans d'info, HUD ou affiches rétro. OFL 1.1, version 1.000 (oct. 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Furifont 0.6</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-furifont-0-6</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-furifont-0-6</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
+      <description>Police japonaise affichant seule les furigana au-dessus des kanji, sans balise ruby ni JavaScript, via des ligatures. Dérivée de Source Han Sans et Serif, avec une version variable et une CLI pour créer sa variante. Polices OFL 1.1, code MIT ; jeune projet (0.6.2, oct. 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>web</category>
+      <category>outil</category>
+    </item>
     <item>
       <title>Clarity City</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-22-clarity-city</link>
