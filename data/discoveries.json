@@ -1,5 +1,76 @@
 [
  {
+  "date": "2026-10-24",
+  "name": "Nordwand Mono 1.3.4",
+  "name_en": "Nordwand Mono 1.3.4",
+  "summary": "Mono compacte néo-grotesque : l'esprit d'Univers dans les proportions de JetBrains Mono. Sept graisses avec italiques, zéro hexagonal et glyphes alternatifs, ligatures discrètes en option, version Nerd Font à compiler. Licence MIT, projet de 2026, versions fréquentes.",
+  "summary_en": "A compact neo-grotesque monospace: the spirit of Univers in JetBrains Mono's proportions. Seven weights with italics, hexagonal zero and alternate glyphs, optional subtle ligatures, a Nerd Font build you compile yourself. MIT license, a 2026 project with frequent releases.",
+  "url": "https://github.com/tywr/Nordwand-Mono",
+  "tags": [
+   "code",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — tywr/Nordwand-Mono",
+   "label_en": "GitHub — tywr/Nordwand-Mono",
+   "url": "https://github.com/tywr/Nordwand-Mono/releases"
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Ioskeley Mono 2.2",
+  "name_en": "Ioskeley Mono 2.2",
+  "summary": "Police de code bâtie sur Iosevka, compacte et géométrique : dix graisses, deux chasses, romain et italique. Trois familles (éditeur, terminal, sans ligatures) et des versions Nerd Font prêtes à l'emploi pour VS Code, Zed, kitty ou Ghostty. OFL 1.1, v2.2 sortie le 21 oct. 2026.",
+  "summary_en": "A coding font built on Iosevka, compact and geometric: ten weights, two widths, upright and italic. Three families (editor, terminal, no ligatures) and ready-made Nerd Font builds for VS Code, Zed, kitty or Ghostty. OFL 1.1, v2.2 released Oct 21, 2026.",
+  "url": "https://ahatem.github.io/IoskeleyMono/",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — ahatem/IoskeleyMono",
+   "label_en": "GitHub — ahatem/IoskeleyMono",
+   "url": "https://github.com/ahatem/IoskeleyMono/releases"
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Buena Mono 1.240",
+  "name_en": "Buena Mono 1.240",
+  "summary": "Mono variable pensée pour écrire autant que coder (Markdown, notes) : axes graisse 100 à 800 et inclinaison 0 à −10°, 5 406 glyphes, 971 langues, ligatures de code. Dérivée de Fragment Mono. OFL 1.1, aussi sur npm ; projet jeune (août 2026), v1.240 du 7 oct.",
+  "summary_en": "A variable monospace designed for writing as much as coding (Markdown, notes): weight axis 100-800 and slant 0 to -10°, 5,406 glyphs, 971 languages, coding ligatures. Derived from Fragment Mono. OFL 1.1, also on npm; a young project (Aug 2026), v1.240 out Oct 7.",
+  "url": "https://buena-mono.buenalabs.io",
+  "tags": [
+   "ofl",
+   "variable",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — buenagames/buena-mono",
+   "label_en": "GitHub — buenagames/buena-mono",
+   "url": "https://github.com/buenagames/buena-mono/releases"
+  }
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Runebender — éditeur de fontes en Rust",
+  "name_en": "Runebender — a font editor in Rust",
+  "summary": "Éditeur de fontes libre pour sources UFO et designspace : tracés, approche et crénage, polices variables, code des fonctions OpenType. Fonctionne sous macOS et Linux, à compiler avec Cargo. Apache 2.0, gratuit. Expérimental (v0.1), mais développé très activement.",
+  "summary_en": "A free font editor for UFO and designspace sources: outlines, spacing and kerning, variable fonts, OpenType feature code. Runs on macOS and Linux, built from source with Cargo. Apache 2.0, free. Experimental (v0.1), but under very active development.",
+  "url": "https://runebender.org",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — fontgarden/runebender",
+   "label_en": "GitHub — fontgarden/runebender",
+   "url": "https://github.com/fontgarden/runebender"
+  }
+ },
+ {
   "date": "2026-10-23",
   "name": "Kerberos 1.4",
   "name_en": "Kerberos 1.4",

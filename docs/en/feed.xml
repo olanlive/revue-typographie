@@ -5,8 +5,47 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0200</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nordwand Mono 1.3.4</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-nordwand-mono-1-3-4</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-nordwand-mono-1-3-4</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A compact neo-grotesque monospace: the spirit of Univers in JetBrains Mono's proportions. Seven weights with italics, hexagonal zero and alternate glyphs, optional subtle ligatures, a Nerd Font build you compile yourself. MIT license, a 2026 project with frequent releases.</description>
+      <category>code</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Ioskeley Mono 2.2</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-ioskeley-mono-2-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-ioskeley-mono-2-2</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A coding font built on Iosevka, compact and geometric: ten weights, two widths, upright and italic. Three families (editor, terminal, no ligatures) and ready-made Nerd Font builds for VS Code, Zed, kitty or Ghostty. OFL 1.1, v2.2 released Oct 21, 2026.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Buena Mono 1.240</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-buena-mono-1-240</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-buena-mono-1-240</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A variable monospace designed for writing as much as coding (Markdown, notes): weight axis 100-800 and slant 0 to -10°, 5,406 glyphs, 971 languages, coding ligatures. Derived from Fragment Mono. OFL 1.1, also on npm; a young project (Aug 2026), v1.240 out Oct 7.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Runebender — a font editor in Rust</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-runebender-editeur-de-fontes-en-rust</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-runebender-editeur-de-fontes-en-rust</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
+      <description>A free font editor for UFO and designspace sources: outlines, spacing and kerning, variable fonts, OpenType feature code. Runs on macOS and Linux, built from source with Cargo. Apache 2.0, free. Experimental (v0.1), but under very active development.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+      <category>variable</category>
+    </item>
     <item>
       <title>Kerberos 1.4</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-kerberos-1-4</link>
