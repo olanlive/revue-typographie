@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FontGoggles 1.9.5</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-fontgoggles-1-9-5</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-25-fontgoggles-1-9-5</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Free macOS viewer: drop in fonts (OTF, TTF, variable, UFO, designspace) to compare rendering, OpenType features and axes. 1.9.5 moves to HarfBuzz 14.6.0 and adds Cmd-R to reload every font. Apache 2.0, a mature tool since 2019.</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Hyperglot 0.8.2</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-hyperglot-0-8-2</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-25-hyperglot-0-8-2</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A database and tool (web, command line, Python) that tells you which languages a font really supports: 783 languages documented. Handy before picking a font for a multilingual project. 0.8.2 adds several Brazilian languages. Apache 2.0, active project.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>FontFreeze — freeze a variable font</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-fontfreeze-figer-une-fonte-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-25-fontfreeze-figer-une-fonte-variable</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A web app that bakes an axis position and OpenType features (ligatures, alternates) into a new TTF or WOFF2 font. Useful for apps that only let you pick a family and a size. Everything runs in the browser. MIT, free, maintained since 2022.</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Composite Font Studio</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-composite-font-studio</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-25-composite-font-studio</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Builds a mixed CJK + Latin font the way InDesign composite fonts work: size, baseline and weight tuned per character class. Exports CSS or TTF/OTF/WOFF2, without uploading your files. MIT, free; a very young project (October 2026).</description>
+      <category>outil</category>
+      <category>appairage</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Gen Interface JP 0.8.1</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-gen-interface-jp-0-8-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-25-gen-interface-jp-0-8-1</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A UI typeface blending Inter and Noto Sans JP so Latin and Japanese sit together, in two families (text and display) and eight weights, with subsetted webfonts on jsDelivr. 0.8.1 fixes per-weight baselines. Fonts under OFL, a 2026 project.</description>
+      <category>ui</category>
+      <category>ofl</category>
+      <category>appairage</category>
+    </item>
     <item>
       <title>Nordwand Mono 1.3.4</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-nordwand-mono-1-3-4</link>

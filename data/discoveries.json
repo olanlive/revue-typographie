@@ -1,5 +1,94 @@
 [
  {
+  "date": "2026-10-25",
+  "name": "FontGoggles 1.9.5",
+  "name_en": "FontGoggles 1.9.5",
+  "summary": "Visionneuse gratuite pour macOS : glisser des fontes (OTF, TTF, variables, UFO, designspace) pour comparer leur rendu, leurs fonctionnalités OpenType et leurs axes. La 1.9.5 passe à HarfBuzz 14.6.0 et ajoute Cmd-R pour tout recharger. Apache 2.0, outil mûr depuis 2019.",
+  "summary_en": "Free macOS viewer: drop in fonts (OTF, TTF, variable, UFO, designspace) to compare rendering, OpenType features and axes. 1.9.5 moves to HarfBuzz 14.6.0 and adds Cmd-R to reload every font. Apache 2.0, a mature tool since 2019.",
+  "url": "https://fontgoggles.org/",
+  "tags": [
+   "outil",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — justvanrossum/fontgoggles",
+   "label_en": "GitHub — justvanrossum/fontgoggles",
+   "url": "https://github.com/justvanrossum/fontgoggles/releases/tag/v1.9.5"
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "name": "Hyperglot 0.8.2",
+  "name_en": "Hyperglot 0.8.2",
+  "summary": "Base de données et outil (web, ligne de commande, Python) qui dit quelles langues une fonte couvre vraiment : 783 langues documentées. Pratique avant de choisir une police pour un projet multilingue. La 0.8.2 ajoute des langues du Brésil. Apache 2.0, projet actif.",
+  "summary_en": "A database and tool (web, command line, Python) that tells you which languages a font really supports: 783 languages documented. Handy before picking a font for a multilingual project. 0.8.2 adds several Brazilian languages. Apache 2.0, active project.",
+  "url": "https://hyperglot.rosettatype.com/",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — rosettatype/hyperglot",
+   "label_en": "GitHub — rosettatype/hyperglot",
+   "url": "https://github.com/rosettatype/hyperglot/releases/tag/0.8.2"
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "name": "FontFreeze — figer une fonte variable",
+  "name_en": "FontFreeze — freeze a variable font",
+  "summary": "Appli web qui fige une position d'axes et des fonctionnalités OpenType (ligatures, variantes) dans une nouvelle fonte TTF ou WOFF2. Utile pour les logiciels qui ne savent choisir qu'une famille et une taille. Tout se fait dans le navigateur. MIT, gratuit, maintenu depuis 2022.",
+  "summary_en": "A web app that bakes an axis position and OpenType features (ligatures, alternates) into a new TTF or WOFF2 font. Useful for apps that only let you pick a family and a size. Everything runs in the browser. MIT, free, maintained since 2022.",
+  "url": "https://mutsuntsai.github.io/fontfreeze/",
+  "tags": [
+   "outil",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — MuTsunTsai/fontfreeze",
+   "label_en": "GitHub — MuTsunTsai/fontfreeze",
+   "url": "https://github.com/MuTsunTsai/fontfreeze"
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "name": "Composite Font Studio",
+  "name_en": "Composite Font Studio",
+  "summary": "Compose une fonte mixte CJK + latin à la manière des fontes composites d'InDesign : taille, ligne de base et graisse réglées par classe de caractères. Export CSS ou TTF/OTF/WOFF2, sans envoi des fichiers. MIT, gratuit ; projet très jeune (octobre 2026).",
+  "summary_en": "Builds a mixed CJK + Latin font the way InDesign composite fonts work: size, baseline and weight tuned per character class. Exports CSS or TTF/OTF/WOFF2, without uploading your files. MIT, free; a very young project (October 2026).",
+  "url": "https://charlie5188.github.io/css-composite-font/",
+  "tags": [
+   "outil",
+   "appairage",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — charlie5188/css-composite-font",
+   "label_en": "GitHub — charlie5188/css-composite-font",
+   "url": "https://github.com/charlie5188/css-composite-font"
+  }
+ },
+ {
+  "date": "2026-10-25",
+  "name": "Gen Interface JP 0.8.1",
+  "name_en": "Gen Interface JP 0.8.1",
+  "summary": "Fonte d'interface qui marie Inter et Noto Sans JP pour un latin et un japonais harmonisés, en deux familles (texte et titrage) et huit graisses, avec webfonts découpées sur jsDelivr. La 0.8.1 corrige les lignes de base par graisse. Fontes OFL, projet de 2026.",
+  "summary_en": "A UI typeface blending Inter and Noto Sans JP so Latin and Japanese sit together, in two families (text and display) and eight weights, with subsetted webfonts on jsDelivr. 0.8.1 fixes per-weight baselines. Fonts under OFL, a 2026 project.",
+  "url": "https://gen.typesetting.jp/",
+  "tags": [
+   "ui",
+   "ofl",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — yamatoiizuka/gen-interface-jp",
+   "label_en": "GitHub — yamatoiizuka/gen-interface-jp",
+   "url": "https://github.com/yamatoiizuka/gen-interface-jp/releases/tag/v0.8.1"
+  }
+ },
+ {
   "date": "2026-10-24",
   "name": "Nordwand Mono 1.3.4",
   "name_en": "Nordwand Mono 1.3.4",
