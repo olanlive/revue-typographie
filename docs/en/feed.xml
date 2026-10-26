@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kibernetyk Mono 1.0.1</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-26-kibernetyk-mono-1-0-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-26-kibernetyk-mono-1-0-1</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Geometric monospace inspired by the Ukrainian Cybernetics School: 7 weights, Latin and Cyrillic, and since 1.0 the 128 box-drawing characters plus block elements, handy in terminals and TUIs. OFL 1.1, a young project (v1.0 on 18 October).</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Shift 0.1.1 — éditeur de fontes multiplateforme</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-26-shift-0-1-1-editeur-de-fontes-multiplateforme</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-26-shift-0-1-1-editeur-de-fontes-multiplateforme</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Font editor in Rust and TypeScript for macOS, Windows and Linux: outline drawing, variable fonts (axes, sources, instances), components, UFO, Designspace and Glyphs import, variable TrueType export. Kerning is planned. Apache 2.0, first alpha: work on copies.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>FontYar 1.0 — gestionnaire de fontes local</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-26-fontyar-1-0-gestionnaire-de-fontes-local</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-26-fontyar-1-0-gestionnaire-de-fontes-local</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Offline Tauri/Rust font manager (Windows, Linux, macOS): scans folders of TTF, OTF and WOFF2, flags duplicates, previews your own text, live weight slider for variable fonts, exports @font-face CSS or a ZIP. Interface built with Persian in mind. MIT, brand-new v1.0.</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>C64 Keyboard 1.112</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-26-c64-keyboard-1-112</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-26-c64-keyboard-1-112</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Display font rebuilt from photos of Commodore 64 keycaps: capitals, f1 to f12 key labels and all 63 PETSCII graphics, with an online tester. Ideal for retro-computing visuals. Public domain (CC0), TTF, OTF and WOFF2, an October 2026 project.</description>
+      <category>display</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>LXGW Bright 26.10.22</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-26-lxgw-bright-26-10-22</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-26-lxgw-bright-26-10-22</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A ready-made merge of the humanist Latin Ysabeau and the Chinese LXGW WenKai: an already balanced Latin-CJK pairing, in Simplified (GB) and Traditional (TC) editions. The 22 October release tracks WenKai 1.530. OFL 1.1, maintained since 2022.</description>
+      <category>ofl</category>
+      <category>appairage</category>
+      <category>lisibilite</category>
+    </item>
     <item>
       <title>FontGoggles 1.9.5</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-25-fontgoggles-1-9-5</link>

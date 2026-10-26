@@ -1,5 +1,95 @@
 [
  {
+  "date": "2026-10-26",
+  "name": "Kibernetyk Mono 1.0.1",
+  "name_en": "Kibernetyk Mono 1.0.1",
+  "summary": "Monospace géométrique inspirée de l'école cybernétique ukrainienne : 7 graisses, latin et cyrillique, et depuis la 1.0 les 128 caractères de dessin de boîtes et les blocs, utiles en terminal et pour les TUI. OFL 1.1, projet récent (v1.0 le 18 octobre).",
+  "summary_en": "Geometric monospace inspired by the Ukrainian Cybernetics School: 7 weights, Latin and Cyrillic, and since 1.0 the 128 box-drawing characters plus block elements, handy in terminals and TUIs. OFL 1.1, a young project (v1.0 on 18 October).",
+  "url": "https://pavlokilko.github.io/KibernetykMono/",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — PavloKilko/KibernetykMono",
+   "label_en": "GitHub — PavloKilko/KibernetykMono",
+   "url": "https://github.com/PavloKilko/KibernetykMono/releases/tag/v1.0.1"
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Shift 0.1.1 — éditeur de fontes multiplateforme",
+  "name_en": "Shift 0.1.1 — éditeur de fontes multiplateforme",
+  "summary": "Éditeur de fontes en Rust et TypeScript pour macOS, Windows et Linux : tracé des contours, fontes variables (axes, sources, instances), composants, import UFO, Designspace et Glyphs, export TrueType variable. Crénage prévu. Apache 2.0, première alpha : travailler sur des copies.",
+  "summary_en": "Font editor in Rust and TypeScript for macOS, Windows and Linux: outline drawing, variable fonts (axes, sources, instances), components, UFO, Designspace and Glyphs import, variable TrueType export. Kerning is planned. Apache 2.0, first alpha: work on copies.",
+  "url": "https://shift.graphics/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — shift-editor/shift",
+   "label_en": "GitHub — shift-editor/shift",
+   "url": "https://github.com/shift-editor/shift/releases/tag/v0.1.1"
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "name": "FontYar 1.0 — gestionnaire de fontes local",
+  "name_en": "FontYar 1.0 — gestionnaire de fontes local",
+  "summary": "Gestionnaire de fontes Tauri/Rust hors ligne (Windows, Linux, macOS) : scan de dossiers TTF, OTF, WOFF2, détection des doublons, aperçu avec son texte, curseur de graisse pour les variables, export @font-face ou ZIP. Interface pensée pour le persan. MIT, v1.0 toute neuve.",
+  "summary_en": "Offline Tauri/Rust font manager (Windows, Linux, macOS): scans folders of TTF, OTF and WOFF2, flags duplicates, previews your own text, live weight slider for variable fonts, exports @font-face CSS or a ZIP. Interface built with Persian in mind. MIT, brand-new v1.0.",
+  "url": "https://github.com/A-talebifard/fontyar",
+  "tags": [
+   "outil",
+   "variable",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — A-talebifard/fontyar",
+   "label_en": "GitHub — A-talebifard/fontyar",
+   "url": "https://github.com/A-talebifard/fontyar/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "name": "C64 Keyboard 1.112",
+  "name_en": "C64 Keyboard 1.112",
+  "summary": "Police de titrage reconstruite à partir de photos des touches d'un Commodore 64 : capitales, touches f1 à f12 et les 63 symboles PETSCII, avec testeur en ligne. Parfaite pour un visuel rétro-informatique. Domaine public (CC0), TTF, OTF et WOFF2, projet d'octobre 2026.",
+  "summary_en": "Display font rebuilt from photos of Commodore 64 keycaps: capitals, f1 to f12 key labels and all 63 PETSCII graphics, with an online tester. Ideal for retro-computing visuals. Public domain (CC0), TTF, OTF and WOFF2, an October 2026 project.",
+  "url": "https://szabadkai.github.io/c64-keyboard-font/",
+  "tags": [
+   "display",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — szabadkai/c64-keyboard-font",
+   "label_en": "GitHub — szabadkai/c64-keyboard-font",
+   "url": "https://github.com/szabadkai/c64-keyboard-font/releases/tag/v1.112"
+  }
+ },
+ {
+  "date": "2026-10-26",
+  "name": "LXGW Bright 26.10.22",
+  "name_en": "LXGW Bright 26.10.22",
+  "summary": "Fusion prête à l'emploi du latin humaniste Ysabeau et du chinois LXGW WenKai : un appairage latin-CJK déjà équilibré, en versions simplifiée (GB) et traditionnelle (TC). La version du 22 octobre suit WenKai 1.530. OFL 1.1, projet suivi depuis 2022.",
+  "summary_en": "A ready-made merge of the humanist Latin Ysabeau and the Chinese LXGW WenKai: an already balanced Latin-CJK pairing, in Simplified (GB) and Traditional (TC) editions. The 22 October release tracks WenKai 1.530. OFL 1.1, maintained since 2022.",
+  "url": "https://github.com/lxgw/LxgwBright",
+  "tags": [
+   "ofl",
+   "appairage",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — lxgw/LxgwBright",
+   "label_en": "GitHub — lxgw/LxgwBright",
+   "url": "https://github.com/lxgw/LxgwBright/releases/tag/26.10.22"
+  }
+ },
+ {
   "date": "2026-10-25",
   "name": "FontGoggles 1.9.5",
   "name_en": "FontGoggles 1.9.5",
