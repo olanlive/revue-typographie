@@ -5,8 +5,51 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BRND ProType 1.1</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-brnd-protype-1-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-brnd-protype-1-1</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Superfamille néo-grotesque vénézuélienne : 49 styles en Condensed, Normal, Extended et Mono, 7 graisses, italiques, et 3 variables (graisse 300 à 900, chasse 88 à 114,5). La 1.1 ajoute ProDigit (LCD) et ProLed (matrice 5×7). OFL 1.1, publiée le 25 octobre.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>ZFontManager 0.8.1 — gestionnaire de fontes</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-zfontmanager-0-8-1-gestionnaire-de-fontes</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-zfontmanager-0-8-1-gestionnaire-de-fontes</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire de fontes Tauri/Rust pour Linux, Windows et macOS : aperçus en direct, activation et désactivation en un clic, tags, collections, comparaison côte à côte, spécimens, catalogue Google Fonts intégré. Tout reste en local. GPL-3.0, jeune projet (v0.8.1 du 26 oct.).</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Counterpunch — éditeur de fontes dans le navigateur</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-counterpunch-editeur-de-fontes-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-counterpunch-editeur-de-fontes-dans-le-navigateur</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Éditeur de fontes variables et d’écritures complexes, sans installation : compilation en direct avec HarfBuzz, texte bidirectionnel, composants éditables sur place. Importe Glyphs, UFO, VFJ, SFD. GPL-3.0, gratuit (IA en option payante). Alpha, préversions quasi quotidiennes.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>bited 0.3.0 — éditeur de fontes bitmap</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-bited-0-3-0-editeur-de-fontes-bitmap</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-bited-0-3-0-editeur-de-fontes-bitmap</guid>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Éditeur de polices pixel (BDF Unicode monochromes) construit avec Godot : outils de dessin composables, aperçu avec textes de test, générateurs, mode clair et sombre. La 0.3.0 passe le cœur bitmap en Rust et refait l'aperçu. MIT, en développement actif depuis 2024.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>display</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Kibernetyk Mono 1.0.1</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-26-kibernetyk-mono-1-0-1</link>

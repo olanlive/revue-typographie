@@ -1,5 +1,80 @@
 [
  {
+  "date": "2026-10-27",
+  "name": "BRND ProType 1.1",
+  "name_en": "BRND ProType 1.1",
+  "summary": "Superfamille néo-grotesque vénézuélienne : 49 styles en Condensed, Normal, Extended et Mono, 7 graisses, italiques, et 3 variables (graisse 300 à 900, chasse 88 à 114,5). La 1.1 ajoute ProDigit (LCD) et ProLed (matrice 5×7). OFL 1.1, publiée le 25 octobre.",
+  "summary_en": "Venezuelan neo-grotesque superfamily: 49 styles across Condensed, Normal, Extended and Mono, 7 weights, italics, and 3 variable fonts (weight 300 to 900, width 88 to 114.5). Version 1.1 adds ProDigit (LCD) and ProLed (5×7 dot matrix). OFL 1.1, released 25 October.",
+  "url": "https://www.brndconsulting.com/post/brnd-protype-grid-system",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — brndconsulting/brnd-protype-font",
+   "label_en": "GitHub — brndconsulting/brnd-protype-font",
+   "url": "https://github.com/brndconsulting/brnd-protype-font/releases/tag/v1.1"
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "name": "ZFontManager 0.8.1 — gestionnaire de fontes",
+  "name_en": "ZFontManager 0.8.1 — font manager",
+  "summary": "Gestionnaire de fontes Tauri/Rust pour Linux, Windows et macOS : aperçus en direct, activation et désactivation en un clic, tags, collections, comparaison côte à côte, spécimens, catalogue Google Fonts intégré. Tout reste en local. GPL-3.0, jeune projet (v0.8.1 du 26 oct.).",
+  "summary_en": "Tauri/Rust font manager for Linux, Windows and macOS: live previews, one-click activate and deactivate, tags, collections, side-by-side compare, specimen sheets, built-in Google Fonts browser. Everything stays local. GPL-3.0, a young project (v0.8.1 on 26 Oct).",
+  "url": "https://zsync.eu/zfontmanager/",
+  "tags": [
+   "outil",
+   "libre",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — TheHolyOneZ/ZFontManager",
+   "label_en": "GitHub — TheHolyOneZ/ZFontManager",
+   "url": "https://github.com/TheHolyOneZ/ZFontManager/releases/tag/v0.8.1"
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Counterpunch — éditeur de fontes dans le navigateur",
+  "name_en": "Counterpunch — browser-based font editor",
+  "summary": "Éditeur de fontes variables et d’écritures complexes, sans installation : compilation en direct avec HarfBuzz, texte bidirectionnel, composants éditables sur place. Importe Glyphs, UFO, VFJ, SFD. GPL-3.0, gratuit (IA en option payante). Alpha, préversions quasi quotidiennes.",
+  "summary_en": "Editor for variable and complex-script fonts, no install needed: live compilation with HarfBuzz shaping, bidirectional text, in-place component editing. Opens Glyphs, UFO, Designspace, VFJ and SFD. GPL-3.0, free (paid AI add-on). Alpha: near-daily preview builds.",
+  "url": "https://counterpunch.space/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — counterpunchspace/editor",
+   "label_en": "GitHub — counterpunchspace/editor",
+   "url": "https://github.com/counterpunchspace/editor/releases"
+  }
+ },
+ {
+  "date": "2026-10-27",
+  "name": "bited 0.3.0 — éditeur de fontes bitmap",
+  "name_en": "bited 0.3.0 — bitmap font editor",
+  "summary": "Éditeur de polices pixel (BDF Unicode monochromes) construit avec Godot : outils de dessin composables, aperçu avec textes de test, générateurs, mode clair et sombre. La 0.3.0 passe le cœur bitmap en Rust et refait l'aperçu. MIT, en développement actif depuis 2024.",
+  "summary_en": "Pixel font editor (monochrome Unicode BDF) built with Godot: composable drawing tools, preview with test-text presets, generators, light and dark modes. Version 0.3.0 moves the bitmap core to Rust and reworks the preview. MIT, under active development since 2024.",
+  "url": "https://benpa.ng/bited/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "display",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — molarmanful/bited",
+   "label_en": "GitHub — molarmanful/bited",
+   "url": "https://github.com/molarmanful/bited/releases/tag/v0.3.0"
+  }
+ },
+ {
   "date": "2026-10-26",
   "name": "Kibernetyk Mono 1.0.1",
   "name_en": "Kibernetyk Mono 1.0.1",
