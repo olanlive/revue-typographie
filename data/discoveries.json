@@ -1,5 +1,96 @@
 [
  {
+  "date": "2026-10-28",
+  "name": "Medeo — Sans, Mono et Pixel",
+  "name_en": "Medeo — Sans, Mono and Pixel",
+  "summary": "Famille latin-cyrillique de DNF : Sans variable (graisse 100 à 900, axe opsz 14 à 32 pour le texte et le titrage), Mono pour le code, Pixel en cinq formes de points. Italiques, statiques, paquet npm. OFL 1.1 ; release candidate RC4, publiée le 27 octobre.",
+  "summary_en": "Latin and Cyrillic family by DNF: variable Sans (weight 100 to 900, opsz axis 14 to 32 for text and headings), Mono for code, Pixel in five dot shapes. Italics, static fonts, npm package. OFL 1.1; release candidate RC4, published 27 October.",
+  "url": "https://prtner.ai/font",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "code",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — DNFDEVS/medeo-font",
+   "label_en": "GitHub — DNFDEVS/medeo-font",
+   "url": "https://github.com/DNFDEVS/medeo-font/releases"
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "name": "CADR Mono 1.1.0",
+  "name_en": "CADR Mono 1.1.0",
+  "summary": "Mono pour terminal générée en Common Lisp, sans outil de dessin : 935 glyphes, latin, grec, cyrillique, filets, braille et Powerline calculés sur la cellule. Variante Dark allégée pour fond sombre, métriques identiques. OFL 1.1 ; jeune projet, v1.1.0 du 15 octobre.",
+  "summary_en": "Terminal monospace generated in Common Lisp, with no drawing tool: 935 glyphs, Latin, Greek, Cyrillic, box drawing, braille and Powerline computed from the cell. A lighter Dark grade for dark backgrounds, same metrics. OFL 1.1; young project, v1.1.0 from 15 October.",
+  "url": "https://github.com/atgreen/cadr-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — atgreen/cadr-mono",
+   "label_en": "GitHub — atgreen/cadr-mono",
+   "url": "https://github.com/atgreen/cadr-mono/releases/tag/v1.1.0"
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "name": "Static to Variable 0.6.2",
+  "name_en": "Static to Variable 0.6.2",
+  "summary": "Outil en ligne de commande qui transforme un dossier de graisses statiques en une seule fonte variable : init, build, puis release en TTF et WOFF2, et split pour l’inverse. Demande Node, Python et uv. Licence MIT ; v0.6.2, projet jeune mais actif.",
+  "summary_en": "Command-line tool that turns a folder of static weights into a single variable font: init, build, then release as TTF and WOFF2, plus split to go back. Needs Node, Python and uv. MIT license; v0.6.2, young but active project.",
+  "url": "https://blode.co/static-to-variable",
+  "tags": [
+   "outil",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — mblode/static-to-variable",
+   "label_en": "GitHub — mblode/static-to-variable",
+   "url": "https://github.com/mblode/static-to-variable"
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "name": "Limn Sans 1.002",
+  "name_en": "Limn Sans 1.002",
+  "summary": "Sans arrondie dérivée de Quicksand, points en forme d’épingle, neuf graisses statiques de Thin à Black, avec WOFF2 et CSS prêts pour le web et des alternates (ss01, zéro barré). Anglais et symboles seulement. OFL 1.1 ; version stable publiée le 22 octobre.",
+  "summary_en": "Rounded sans derived from Quicksand, with pin-shaped dots, nine static weights from Thin to Black, ready-made WOFF2 and CSS for the web, and alternates (ss01, slashed zero). English and symbols only. OFL 1.1; stable release published 22 October.",
+  "url": "https://github.com/dartworklabs/limn-sans",
+  "tags": [
+   "ofl",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — dartworklabs/limn-sans",
+   "label_en": "GitHub — dartworklabs/limn-sans",
+   "url": "https://github.com/dartworklabs/limn-sans/releases/tag/v1.002"
+  }
+ },
+ {
+  "date": "2026-10-28",
+  "name": "Sleet Mono 1.00",
+  "name_en": "Sleet Mono 1.00",
+  "summary": "Mono de code au style Comic dessiné à la main, retravaillée à partir de Comic Shanns avec les métriques de JetBrains Mono comme repère. Version Nerd Font, cask Homebrew. Licence MIT ; très jeune : un seul style et 103 glyphes, feuille de route publique.",
+  "summary_en": "Hand-drawn, Comic-style coding monospace, reworked from Comic Shanns using JetBrains Mono's metrics as a reference. Nerd Font build, Homebrew cask. MIT license; very young: one style and 103 glyphs, public roadmap.",
+  "url": "https://github.com/Case3y/sleet-mono",
+  "tags": [
+   "libre",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — Case3y/sleet-mono",
+   "label_en": "GitHub — Case3y/sleet-mono",
+   "url": "https://github.com/Case3y/sleet-mono/releases/tag/v1.00"
+  }
+ },
+ {
   "date": "2026-10-27",
   "name": "BRND ProType 1.1",
   "name_en": "BRND ProType 1.1",
