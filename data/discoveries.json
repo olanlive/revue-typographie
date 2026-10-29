@@ -1,5 +1,96 @@
 [
  {
+  "date": "2026-10-29",
+  "name": "Crooli Sans — un Geist plus amical",
+  "name_en": "Crooli Sans — a friendlier Geist",
+  "summary": "Fork de Geist : un a à un seul étage, points ronds, R et G simplifiés, sans redessin ni changement d’approche. Variable wght 100 à 900 avec italiques, latin, vietnamien et cyrillique. Bon choix d’UI. OFL 1.1 ; projet tout neuf, publié le 28 octobre.",
+  "summary_en": "A Geist fork: single-storey a, round dots, simpler R and G, with no redrawing or spacing changes. Variable wght 100 to 900 with italics, Latin, Vietnamese and Cyrillic. A good UI pick. OFL 1.1; brand-new project, published 28 October.",
+  "url": "https://crooli.com/font",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — xandertaylorx/crooli-sans",
+   "label_en": "GitHub — xandertaylorx/crooli-sans",
+   "url": "https://github.com/xandertaylorx/crooli-sans"
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "name": "Qu Black 1.3.0",
+  "name_en": "Qu Black 1.3.0",
+  "summary": "Famille bilingue chinois-latin pour le code : Mono sur une grille stricte 2:1 (un hanzi = deux caractères ASCII), Sans proportionnelle pour l’UI et le web, statiques et variables. Fontes sous OFL 1.1 ; version 1.3.0 du 24 octobre, projet jeune.",
+  "summary_en": "Bilingual Chinese-Latin family for code: Mono on a strict 2:1 grid (one hanzi = two ASCII cells), proportional Sans for UI and web, static and variable files. Fonts under OFL 1.1; version 1.3.0 from 24 October, a young project.",
+  "url": "https://qublack.qqntt.com/",
+  "tags": [
+   "ofl",
+   "variable",
+   "code",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — gjuoun/qublack",
+   "label_en": "GitHub — gjuoun/qublack",
+   "url": "https://github.com/gjuoun/qublack/releases"
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "name": "The Mother of All Fonts 4.3",
+  "name_en": "The Mother of All Fonts 4.3",
+  "summary": "Polices tirées des cartons de la démo d’Engelbart (1968) : AllCaps, SmallCaps et Humanist, en proportionnel, Mono pour le terminal et coupe Text pour les petites tailles, plus 237 emoji. Pas de grec ni de cyrillique. OFL 1.1 ; version 4.3, 25 octobre.",
+  "summary_en": "Fonts traced from the title cards of Engelbart’s 1968 demo: AllCaps, SmallCaps and Humanist, proportional, Mono for terminals and a Text cut for small sizes, plus 237 emoji. No Greek or Cyrillic. OFL 1.1; version 4.3, 25 October.",
+  "url": "https://swarmecology.com/fonts/",
+  "tags": [
+   "ofl",
+   "display",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — gondwanagenesis/the-mother-of-all-fonts",
+   "label_en": "GitHub — gondwanagenesis/the-mother-of-all-fonts",
+   "url": "https://github.com/gondwanagenesis/the-mother-of-all-fonts"
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "name": "BRANDSWOT Modular 2.100",
+  "name_en": "BRANDSWOT Modular 2.100",
+  "summary": "Pixel de titrage sur grille 5 × 7 dont chaque pixel est maçonné en briques ; la graisse joue sur les joints, pas sur la forme. 7 graisses, italiques, variable wght 300 à 900, latin étendu, CDN et npm. OFL 1.1 ; v2.100 du 27 octobre.",
+  "summary_en": "Pixel display face on a 5 × 7 grid where every pixel is laid in brickwork; weight changes the mortar, not the shape. 7 weights, italics, variable wght 300 to 900, extended Latin, CDN and npm. OFL 1.1; v2.100 from 27 October.",
+  "url": "https://cgowthamsai.github.io/brandswot-modular/",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — cgowthamsai/brandswot-modular",
+   "label_en": "GitHub — cgowthamsai/brandswot-modular",
+   "url": "https://github.com/cgowthamsai/brandswot-modular/releases"
+  }
+ },
+ {
+  "date": "2026-10-29",
+  "name": "Carry 1.1.0 — une police qui calcule",
+  "name_en": "Carry 1.1.0 — a font that does arithmetic",
+  "summary": "Tapez 128+256= et la police affiche 384 : additions, soustractions, multiplications et divisions entières, sans code, uniquement par substitutions OpenType (calt). Une démo étonnante de ce que permettent les fontes. Licence MIT ; v1.1.0 du 25 octobre.",
+  "summary_en": "Type 128+256= and the font draws 384: addition, subtraction, multiplication and integer division, with no code, only OpenType substitutions (calt). A striking demo of what fonts can do. MIT license; v1.1.0 from 25 October.",
+  "url": "https://github.com/nexxeln/carry",
+  "tags": [
+   "libre",
+   "code",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — nexxeln/carry",
+   "label_en": "GitHub — nexxeln/carry",
+   "url": "https://github.com/nexxeln/carry/releases"
+  }
+ },
+ {
   "date": "2026-10-28",
   "name": "Medeo — Sans, Mono et Pixel",
   "name_en": "Medeo — Sans, Mono and Pixel",
