@@ -5,8 +5,53 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tünel 1.100 — a variable dot-matrix face</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-tunel-1-100-matrice-de-points-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-tunel-1-100-matrice-de-points-variable</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A dot-matrix face for LED signs, named after Istanbul's Tünel. Two axes: wght (dot size) and ROND (square to round dot), the grid never changes. 372 characters, Latin Core. TTF, OTF, WOFF2. OFL 1.1; v1.100 released 18 October.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>On Top 1.001</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-on-top-1-001</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-on-top-1-001</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Wide, very heavy capitals drawn in code from a logo. Latin Core, checked kerning and four stylistic sets (round A, long-leg R, square S and E). For headlines that hit hard. OFL 1.1; brand new, v1.001 released 18 October.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Digitype — digitize a typewriter</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Turns scans of typewriter samples, even dirty or skewed, into an installable monospaced font: box a line, type what it says, and it averages every impression and traces it. Python locally or in the browser. No license stated; project started 22 October.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+    </item>
+    <item>
+      <title>Forest Weathered 0.100 — Lao, Thai, Khmer and Latin</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A display face drawn from a hand-painted sign in Laos, with Latin, Lao, Thai and Khmer in one file: rare for a multilingual Southeast Asian visual. OFL 1.1; beta, several letters still drafts to be redrawn before 1.0.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Valera Sans 0.6.4 — Cyrillic handwriting</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Handwriting font by artist Valery Isachenkov, Cyrillic and Latin, three weights (Light, Regular, Semibold) in TTF, OTF and WOFF2. Good for captions and posters. Free, commercial use included, with credit and no font changes (custom license); v0.6.4, Oct 22.</description>
+      <category>display</category>
+    </item>
     <item>
       <title>Crooli Sans — a friendlier Geist</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-29-crooli-sans-un-geist-plus-amical</link>

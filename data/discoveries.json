@@ -1,5 +1,90 @@
 [
  {
+  "date": "2026-10-30",
+  "name": "Tünel 1.100 — matrice de points variable",
+  "name_en": "Tünel 1.100 — a variable dot-matrix face",
+  "summary": "Police à points pour panneaux LED, inspirée du funiculaire d’Istanbul. Deux axes : wght (taille du point) et ROND (point carré à rond), sans toucher la grille. 372 caractères, Latin Core. TTF, OTF, WOFF2. OFL 1.1 ; v1.100 du 18 octobre.",
+  "summary_en": "A dot-matrix face for LED signs, named after Istanbul's Tünel. Two axes: wght (dot size) and ROND (square to round dot), the grid never changes. 372 characters, Latin Core. TTF, OTF, WOFF2. OFL 1.1; v1.100 released 18 October.",
+  "url": "https://github.com/iuzn/tunel",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — iuzn/tunel",
+   "label_en": "GitHub — iuzn/tunel",
+   "url": "https://github.com/iuzn/tunel/releases"
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "name": "On Top 1.001",
+  "name_en": "On Top 1.001",
+  "summary": "Capitales larges et très grasses, tirées d’un logo et dessinées en code. Latin Core, crénage vérifié et quatre jeux stylistiques (A rond, R à longue jambe, S et E carrés). Pour des titres qui cognent. OFL 1.1 ; tout neuf, v1.001 du 18 octobre.",
+  "summary_en": "Wide, very heavy capitals drawn in code from a logo. Latin Core, checked kerning and four stylistic sets (round A, long-leg R, square S and E). For headlines that hit hard. OFL 1.1; brand new, v1.001 released 18 October.",
+  "url": "https://github.com/lrkqz/ontop-font",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — lrkqz/ontop-font",
+   "label_en": "GitHub — lrkqz/ontop-font",
+   "url": "https://github.com/lrkqz/ontop-font/releases"
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "name": "Digitype — numériser une machine à écrire",
+  "name_en": "Digitype — digitize a typewriter",
+  "summary": "Transforme des scans d’échantillons de machine à écrire, même sales ou de travers, en police monospace installable : on encadre une ligne, on tape le texte, il moyenne chaque frappe et vectorise. Python en local ou navigateur. Aucune licence déclarée ; né le 22 octobre.",
+  "summary_en": "Turns scans of typewriter samples, even dirty or skewed, into an installable monospaced font: box a line, type what it says, and it averages every impression and traces it. Python locally or in the browser. No license stated; project started 22 October.",
+  "url": "https://leonardchau.com/Digitype/",
+  "tags": [
+   "outil",
+   "edition-fonte"
+  ],
+  "source": {
+   "label": "GitHub — dairyking98/Digitype",
+   "label_en": "GitHub — dairyking98/Digitype",
+   "url": "https://github.com/dairyking98/Digitype"
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "name": "Forest Weathered 0.100 — lao, thaï, khmer et latin",
+  "name_en": "Forest Weathered 0.100 — Lao, Thai, Khmer and Latin",
+  "summary": "Police de titrage tirée d’une enseigne peinte à la main au Laos, avec latin, lao, thaï et khmer dans un même fichier : rare pour un visuel multilingue d’Asie du Sud-Est. OFL 1.1 ; bêta, plusieurs lettres encore à redessiner avant la 1.0.",
+  "summary_en": "A display face drawn from a hand-painted sign in Laos, with Latin, Lao, Thai and Khmer in one file: rare for a multilingual Southeast Asian visual. OFL 1.1; beta, several letters still drafts to be redrawn before 1.0.",
+  "url": "https://rcampbellbassac.github.io/ForestWeathered/",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — rcampbellbassac/ForestWeathered",
+   "label_en": "GitHub — rcampbellbassac/ForestWeathered",
+   "url": "https://github.com/rcampbellbassac/ForestWeathered"
+  }
+ },
+ {
+  "date": "2026-10-30",
+  "name": "Valera Sans 0.6.4 — une écriture manuscrite cyrillique",
+  "name_en": "Valera Sans 0.6.4 — Cyrillic handwriting",
+  "summary": "Police manuscrite de l’artiste Valeri Issatchenkov, cyrillique et latin, trois graisses (Light, Regular, Semibold) en TTF, OTF et WOFF2. Bien pour légendes et affiches. Gratuite, même en commercial, avec crédit et sans modifier la fonte (licence maison) ; v0.6.4 du 22 oct.",
+  "summary_en": "Handwriting font by artist Valery Isachenkov, Cyrillic and Latin, three weights (Light, Regular, Semibold) in TTF, OTF and WOFF2. Good for captions and posters. Free, commercial use included, with credit and no font changes (custom license); v0.6.4, Oct 22.",
+  "url": "https://azbezd.github.io/valera-sans/specimen/",
+  "tags": [
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — azbezd/valera-sans",
+   "label_en": "GitHub — azbezd/valera-sans",
+   "url": "https://github.com/azbezd/valera-sans"
+  }
+ },
+ {
   "date": "2026-10-29",
   "name": "Crooli Sans — un Geist plus amical",
   "name_en": "Crooli Sans — a friendlier Geist",

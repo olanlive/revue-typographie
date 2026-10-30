@@ -5,8 +5,53 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tünel 1.100 — matrice de points variable</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-30-tunel-1-100-matrice-de-points-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-30-tunel-1-100-matrice-de-points-variable</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Police à points pour panneaux LED, inspirée du funiculaire d’Istanbul. Deux axes : wght (taille du point) et ROND (point carré à rond), sans toucher la grille. 372 caractères, Latin Core. TTF, OTF, WOFF2. OFL 1.1 ; v1.100 du 18 octobre.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>On Top 1.001</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-30-on-top-1-001</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-30-on-top-1-001</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Capitales larges et très grasses, tirées d’un logo et dessinées en code. Latin Core, crénage vérifié et quatre jeux stylistiques (A rond, R à longue jambe, S et E carrés). Pour des titres qui cognent. OFL 1.1 ; tout neuf, v1.001 du 18 octobre.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Digitype — numériser une machine à écrire</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Transforme des scans d’échantillons de machine à écrire, même sales ou de travers, en police monospace installable : on encadre une ligne, on tape le texte, il moyenne chaque frappe et vectorise. Python en local ou navigateur. Aucune licence déclarée ; né le 22 octobre.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+    </item>
+    <item>
+      <title>Forest Weathered 0.100 — lao, thaï, khmer et latin</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Police de titrage tirée d’une enseigne peinte à la main au Laos, avec latin, lao, thaï et khmer dans un même fichier : rare pour un visuel multilingue d’Asie du Sud-Est. OFL 1.1 ; bêta, plusieurs lettres encore à redessiner avant la 1.0.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Valera Sans 0.6.4 — une écriture manuscrite cyrillique</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Police manuscrite de l’artiste Valeri Issatchenkov, cyrillique et latin, trois graisses (Light, Regular, Semibold) en TTF, OTF et WOFF2. Bien pour légendes et affiches. Gratuite, même en commercial, avec crédit et sans modifier la fonte (licence maison) ; v0.6.4 du 22 oct.</description>
+      <category>display</category>
+    </item>
     <item>
       <title>Crooli Sans — un Geist plus amical</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-10-29-crooli-sans-un-geist-plus-amical</link>
