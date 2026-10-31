@@ -5,8 +5,54 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Punctum Moderne 2.500 — a dot-matrix Didone</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-punctum-moderne-2-500-un-didone-en-matrice-de-points</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-punctum-moderne-2-500-un-didone-en-matrice-de-points</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A dot-matrix Didone, roman and italic: each dot stands for pen pressure. Three axes, 54 named styles, 18 statics, 2 woff2 files. Version 2.500 (Oct 31) grows to 354 characters and 43 languages. OFL 1.1; a young, very active project.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Garamond Mono 1.101</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-garamond-mono-1-101</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-garamond-mono-1-101</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
+      <description>An old-style serif monospace drawn from EB Garamond: Regular, Medium and Bold, each with an italic. For a terminal or code blocks with a bookish feel. OTF, TTF, WOFF2. OFL; v1.101 released Oct 18, maintained since 2024.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Balambika Sans 1.000 — Devanagari, IAST and Cyrillic</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-balambika-sans-1-000-devanagari-iast-et-cyrillique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-balambika-sans-1-000-devanagari-iast-et-cyrillique</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
+      <description>The sans companion to Balambika: Noto Sans Devanagari (Vedic accents) and Source Sans 3 (Latin, full IAST, Bulgarian Cyrillic) merged into one file per style. 6 weights with italics. OFL; first version released Oct 30.</description>
+      <category>ofl</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Teletext Decoder 1.5</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-teletext-decoder-1-5</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-teletext-decoder-1-5</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
+      <description>A teletext pixel font, inspired by the ETSI documents and decoder ROMs from the late 1980s. Handy for a retro UI or a mosaic info screen. Version 1.5 (Oct 30) adds Cyrillic and moves to OFL 1.1. TTF, FontForge source.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>foton 0.1.4 — a font package manager for Windows</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-foton-0-1-4-gestionnaire-de-paquets-de-fontes-pour-windows</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-foton-0-1-4-gestionnaire-de-paquets-de-fontes-pour-windows</guid>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
+      <description>Installs, updates, activates and deactivates fonts on Windows without admin rights, from a registry or your own TOML manifests. Install via winget or cargo. MIT or Apache 2.0; a young Rust project, v0.1.4 released Oct 23.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Tünel 1.100 — a variable dot-matrix face</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-tunel-1-100-matrice-de-points-variable</link>

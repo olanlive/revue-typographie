@@ -1,5 +1,91 @@
 [
  {
+  "date": "2026-10-31",
+  "name": "Punctum Moderne 2.500 — un Didone en matrice de points",
+  "name_en": "Punctum Moderne 2.500 — a dot-matrix Didone",
+  "summary": "Didone en points, romain et italique : chaque point reprend la pression de la plume. Trois axes, 54 styles nommés, 18 statiques, 2 woff2. La v2.500 du 31 oct. passe à 354 caractères et 43 langues. OFL 1.1 ; projet jeune et très actif.",
+  "summary_en": "A dot-matrix Didone, roman and italic: each dot stands for pen pressure. Three axes, 54 named styles, 18 statics, 2 woff2 files. Version 2.500 (Oct 31) grows to 354 characters and 43 languages. OFL 1.1; a young, very active project.",
+  "url": "https://sundyme.github.io/punctum-moderne/",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — sundyme/punctum-moderne",
+   "label_en": "GitHub — sundyme/punctum-moderne",
+   "url": "https://github.com/sundyme/punctum-moderne/releases"
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "name": "Garamond Mono 1.101",
+  "name_en": "Garamond Mono 1.101",
+  "summary": "Une chasse fixe à empattements old style, tirée d’EB Garamond : Regular, Medium et Bold, chacun avec son italique. Pour un terminal ou des blocs de code avec un air de livre. OTF, TTF, WOFF2. OFL ; v1.101 du 18 oct., projet suivi depuis 2024.",
+  "summary_en": "An old-style serif monospace drawn from EB Garamond: Regular, Medium and Bold, each with an italic. For a terminal or code blocks with a bookish feel. OTF, TTF, WOFF2. OFL; v1.101 released Oct 18, maintained since 2024.",
+  "url": "https://github.com/MihailJP/garamond-mono",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — MihailJP/garamond-mono",
+   "label_en": "GitHub — MihailJP/garamond-mono",
+   "url": "https://github.com/MihailJP/garamond-mono/releases"
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "name": "Balambika Sans 1.000 — devanagari, IAST et cyrillique",
+  "name_en": "Balambika Sans 1.000 — Devanagari, IAST and Cyrillic",
+  "summary": "Le pendant sans serif de Balambika : Noto Sans Devanagari (accents védiques) et Source Sans 3 (latin, IAST complet, cyrillique bulgare) réunis dans un seul fichier par style. 6 graisses avec italiques. OFL ; première version publiée le 30 oct.",
+  "summary_en": "The sans companion to Balambika: Noto Sans Devanagari (Vedic accents) and Source Sans 3 (Latin, full IAST, Bulgarian Cyrillic) merged into one file per style. 6 weights with italics. OFL; first version released Oct 30.",
+  "url": "https://nelvaron.github.io/balambika/",
+  "tags": [
+   "ofl",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — nelvaron/balambika",
+   "label_en": "GitHub — nelvaron/balambika",
+   "url": "https://github.com/nelvaron/balambika/releases"
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "name": "Teletext Decoder 1.5",
+  "name_en": "Teletext Decoder 1.5",
+  "summary": "Police pixel du télétexte, inspirée des documents ETSI et des ROM de décodeurs des années 80. Utile pour une interface rétro ou un écran d’info en mosaïque. La v1.5 du 30 oct. ajoute le cyrillique et passe sous OFL 1.1. TTF, source FontForge.",
+  "summary_en": "A teletext pixel font, inspired by the ETSI documents and decoder ROMs from the late 1980s. Handy for a retro UI or a mosaic info screen. Version 1.5 (Oct 30) adds Cyrillic and moves to OFL 1.1. TTF, FontForge source.",
+  "url": "https://github.com/fabianswebworld/teletext-decoder-font",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — fabianswebworld/teletext-decoder-font",
+   "label_en": "GitHub — fabianswebworld/teletext-decoder-font",
+   "url": "https://github.com/fabianswebworld/teletext-decoder-font/releases"
+  }
+ },
+ {
+  "date": "2026-10-31",
+  "name": "foton 0.1.4 — gestionnaire de paquets de fontes pour Windows",
+  "name_en": "foton 0.1.4 — a font package manager for Windows",
+  "summary": "Installe, met à jour, active ou désactive des fontes sous Windows sans droits administrateur, depuis un registre ou vos propres manifestes TOML. Installation par winget ou cargo. MIT ou Apache 2.0 ; jeune projet en Rust, v0.1.4 du 23 oct.",
+  "summary_en": "Installs, updates, activates and deactivates fonts on Windows without admin rights, from a registry or your own TOML manifests. Install via winget or cargo. MIT or Apache 2.0; a young Rust project, v0.1.4 released Oct 23.",
+  "url": "https://foton.readthedocs.io/en/stable/",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — gifnksm/foton",
+   "label_en": "GitHub — gifnksm/foton",
+   "url": "https://github.com/gifnksm/foton/releases"
+  }
+ },
+ {
   "date": "2026-10-30",
   "name": "Tünel 1.100 — matrice de points variable",
   "name_en": "Tünel 1.100 — a variable dot-matrix face",
