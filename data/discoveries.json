@@ -1,5 +1,96 @@
 [
  {
+  "date": "2026-11-01",
+  "name": "Galabir 4.1 — la glagolitique lisible",
+  "name_en": "Galabir 4.1 — readable Glagolitic",
+  "summary": "On tape en cyrillique, le texte s’affiche en glagolitique : capitales angulaires, minuscules rondes, jambages repris de la cursive. Dérivé de League Spartan, un style Light, TTF et WOFF2. La v4.1 du 1er nov. ajoute 84 codes Unicode glagolitiques. OFL 1.1 ; projet tout neuf.",
+  "summary_en": "Type in Cyrillic and the text shows in Glagolitic: angular capitals, round lowercase, ascenders borrowed from cursive. Derived from League Spartan, one Light style, TTF and WOFF2. Version 4.1 (Nov 1) adds 84 Unicode Glagolitic code points. OFL 1.1; a brand-new project.",
+  "url": "https://kosoglotoff-netizen.github.io/galabir/",
+  "tags": [
+   "ofl",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — kosoglotoff-netizen/galabir",
+   "label_en": "GitHub — kosoglotoff-netizen/galabir",
+   "url": "https://github.com/kosoglotoff-netizen/galabir/releases"
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "name": "Chrontor Variable 2.0 — dans l’esprit du New Alphabet",
+  "name_en": "Chrontor Variable 2.0 — in the spirit of New Alphabet",
+  "summary": "Modulaire sur grille, inspiré du New Alphabet de Wim Crouwel (1967) : uniquement des droites, diagonales à 45°. La v2.0 du 30 oct. devient variable en chasse, de Regular à Extended. Latin de base, un seul fichier OTF. Titrage science-fiction. OFL 1.1 ; projet jeune.",
+  "summary_en": "A grid-based modular face inspired by Wim Crouwel’s New Alphabet (1967): straight lines only, 45° diagonals. Version 2.0 (Oct 30) adds a variable width axis, Regular to Extended. Basic Latin, a single OTF file. Sci-fi titling. OFL 1.1; a young project.",
+  "url": "https://github.com/TianType/Chrontor-Variable",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — TianType/Chrontor-Variable",
+   "label_en": "GitHub — TianType/Chrontor-Variable",
+   "url": "https://github.com/TianType/Chrontor-Variable/releases"
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "name": "Miracle Grove 1.300 — un serif doux tiré de Fraunces",
+  "name_en": "Miracle Grove 1.300 — a soft serif drawn from Fraunces",
+  "summary": "Dérivé de Fraunces figé à une taille optique et une douceur : 4 graisses et leurs italiques pour le titrage et les textes courts. Chiffres tabulaires, ligatures, alternates, TTF et WOFF2 avec CSS prête. La v1.300 du 29 oct. affine l’approche. OFL 1.1 ; projet jeune.",
+  "summary_en": "A Fraunces derivative frozen at one optical size and softness: 4 weights with italics for headings and short text. Tabular figures, ligatures, alternates, TTF and WOFF2 with ready CSS. Version 1.300 (Oct 29) refines spacing. OFL 1.1; a young project.",
+  "url": "https://saltypes.github.io/miracle-grove/",
+  "tags": [
+   "ofl",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — SalTypes/miracle-grove",
+   "label_en": "GitHub — SalTypes/miracle-grove",
+   "url": "https://github.com/SalTypes/miracle-grove/releases"
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "name": "Stem 7 1.001 — un pixel qui ne floute jamais",
+  "name_en": "Stem 7 1.001 — a pixel font that never blurs",
+  "summary": "Police pixel sur grille 7×7, nette sans pixel gris à 16, 32, 48, 72 et 120 px. Regular, Bold dessiné à la main et Grid variable ; 120 glyphes, chiffres tabulaires, WOFF2 d’environ 3,4 Ko, npm ou CDN. Glyphes en texte, build en Python. OFL 1.1 sans nom réservé ; projet jeune.",
+  "summary_en": "A pixel font on a 7×7 grid, crisp with no grey pixels at 16, 32, 48, 72 and 120 px. Regular, hand-drawn Bold and variable Grid; 120 glyphs, tabular figures, WOFF2 of about 3.4 KB, npm or CDN. Glyphs as text, Python build. OFL 1.1, no reserved name; a young project.",
+  "url": "https://davidghatley.github.io/fonts/stem-7/",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — davidghatley/stem7",
+   "label_en": "GitHub — davidghatley/stem7",
+   "url": "https://github.com/davidghatley/stem7"
+  }
+ },
+ {
+  "date": "2026-11-01",
+  "name": "vtt-transfer 0.2.4 — reporter le hinting VTT",
+  "name_en": "vtt-transfer 0.2.4 — carrying VTT hinting over",
+  "summary": "Outil en ligne de commande (Python 3.11+) : reporte les sources de hinting VTT d’une ancienne version d’une TrueType, statique ou variable, sur la nouvelle, et produit un rapport HTML des glyphes à re-hinter. Installation par uv ou pipx. MIT ; projet récent, v0.2.4 le 1er nov.",
+  "summary_en": "Command-line tool (Python 3.11+): carries VTT hinting sources from an old version of a TrueType font, static or variable, to the new one, with an HTML report of glyphs to re-hint. Install with uv or pipx. MIT; a recent project, v0.2.4 on Nov 1.",
+  "url": "https://github.com/typedev/vtt-transfer",
+  "tags": [
+   "outil",
+   "libre",
+   "edition-fonte"
+  ],
+  "source": {
+   "label": "GitHub — typedev/vtt-transfer",
+   "label_en": "GitHub — typedev/vtt-transfer",
+   "url": "https://github.com/typedev/vtt-transfer/releases"
+  }
+ },
+ {
   "date": "2026-10-31",
   "name": "Punctum Moderne 2.500 — un Didone en matrice de points",
   "name_en": "Punctum Moderne 2.500 — a dot-matrix Didone",

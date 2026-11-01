@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Galabir 4.1 — readable Glagolitic</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-galabir-4-1-la-glagolitique-lisible</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-galabir-4-1-la-glagolitique-lisible</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Type in Cyrillic and the text shows in Glagolitic: angular capitals, round lowercase, ascenders borrowed from cursive. Derived from League Spartan, one Light style, TTF and WOFF2. Version 4.1 (Nov 1) adds 84 Unicode Glagolitic code points. OFL 1.1; a brand-new project.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Chrontor Variable 2.0 — in the spirit of New Alphabet</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-chrontor-variable-2-0-dans-lesprit-du-new-alphabet</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-chrontor-variable-2-0-dans-lesprit-du-new-alphabet</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A grid-based modular face inspired by Wim Crouwel’s New Alphabet (1967): straight lines only, 45° diagonals. Version 2.0 (Oct 30) adds a variable width axis, Regular to Extended. Basic Latin, a single OTF file. Sci-fi titling. OFL 1.1; a young project.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Miracle Grove 1.300 — a soft serif drawn from Fraunces</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-miracle-grove-1-300-un-serif-doux-tire-de-fraunces</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-miracle-grove-1-300-un-serif-doux-tire-de-fraunces</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A Fraunces derivative frozen at one optical size and softness: 4 weights with italics for headings and short text. Tabular figures, ligatures, alternates, TTF and WOFF2 with ready CSS. Version 1.300 (Oct 29) refines spacing. OFL 1.1; a young project.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Stem 7 1.001 — a pixel font that never blurs</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-stem-7-1-001-un-pixel-qui-ne-floute-jamais</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-stem-7-1-001-un-pixel-qui-ne-floute-jamais</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A pixel font on a 7×7 grid, crisp with no grey pixels at 16, 32, 48, 72 and 120 px. Regular, hand-drawn Bold and variable Grid; 120 glyphs, tabular figures, WOFF2 of about 3.4 KB, npm or CDN. Glyphs as text, Python build. OFL 1.1, no reserved name; a young project.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>vtt-transfer 0.2.4 — carrying VTT hinting over</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-vtt-transfer-0-2-4-reporter-le-hinting-vtt</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-vtt-transfer-0-2-4-reporter-le-hinting-vtt</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Command-line tool (Python 3.11+): carries VTT hinting sources from an old version of a TrueType font, static or variable, to the new one, with an HTML report of glyphs to re-hint. Install with uv or pipx. MIT; a recent project, v0.2.4 on Nov 1.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>edition-fonte</category>
+    </item>
     <item>
       <title>Punctum Moderne 2.500 — a dot-matrix Didone</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-punctum-moderne-2-500-un-didone-en-matrice-de-points</link>
