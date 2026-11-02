@@ -1,5 +1,92 @@
 [
  {
+  "date": "2026-11-02",
+  "name": "Talha Mono 1.0 bêta — une mono à la plume baroque",
+  "name_en": "Talha Mono 1.0 beta — a monospace with a Baroque pen",
+  "summary": "Mono pour terminal dérivée de Monaspace Radon, aux lettres redessinées d’après le maître d’écriture Figueiredo (1722). Ligatures de code actives, variantes NF (Nerd Fonts) et Wide. Licence OFL ; encore en bêta (beta.7, 25 oct.).",
+  "summary_en": "Terminal monospace derived from Monaspace Radon, its letters redrawn after writing master Figueiredo (1722). Code ligatures on by default, NF (Nerd Fonts) and Wide variants. OFL license; still in beta (beta.7, Oct 25).",
+  "url": "https://github.com/arnaudmatheus/talha-mono",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — arnaudmatheus/talha-mono",
+   "label_en": "GitHub — arnaudmatheus/talha-mono",
+   "url": "https://github.com/arnaudmatheus/talha-mono/releases"
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "name": "fontcut 0.1 — tailler une fonte variable pour le web",
+  "name_en": "fontcut 0.1 — trim a variable font for the web",
+  "summary": "Outil en ligne de commande (npx, sans Python) : réduit une fonte variable aux axes et caractères utilisés par un site, la découpe en fichiers unicode-range et écrit le @font-face. Sortie reproductible. Licence MIT ; tout jeune (v0.1.0).",
+  "summary_en": "Command-line tool (npx, no Python): cuts a variable font down to the axes and characters a site uses, splits it into unicode-range files and writes the @font-face. Reproducible output. MIT license; very young (v0.1.0).",
+  "url": "https://github.com/timzolleis/fontcut",
+  "tags": [
+   "outil",
+   "web",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — timzolleis/fontcut",
+   "label_en": "GitHub — timzolleis/fontcut",
+   "url": "https://github.com/timzolleis/fontcut"
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "name": "FontFox 1008 — gestionnaire de fontes pour Windows",
+  "name_en": "FontFox 1008 — a font manager for Windows",
+  "summary": "Gestionnaire local pour Windows 10/11 : prévisualiser, filtrer, grouper ses fontes en listes, les activer ou désactiver sans redémarrer Adobe. Documentation en chinois. Licence Apache 2.0 ; très récent (version du 1er nov.).",
+  "summary_en": "Local manager for Windows 10/11: preview, filter and group fonts into lists, enable or disable them without restarting Adobe apps. Documentation in Chinese. Apache 2.0 license; very recent (Nov 1 release).",
+  "url": "https://github.com/AomiRaku/font-fox",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — AomiRaku/font-fox",
+   "label_en": "GitHub — AomiRaku/font-fox",
+   "url": "https://github.com/AomiRaku/font-fox/releases"
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "name": "Protomonster 1.301 — un marqueur de titrage",
+  "name_en": "Protomonster 1.301 — a marker display face",
+  "summary": "Police display façon marqueur pour titres et phrases courtes, latin étendu et cyrillique, variable 400 à 700. Licence maison gratuite, usage personnel et commercial inclus. Récente (1.301, 23 oct.).",
+  "summary_en": "Marker-style display font for headlines and short phrases, extended Latin and Cyrillic, variable from 400 to 700. Free custom license, personal and commercial use included. Recent (1.301, Oct 23).",
+  "url": "https://www.michaelbrowk.com/protomonster",
+  "tags": [
+   "display",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — michaelbrowk/protomonster-typeface",
+   "label_en": "GitHub — michaelbrowk/protomonster-typeface",
+   "url": "https://github.com/michaelbrowk/protomonster-typeface"
+  }
+ },
+ {
+  "date": "2026-11-02",
+  "name": "GuanGe Kai 1.7 — l’écriture de cour des Ming",
+  "name_en": "GuanGe Kai 1.7 — the Ming court hand",
+  "summary": "Trois polices chinoises en régulière de cour (guan-ge-ti), chacune tirée d’un manuscrit Ming, 20 992 caractères ; pas de latin. Utile pour un titrage chinois classique. Polices OFL, code MIT ; projet actif (v1.7.2, 30 oct.).",
+  "summary_en": "Three Chinese fonts in Ming court regular script (guan-ge-ti), each drawn from a different manuscript, 20,992 characters; no Latin. Useful for classical Chinese titling. Fonts OFL, code MIT; active project (v1.7.2, Oct 30).",
+  "url": "https://github.com/wainshine/guangeti",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — wainshine/guangeti",
+   "label_en": "GitHub — wainshine/guangeti",
+   "url": "https://github.com/wainshine/guangeti"
+  }
+ },
+ {
   "date": "2026-11-01",
   "name": "Galabir 4.1 — la glagolitique lisible",
   "name_en": "Galabir 4.1 — readable Glagolitic",

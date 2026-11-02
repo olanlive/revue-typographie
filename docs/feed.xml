@@ -5,8 +5,55 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 01 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Talha Mono 1.0 bêta — une mono à la plume baroque</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-talha-mono-1-0-beta-une-mono-a-la-plume-baroque</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-talha-mono-1-0-beta-une-mono-a-la-plume-baroque</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono pour terminal dérivée de Monaspace Radon, aux lettres redessinées d’après le maître d’écriture Figueiredo (1722). Ligatures de code actives, variantes NF (Nerd Fonts) et Wide. Licence OFL ; encore en bêta (beta.7, 25 oct.).</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>fontcut 0.1 — tailler une fonte variable pour le web</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-fontcut-0-1-tailler-une-fonte-variable-pour-le-web</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-fontcut-0-1-tailler-une-fonte-variable-pour-le-web</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Outil en ligne de commande (npx, sans Python) : réduit une fonte variable aux axes et caractères utilisés par un site, la découpe en fichiers unicode-range et écrit le @font-face. Sortie reproductible. Licence MIT ; tout jeune (v0.1.0).</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>FontFox 1008 — gestionnaire de fontes pour Windows</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-fontfox-1008-gestionnaire-de-fontes-pour-windows</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-fontfox-1008-gestionnaire-de-fontes-pour-windows</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire local pour Windows 10/11 : prévisualiser, filtrer, grouper ses fontes en listes, les activer ou désactiver sans redémarrer Adobe. Documentation en chinois. Licence Apache 2.0 ; très récent (version du 1er nov.).</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Protomonster 1.301 — un marqueur de titrage</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-protomonster-1-301-un-marqueur-de-titrage</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-protomonster-1-301-un-marqueur-de-titrage</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Police display façon marqueur pour titres et phrases courtes, latin étendu et cyrillique, variable 400 à 700. Licence maison gratuite, usage personnel et commercial inclus. Récente (1.301, 23 oct.).</description>
+      <category>display</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>GuanGe Kai 1.7 — l’écriture de cour des Ming</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-guange-kai-1-7-lecriture-de-cour-des-ming</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-guange-kai-1-7-lecriture-de-cour-des-ming</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Trois polices chinoises en régulière de cour (guan-ge-ti), chacune tirée d’un manuscrit Ming, 20 992 caractères ; pas de latin. Utile pour un titrage chinois classique. Polices OFL, code MIT ; projet actif (v1.7.2, 30 oct.).</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
     <item>
       <title>Galabir 4.1 — la glagolitique lisible</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-01-galabir-4-1-la-glagolitique-lisible</link>
