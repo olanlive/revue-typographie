@@ -5,8 +5,56 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oneira 0.300 — du rêve à la lucidité</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Variable à deux axes : graisse 100–900 et Lucidity, des terminaisons rondes (0) aux triangles acérés (100). Un seul fichier pour décliner un titrage doux ou tranchant. Latin de base et Latin-1 seulement. Licence OFL ; très jeune (v0.300, oct. 2026).</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Pollen 1.0 — Open Runde devient variable</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-pollen-1-0-open-runde-devient-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-pollen-1-0-open-runde-devient-variable</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Réunit les quatre graisses d’Open Runde (un Inter arrondi) en une variable : graisse 400–700 et axe ROND, des angles vifs aux coins doux. Latin (vietnamien inclus), grec et cyrillique. Idéal pour une UI amicale. Licence OFL ; v1.0 du 31 oct.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Kubet Mono 0.002 — une mono dessinée par le code</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-kubet-mono-0-002-une-mono-dessinee-par-le-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-kubet-mono-0-002-une-mono-dessinee-par-le-code</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono pour éditeur et terminal générée par programme : 879 caractères, cyrillique, filets, braille, Powerline ; zéro et l en variantes (ss01, ss02). Gratuite sur ses machines, même en pro ; l’embarquer (web, appli) demande un accord écrit. Licence maison ; v0.002.</description>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Miorning Goupa Hei 1.1 — une manuscrite CJK géante</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-miorning-goupa-hei-1-1-une-manuscrite-cjk-geante</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-miorning-goupa-hei-1-1-une-manuscrite-cjk-geante</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Manuscrite épaisse et volontairement maladroite pour titres et affiches : vise les 102 998 sinogrammes d’Unicode 17, plus kana, hangeul, latin et grec. Un .ttc à deux faces ; conçue avec assistance IA, sans relecture glyphe par glyphe. Licence OFL ; v1.1.0 (1er nov.).</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>hb-subset-wasm 0.5 — sous-ensembles HarfBuzz côté serveur</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-hb-subset-wasm-0-5-sous-ensembles-harfbuzz-cote-serveur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-hb-subset-wasm-0-5-sous-ensembles-harfbuzz-cote-serveur</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Paquet npm qui expose le sous-ensemble HarfBuzz en WebAssembly autonome (Cloudflare Workers, Node) : ne garder que les caractères d’une page, fixer ou réduire les axes d’une variable. Passe à HarfBuzz 15. Licence MIT ; non officiel, v0.5.0 du 1er nov.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Talha Mono 1.0 bêta — une mono à la plume baroque</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-02-talha-mono-1-0-beta-une-mono-a-la-plume-baroque</link>
