@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saguna Mono 1.000 — a mono with a cursive italic</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-saguna-mono-1-000-une-mono-a-litalique-cursive</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-saguna-mono-1-000-une-mono-a-litalique-cursive</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Rounded monospace for code with a true handwritten italic, so comments read like margin notes. Dotted 0, distinct 1lI, full-cell box drawing for tmux or htop. Four weights plus a 300–700 variable. OFL license; v1.000 from Nov 3.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Tiny5 Mono 3.000 — the 5 px pixel font goes monospaced</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-tiny5-mono-3-000-le-pixel-5-px-passe-en-chasse-fixe</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-tiny5-mono-3-000-le-pixel-5-px-passe-en-chasse-fixe</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Monospaced Tiny5 for terminals and editors: six variable axes (weight, width, italic, roundness, bleed, jitter) for an LCD, CRT or dot-matrix look. 4,957 glyphs, Latin, Greek, Cyrillic, Armenian, BDF included. OFL license; active repo (Nov 2026).</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Fontcatch 0.4.0 — install fonts as soon as they download</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-fontcatch-0-4-0-installer-les-fontes-des-le-telechargement</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-fontcatch-0-4-0-installer-les-fontes-des-le-telechargement</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Watches your Downloads folder, opens ZIPs and installs the fonts (variable or static, your choice), with preview, embedded license and WOFF2 export. Tauri/Rust. Free, MIT license; unsigned Windows preview, macOS build from source, Linux experimental.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>t5x7 1.0 — a 5×7 pixel font for all of Europe</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-t5x7-1-0-un-pixel-57-pour-leurope-entiere</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-t5x7-1-0-un-pixel-57-pour-leurope-entiere</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Small monospaced pixel font with 5×7 px glyphs covering the whole WGL4 list: Latin, Greek, Cyrillic, symbols and box drawing. Handy for a retro UI or a game. OFL license; v1.0 from Oct 31, a brand-new personal project.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Typst.otf 0.1.0 — a font that typesets math</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Curiosity: a font that embeds Typst as WebAssembly and turns typed code into formulas through HarfBuzz’s experimental Wasm shaper. Works in no app without a rebuilt HarfBuzz; treat it as a demo. MPL-2.0 license; v0.1.0 from Nov 1.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Oneira 0.300 — from dream to lucid</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</link>

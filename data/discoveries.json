@@ -1,5 +1,94 @@
 [
  {
+  "date": "2026-11-04",
+  "name": "Saguna Mono 1.000 — une mono à l’italique cursive",
+  "name_en": "Saguna Mono 1.000 — a mono with a cursive italic",
+  "summary": "Mono arrondie pour le code, avec une vraie italique manuscrite : les commentaires se lisent comme des notes. 0 pointé, 1lI distincts, filets de boîte pleins pour tmux ou htop. Quatre graisses + variable 300–700. Licence OFL ; v1.000 du 3 nov.",
+  "summary_en": "Rounded monospace for code with a true handwritten italic, so comments read like margin notes. Dotted 0, distinct 1lI, full-cell box drawing for tmux or htop. Four weights plus a 300–700 variable. OFL license; v1.000 from Nov 3.",
+  "url": "https://partechsystems.com/fonts/saguna-mono/",
+  "tags": [
+   "ofl",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — pravin/font-saguna-mono",
+   "label_en": "GitHub — pravin/font-saguna-mono",
+   "url": "https://github.com/pravin/font-saguna-mono"
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "name": "Tiny5 Mono 3.000 — le pixel 5 px passe en chasse fixe",
+  "name_en": "Tiny5 Mono 3.000 — the 5 px pixel font goes monospaced",
+  "summary": "Version mono de Tiny5 pour terminal et éditeur : six axes variables (graisse, chasse, italique, arrondi, bavure, tremblement) pour un rendu LCD, CRT ou matricielle. 4 957 glyphes, latin, grec, cyrillique, arménien, BDF inclus. Licence OFL ; repo actif (nov. 2026).",
+  "summary_en": "Monospaced Tiny5 for terminals and editors: six variable axes (weight, width, italic, roundness, bleed, jitter) for an LCD, CRT or dot-matrix look. 4,957 glyphs, Latin, Greek, Cyrillic, Armenian, BDF included. OFL license; active repo (Nov 2026).",
+  "url": "https://gissio.github.io/font_Tiny5Mono/",
+  "tags": [
+   "ofl",
+   "display",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — Gissio/font_Tiny5Mono",
+   "label_en": "GitHub — Gissio/font_Tiny5Mono",
+   "url": "https://github.com/Gissio/font_Tiny5Mono"
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "name": "Fontcatch 0.4.0 — installer les fontes dès le téléchargement",
+  "name_en": "Fontcatch 0.4.0 — install fonts as soon as they download",
+  "summary": "Surveille le dossier Téléchargements, ouvre les ZIP et installe les fontes (variable ou statique au choix), avec aperçu, licence embarquée et export WOFF2. Tauri/Rust. Gratuit, licence MIT ; préversion Windows non signée, macOS à compiler, Linux expérimental.",
+  "summary_en": "Watches your Downloads folder, opens ZIPs and installs the fonts (variable or static, your choice), with preview, embedded license and WOFF2 export. Tauri/Rust. Free, MIT license; unsigned Windows preview, macOS build from source, Linux experimental.",
+  "url": "https://github.com/kooler98/FontCatch",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — kooler98/FontCatch",
+   "label_en": "GitHub — kooler98/FontCatch",
+   "url": "https://github.com/kooler98/FontCatch"
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "name": "t5x7 1.0 — un pixel 5×7 pour l’Europe entière",
+  "name_en": "t5x7 1.0 — a 5×7 pixel font for all of Europe",
+  "summary": "Petite fonte pixel à chasse fixe, glyphes de 5×7 px, qui couvre toute la liste WGL4 : latin, grec, cyrillique, symboles et filets de boîte. Pratique pour une interface rétro ou un jeu. Licence OFL ; v1.0 du 31 oct., projet personnel tout neuf.",
+  "summary_en": "Small monospaced pixel font with 5×7 px glyphs covering the whole WGL4 list: Latin, Greek, Cyrillic, symbols and box drawing. Handy for a retro UI or a game. OFL license; v1.0 from Oct 31, a brand-new personal project.",
+  "url": "https://github.com/teatov/t5x7-font",
+  "tags": [
+   "ofl",
+   "display",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — teatov/t5x7-font",
+   "label_en": "GitHub — teatov/t5x7-font",
+   "url": "https://github.com/teatov/t5x7-font"
+  }
+ },
+ {
+  "date": "2026-11-04",
+  "name": "Typst.otf 0.1.0 — une fonte qui compose des maths",
+  "name_en": "Typst.otf 0.1.0 — a font that typesets math",
+  "summary": "Curiosité : une fonte qui embarque Typst en WebAssembly et transforme le code tapé en formules, via le shaper Wasm expérimental de HarfBuzz. Ne marche dans aucune appli sans HarfBuzz recompilé ; à voir comme démonstration. Licence MPL-2.0 ; v0.1.0 du 1er nov.",
+  "summary_en": "Curiosity: a font that embeds Typst as WebAssembly and turns typed code into formulas through HarfBuzz’s experimental Wasm shaper. Works in no app without a rebuilt HarfBuzz; treat it as a demo. MPL-2.0 license; v0.1.0 from Nov 1.",
+  "url": "https://github.com/coclique/typst.otf",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — coclique/typst.otf",
+   "label_en": "GitHub — coclique/typst.otf",
+   "url": "https://github.com/coclique/typst.otf"
+  }
+ },
+ {
   "date": "2026-11-03",
   "name": "Oneira 0.300 — du rêve à la lucidité",
   "name_en": "Oneira 0.300 — from dream to lucid",

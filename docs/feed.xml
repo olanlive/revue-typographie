@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saguna Mono 1.000 — une mono à l’italique cursive</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-04-saguna-mono-1-000-une-mono-a-litalique-cursive</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-04-saguna-mono-1-000-une-mono-a-litalique-cursive</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono arrondie pour le code, avec une vraie italique manuscrite : les commentaires se lisent comme des notes. 0 pointé, 1lI distincts, filets de boîte pleins pour tmux ou htop. Quatre graisses + variable 300–700. Licence OFL ; v1.000 du 3 nov.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Tiny5 Mono 3.000 — le pixel 5 px passe en chasse fixe</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-04-tiny5-mono-3-000-le-pixel-5-px-passe-en-chasse-fixe</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-04-tiny5-mono-3-000-le-pixel-5-px-passe-en-chasse-fixe</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Version mono de Tiny5 pour terminal et éditeur : six axes variables (graisse, chasse, italique, arrondi, bavure, tremblement) pour un rendu LCD, CRT ou matricielle. 4 957 glyphes, latin, grec, cyrillique, arménien, BDF inclus. Licence OFL ; repo actif (nov. 2026).</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Fontcatch 0.4.0 — installer les fontes dès le téléchargement</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-04-fontcatch-0-4-0-installer-les-fontes-des-le-telechargement</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-04-fontcatch-0-4-0-installer-les-fontes-des-le-telechargement</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Surveille le dossier Téléchargements, ouvre les ZIP et installe les fontes (variable ou statique au choix), avec aperçu, licence embarquée et export WOFF2. Tauri/Rust. Gratuit, licence MIT ; préversion Windows non signée, macOS à compiler, Linux expérimental.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>t5x7 1.0 — un pixel 5×7 pour l’Europe entière</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-04-t5x7-1-0-un-pixel-57-pour-leurope-entiere</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-04-t5x7-1-0-un-pixel-57-pour-leurope-entiere</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Petite fonte pixel à chasse fixe, glyphes de 5×7 px, qui couvre toute la liste WGL4 : latin, grec, cyrillique, symboles et filets de boîte. Pratique pour une interface rétro ou un jeu. Licence OFL ; v1.0 du 31 oct., projet personnel tout neuf.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Typst.otf 0.1.0 — une fonte qui compose des maths</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</guid>
+      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Curiosité : une fonte qui embarque Typst en WebAssembly et transforme le code tapé en formules, via le shaper Wasm expérimental de HarfBuzz. Ne marche dans aucune appli sans HarfBuzz recompilé ; à voir comme démonstration. Licence MPL-2.0 ; v0.1.0 du 1er nov.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Oneira 0.300 — du rêve à la lucidité</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</link>
