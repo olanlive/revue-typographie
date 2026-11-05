@@ -1,5 +1,112 @@
 [
  {
+  "date": "2026-11-05",
+  "name": "Intel One Mono 1.5 — braille et Powerline pour le code",
+  "name_en": "Intel One Mono 1.5 — Braille and Powerline for code",
+  "summary": "Première mise à jour depuis le retour du projet : braille, glyphes Powerline, flèches et un 3 à tête ronde (ss04). Quatre graisses + italiques, 1 385 glyphes, hinting manuel. Conçue avec Frere-Jones pour la lisibilité code. Licence OFL ; V1.5.0 du 4 nov.",
+  "summary_en": "First update since the project’s return: Braille, Powerline glyphs, arrows and a round-top 3 (ss04). Four weights with italics, 1,385 glyphs, manual hinting. Designed with Frere-Jones for coding legibility. OFL license; V1.5.0 from Nov 4.",
+  "url": "https://github.com/intel/intel-one-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — intel/intel-one-mono",
+   "label_en": "GitHub — intel/intel-one-mono",
+   "url": "https://github.com/intel/intel-one-mono/releases/tag/V1.5.0"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "name": "Paper Mono 1.000 — une mono pour le design et le code",
+  "name_en": "Paper Mono 1.000 — a mono for design and code",
+  "summary": "Mono de Paper pour le design et le code : 8 graisses + variable 100–800, 800 glyphes, filets de boîte et ligatures de code (ss01). Option duospace (ss02) pour un rythme plus naturel. Fork soigné de Geist Mono. Licence OFL ; v1.000 du 7 oct., ~1 500 ★.",
+  "summary_en": "Paper’s monospace for design and code: 8 weights plus a 100–800 variable, 800 glyphs, box drawing and coding ligatures (ss01). Duospace option (ss02) for a more natural rhythm. A polished Geist Mono fork. OFL license; v1.000 from Oct 7, ~1,500 ★.",
+  "url": "https://github.com/paper-design/paper-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — paper-design/paper-mono",
+   "label_en": "GitHub — paper-design/paper-mono",
+   "url": "https://github.com/paper-design/paper-mono/releases/tag/v1.000"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "name": "Shelf Serif 5.000 — empattements en étagères",
+  "name_en": "Shelf Serif 5.000 — serifs like shelves",
+  "summary": "Empattements « étagères » et bols en rectangles arrondis : une serif near-monoline générée en Python. Cinq graisses (300–700) en variable, OTF/TTF hintés, WOFF2 à 26 Ko. Latin de base. Licence OFL ; v5.000 du 4 nov.",
+  "summary_en": "“Shelf” slab serifs and rounded-rectangle bowls: a near-monoline serif generated in Python. Five weights (300–700) in one variable, hinted OTF/TTF, 26 KB WOFF2. Basic Latin. OFL license; v5.000 from Nov 4.",
+  "url": "https://github.com/itsthecsguy/shelf-serif",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — itsthecsguy/shelf-serif",
+   "label_en": "GitHub — itsthecsguy/shelf-serif",
+   "url": "https://github.com/itsthecsguy/shelf-serif/releases/tag/v5.000"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "name": "Toffee 1.000 — display COLRv1 à ombre portée",
+  "name_en": "Toffee 1.000 — COLRv1 display with a long shadow",
+  "summary": "Fonte display COLRv1 générée en code : graisse, inclinaison et ombre portée (SHDW) variables, quatre palettes. Idéale pour un titre ou une maquette UI colorée. WOFF2 + TTF. Licence OFL ; v1.000 du 4 nov., projet tout neuf.",
+  "summary_en": "COLRv1 display font generated from code: variable weight, slant and long-shadow (SHDW) axes, four palettes. Handy for a title or a colourful UI mockup. WOFF2 + TTF. OFL license; v1.000 from Nov 4, brand-new project.",
+  "url": "https://lukehmu.github.io/toffee/",
+  "tags": [
+   "ofl",
+   "display",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — lukehmu/toffee",
+   "label_en": "GitHub — lukehmu/toffee",
+   "url": "https://github.com/lukehmu/toffee"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "name": "Alawonn 1.0.0 — un display circulaire cursif",
+  "name_en": "Alawonn 1.0.0 — a circular cursive display",
+  "summary": "Display circulaire au sentiment cursif, pour titres et noms. Un style Regular, 378 caractères (latin étendu), crénage de classes, paquet npm + CDN. Licence OFL ; v1.0.0 du 4 nov.",
+  "summary_en": "Circular display face with a cursive feel, for headings and names. One Regular style, 378 characters (extended Latin), class kerning, npm package + CDN. OFL license; v1.0.0 from Nov 4.",
+  "url": "https://alawonn.github.io/alawonn-font/",
+  "tags": [
+   "ofl",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — alawonn/alawonn-font",
+   "label_en": "GitHub — alawonn/alawonn-font",
+   "url": "https://github.com/alawonn/alawonn-font/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-05",
+  "name": "fontmask 0.1.0 — masquer les secrets dans n’importe quelle fonte",
+  "name_en": "fontmask 0.1.0 — mask secrets in any font",
+  "summary": "Outil CLI qui injecte dans n’importe quelle fonte les règles de masquage d’Obel Mono : secrets et tokens deviennent des points à l’écran, le copier-coller reste intact. Compatible terminal et éditeurs. Licence MIT (règles embarquées OFL) ; v0.1.0 du 5 nov.",
+  "summary_en": "CLI tool that injects Obel Mono’s secret-masking rules into any font: secrets and tokens become dots on screen, copy-paste stays intact. Works in terminals and editors. MIT license (bundled rules OFL); v0.1.0 from Nov 5.",
+  "url": "https://github.com/mattrobenolt/fontmask",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — mattrobenolt/fontmask",
+   "label_en": "GitHub — mattrobenolt/fontmask",
+   "url": "https://github.com/mattrobenolt/fontmask/releases/tag/v0.1.0"
+  }
+ },
+ {
   "date": "2026-11-04",
   "name": "Saguna Mono 1.000 — une mono à l’italique cursive",
   "name_en": "Saguna Mono 1.000 — a mono with a cursive italic",

@@ -5,8 +5,67 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Intel One Mono 1.5 — braille et Powerline pour le code</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-intel-one-mono-1-5-braille-et-powerline-pour-le-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-intel-one-mono-1-5-braille-et-powerline-pour-le-code</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Première mise à jour depuis le retour du projet : braille, glyphes Powerline, flèches et un 3 à tête ronde (ss04). Quatre graisses + italiques, 1 385 glyphes, hinting manuel. Conçue avec Frere-Jones pour la lisibilité code. Licence OFL ; V1.5.0 du 4 nov.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Paper Mono 1.000 — une mono pour le design et le code</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-paper-mono-1-000-une-mono-pour-le-design-et-le-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-paper-mono-1-000-une-mono-pour-le-design-et-le-code</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono de Paper pour le design et le code : 8 graisses + variable 100–800, 800 glyphes, filets de boîte et ligatures de code (ss01). Option duospace (ss02) pour un rythme plus naturel. Fork soigné de Geist Mono. Licence OFL ; v1.000 du 7 oct., ~1 500 ★.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Shelf Serif 5.000 — empattements en étagères</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-shelf-serif-5-000-empattements-en-etageres</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-shelf-serif-5-000-empattements-en-etageres</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Empattements « étagères » et bols en rectangles arrondis : une serif near-monoline générée en Python. Cinq graisses (300–700) en variable, OTF/TTF hintés, WOFF2 à 26 Ko. Latin de base. Licence OFL ; v5.000 du 4 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Toffee 1.000 — display COLRv1 à ombre portée</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-toffee-1-000-display-colrv1-a-ombre-portee</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-toffee-1-000-display-colrv1-a-ombre-portee</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Fonte display COLRv1 générée en code : graisse, inclinaison et ombre portée (SHDW) variables, quatre palettes. Idéale pour un titre ou une maquette UI colorée. WOFF2 + TTF. Licence OFL ; v1.000 du 4 nov., projet tout neuf.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Alawonn 1.0.0 — un display circulaire cursif</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-alawonn-1-0-0-un-display-circulaire-cursif</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-alawonn-1-0-0-un-display-circulaire-cursif</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Display circulaire au sentiment cursif, pour titres et noms. Un style Regular, 378 caractères (latin étendu), crénage de classes, paquet npm + CDN. Licence OFL ; v1.0.0 du 4 nov.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>fontmask 0.1.0 — masquer les secrets dans n’importe quelle fonte</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-05-fontmask-0-1-0-masquer-les-secrets-dans-nimporte-quelle-fonte</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-05-fontmask-0-1-0-masquer-les-secrets-dans-nimporte-quelle-fonte</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Outil CLI qui injecte dans n’importe quelle fonte les règles de masquage d’Obel Mono : secrets et tokens deviennent des points à l’écran, le copier-coller reste intact. Compatible terminal et éditeurs. Licence MIT (règles embarquées OFL) ; v0.1.0 du 5 nov.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Saguna Mono 1.000 — une mono à l’italique cursive</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-04-saguna-mono-1-000-une-mono-a-litalique-cursive</link>
@@ -947,57 +1006,6 @@
       <category>ofl</category>
       <category>code</category>
       <category>variable</category>
-    </item>
-    <item>
-      <title>Fontsource</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-17-fontsource</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-17-fontsource</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Des milliers de polices libres en paquets npm à auto-héberger : un import et la police, statique ou variable, est servie par son propre site, sans CDN tiers. Catalogue en ligne pour tester. Code MIT, chaque police garde sa licence (souvent OFL).</description>
-      <category>web</category>
-      <category>libre</category>
-      <category>appairage</category>
-    </item>
-    <item>
-      <title>Collletttivo — fonderie libre italienne</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-16-collletttivo-fonderie-libre-italienne</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-16-collletttivo-fonderie-libre-italienne</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Collectif italien dont tout le catalogue est sous SIL OFL : Apfel Grotezk, Ronzino, Sprat (18 graisses + variable), Halibut, Necto Mono… Des display expressifs utilisables en commercial et en rendu, avec crédit demandé.</description>
-      <category>fonderie</category>
-      <category>ofl</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Atkinson Hyperlegible Next</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-16-atkinson-hyperlegible-next</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-16-atkinson-hyperlegible-next</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Version 2024 de la police hyperlisible du Braille Institute : nouveaux glyphes, crénage revu, 6 graisses avec italiques (contre 2). OFL 1.1, sources sur GitHub, sur Google Fonts. Idéale pour UI, sous-titres et docs.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Inter 4.1</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-16-inter-4-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-16-inter-4-1</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description>La sans-serif d'écran de référence (OFL 1.1), variable avec axe optique et nombreuses features OpenType (chiffres tabulaires, alternates). Projet mature ; dernière version 4.1 (nov. 2024). Valeur sûre pour interfaces et appairage.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>appairage</category>
-    </item>
-    <item>
-      <title>FontForge 20251009</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-16-fontforge-20251009</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-16-fontforge-20251009</guid>
-      <pubDate>Fri, 16 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Éditeur de fontes libre et open source (Windows, macOS, Linux), scriptable en Python : dessiner, retoucher, convertir ses propres polices. Projet mûr ; dernière version publiée le 9 oct. 2025. Gratuit (dons).</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
     </item>
   </channel>
 </rss>
