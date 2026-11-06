@@ -1,5 +1,112 @@
 [
  {
+  "date": "2026-11-06",
+  "name": "Obel Mono 1.002 — une mono qui masque les clés API",
+  "name_en": "Obel Mono 1.002 — a mono that masks API keys",
+  "summary": "Mono dessinée à 12 px pour lire le code des agents : 9 graisses + italiques vraies (variable 100–900), 1 618 glyphes, boîtes et Powerline alignés. La variante Masked (ss01) affiche les secrets en points. Chez Typographic Systems. Licence OFL ; v1.002, sortie le 4 nov.",
+  "summary_en": "Monospace drawn at 12 px for reading agent code: nine weights with true italics (variable 100–900), 1,618 glyphs, box drawing and Powerline on-grid. Masked (ss01) shows secrets as dots. Coded at Typographic Systems. OFL license; v1.002, out Nov 4.",
+  "url": "https://typographic.systems/obel-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "variable"
+  ],
+  "source": {
+   "label": "Typographic Systems — Obel Mono",
+   "label_en": "Typographic Systems — Obel Mono",
+   "url": "https://typographic.systems/journal/obel-mono-1-000"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Nini Mono 1.100 — italiques, grec et cyrillique",
+  "name_en": "Nini Mono 1.100 — italics, Greek and Cyrillic",
+  "summary": "La mono Nini passe en 1.100 : cinq italiques à 11° (Thin→Bold), vietnamien, cyrillique et grec polytonique, x-height plus haute, boîtes et Powerline recalés à la cellule. Dix styles TTF/WOFF2. Licence OFL ; v1.100 du 5 nov.",
+  "summary_en": "Nini Mono hits 1.100: five 11° italics (Thin→Bold), Vietnamese, Cyrillic and polytonic Greek, a taller x-height, box drawing and Powerline retuned to the cell. Ten TTF/WOFF2 styles. OFL license; v1.100 from Nov 5.",
+  "url": "https://github.com/niniglyphs/nini-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — niniglyphs/nini-mono",
+   "label_en": "GitHub — niniglyphs/nini-mono",
+   "url": "https://github.com/niniglyphs/nini-mono/releases/tag/v1.100"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Satoma Sans 0.303 — géométrique allégée pour le web",
+  "name_en": "Satoma Sans 0.303 — a leaner geometric for the web",
+  "summary": "Sans géométrique dérivée d’Albert Sans : 9 graisses + italiques (18 styles). WOFF2 ~13 % plus légers, CSS split latin ~13 Ko, fallback métrique anti-CLS, t relevé. Specimen interactif. Licence OFL ; v0.303.0 du 6 nov.",
+  "summary_en": "Geometric sans derived from Albert Sans: 9 weights with italics (18 styles). ~13% smaller WOFF2s, optional ~13 KB Latin-core CSS split, metric-matched fallback against CLS, raised t. Interactive specimen. OFL license; v0.303.0 from Nov 6.",
+  "url": "https://satoma.robin.build",
+  "tags": [
+   "ofl",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — robin-liquidium/satoma-sans",
+   "label_en": "GitHub — robin-liquidium/satoma-sans",
+   "url": "https://github.com/robin-liquidium/satoma-sans/releases/tag/v0.303.0"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Sausage Regular 0.100 — serif display toute ronde",
+  "name_en": "Sausage Regular 0.100 — a fully rounded display serif",
+  "summary": "Serif display lourde aux terminaisons rembourrées, pour menus, packaging food et enseignes vintage. Une graisse Regular, latin (~416 glyphes), TTF. Licence OFL 1.1 (usage commercial OK) ; v0.100 chez Just For Free Font.",
+  "summary_en": "Heavy display serif with padded terminals, for menus, food packaging and vintage signage. One Regular weight, Latin (~416 glyphs), TTF. OFL 1.1 (commercial use OK); v0.100 from Just For Free Font.",
+  "url": "https://justforfreefont.com/fonts/sausage",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "Just For Free Font — SAUSAGE Regular",
+   "label_en": "Just For Free Font — SAUSAGE Regular",
+   "url": "https://justforfreefont.com/fonts/sausage"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Denpa Font 3.7 — maru-gothic pour la TV japonaise",
+  "name_en": "Denpa Font 3.7 — maru-gothic for Japanese TV",
+  "summary": "Mono à coins arrondis pour sous-titres, data broadcast et grilles TV (JIS X 0213 + symboles ARIB). ~11 710 glyphes, dérivée de BIZ UD Gothic. TTF + WOFF2 (base / JIS étendu). Licence OFL ; v3.7 du 2 nov.",
+  "summary_en": "Rounded monospace for Japanese TV subtitles, data broadcast and programme guides (JIS X 0213 + ARIB symbols). ~11,710 glyphs, derived from BIZ UD Gothic. TTF + WOFF2 (base / extended JIS). OFL license; v3.7 from Nov 2.",
+  "url": "https://github.com/danything/denpa-font",
+  "tags": [
+   "ofl",
+   "code",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — danything/denpa-font",
+   "label_en": "GitHub — danything/denpa-font",
+   "url": "https://github.com/danything/denpa-font/releases/tag/v3.7"
+  }
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Wing Sans 1.003 — le chinois avec sa lecture au-dessus",
+  "name_en": "Wing Sans 1.003 — Chinese with readings above each character",
+  "summary": "Cinq fontes OFL (Noto) qui affichent la lecture au-dessus de chaque hanzi : Jyutping, Yale, Pinyin (guoyu/putonghua) ou Tâi-lô. Multisyllabes contextuels ; correction manuelle possible. Idéal pour apprendre. Licence OFL ; v1.003 du 4 nov.",
+  "summary_en": "Five OFL fonts (Noto-based) that show the reading above every hanzi: Jyutping, Yale, Pinyin (Guoyu/Putonghua) or Tâi-lô. Contextual polyphones; manual override available. Handy for learners. OFL license; v1.003 from Nov 4.",
+  "url": "https://wing-font.chunlaw.io",
+  "tags": [
+   "ofl",
+   "lisibilite",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — Wing-Font/wing-sans-chinese",
+   "label_en": "GitHub — Wing-Font/wing-sans-chinese",
+   "url": "https://github.com/Wing-Font/wing-sans-chinese/releases/tag/v1.003"
+  }
+ },
+ {
   "date": "2026-11-05",
   "name": "Intel One Mono 1.5 — braille et Powerline pour le code",
   "name_en": "Intel One Mono 1.5 — Braille and Powerline for code",

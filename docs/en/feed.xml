@@ -5,8 +5,67 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Obel Mono 1.002 — a mono that masks API keys</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-obel-mono-1-002-une-mono-qui-masque-les-cles-api</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-obel-mono-1-002-une-mono-qui-masque-les-cles-api</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Monospace drawn at 12 px for reading agent code: nine weights with true italics (variable 100–900), 1,618 glyphs, box drawing and Powerline on-grid. Masked (ss01) shows secrets as dots. Coded at Typographic Systems. OFL license; v1.002, out Nov 4.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Nini Mono 1.100 — italics, Greek and Cyrillic</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-nini-mono-1-100-italiques-grec-et-cyrillique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-nini-mono-1-100-italiques-grec-et-cyrillique</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Nini Mono hits 1.100: five 11° italics (Thin→Bold), Vietnamese, Cyrillic and polytonic Greek, a taller x-height, box drawing and Powerline retuned to the cell. Ten TTF/WOFF2 styles. OFL license; v1.100 from Nov 5.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Satoma Sans 0.303 — a leaner geometric for the web</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-satoma-sans-0-303-geometrique-allegee-pour-le-web</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-satoma-sans-0-303-geometrique-allegee-pour-le-web</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Geometric sans derived from Albert Sans: 9 weights with italics (18 styles). ~13% smaller WOFF2s, optional ~13 KB Latin-core CSS split, metric-matched fallback against CLS, raised t. Interactive specimen. OFL license; v0.303.0 from Nov 6.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Sausage Regular 0.100 — a fully rounded display serif</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-sausage-regular-0-100-serif-display-toute-ronde</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-sausage-regular-0-100-serif-display-toute-ronde</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Heavy display serif with padded terminals, for menus, food packaging and vintage signage. One Regular weight, Latin (~416 glyphs), TTF. OFL 1.1 (commercial use OK); v0.100 from Just For Free Font.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Denpa Font 3.7 — maru-gothic for Japanese TV</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-denpa-font-3-7-maru-gothic-pour-la-tv-japonaise</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-denpa-font-3-7-maru-gothic-pour-la-tv-japonaise</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Rounded monospace for Japanese TV subtitles, data broadcast and programme guides (JIS X 0213 + ARIB symbols). ~11,710 glyphs, derived from BIZ UD Gothic. TTF + WOFF2 (base / extended JIS). OFL license; v3.7 from Nov 2.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Wing Sans 1.003 — Chinese with readings above each character</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-06-wing-sans-1-003-le-chinois-avec-sa-lecture-au-dessus</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-06-wing-sans-1-003-le-chinois-avec-sa-lecture-au-dessus</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Five OFL fonts (Noto-based) that show the reading above every hanzi: Jyutping, Yale, Pinyin (Guoyu/Putonghua) or Tâi-lô. Contextual polyphones; manual override available. Handy for learners. OFL license; v1.003 from Nov 4.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+      <category>ui</category>
+    </item>
     <item>
       <title>Intel One Mono 1.5 — Braille and Powerline for code</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-05-intel-one-mono-1-5-braille-et-powerline-pour-le-code</link>
@@ -942,70 +1001,6 @@
       <description>A narrow, fully configurable monospace (glyph variants, custom builds), available as Term, Slab, Aile and Etoile. 34.9 (Sept 26, 2026) adds variants for ζ, ξ, ς and dozens of diacritics. OFL 1.1, a very mature project since 2015.</description>
       <category>ofl</category>
       <category>code</category>
-    </item>
-    <item>
-      <title>IBM Plex Mono variable</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-18-ibm-plex-mono-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-18-ibm-plex-mono-variable</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Plex Mono is finally a variable font: one file, weight axis from 100 to 700, Thin to Bold instances. Handy for code and web UI without juggling files. Joins Plex Serif and Sans variable. OFL 1.1, a very mature IBM family.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>variable</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>fontc 1.0 — Google's font compiler in Rust</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-fontc-1-0-le-compilateur-de-fontes-de-google-en-rust</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Stable release (Sept 1, 2026) of Google Fonts' Rust compiler, a drop-in replacement for fontmake for Glyphs or UFO sources: variable fonts compiled much faster. TrueType only, no static instances. Apache 2.0, tested on ~3,450 targets.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>fontTools 4.67</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-fonttools-4-67</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-fonttools-4-67</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>The Python Swiss Army knife for fonts (ttx, subset, varLib) at 4.67 (Oct 14, 2026): instancing of COLRv1 variable fonts, feaLib and CFF2 fixes. For slimming a web font, freezing an axis or scripting a pipeline. MIT, very mature.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Geist 1.8.1</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-geist-1-8-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-geist-1-8-1</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Vercel's Geist Sans and Geist Mono, understated, for UI and code. 1.8.1 (Oct 16, 2026) aligns binary versions with the package and fixes the lowercase omega, which pointed to the Ohm sign. OFL 1.1, regular releases since 2023.</description>
-      <category>ofl</category>
-      <category>ui</category>
-      <category>code</category>
-      <category>variable</category>
-    </item>
-    <item>
-      <title>Monaspace 1.4</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-monaspace-1-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-monaspace-1-4</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>GitHub Next's monospace superfamily (Neon, Argon, Xenon, Radon, Krypton) with “texture healing” that balances wide and narrow letters. 1.400 adds Cyrillic, Greek, Vietnamese and IPA. Variable, web and Nerd Fonts. OFL 1.1.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>variable</category>
-    </item>
-    <item>
-      <title>Maple Mono 7.9</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-17-maple-mono-7-9</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-17-maple-mono-7-9</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Rounded monospace for IDEs and terminals: ligatures, Nerd Font icons, a script to freeze your variants (a “Normal” option close to JetBrains Mono). 7.9 adds IPA glyphs and fixes feature freezing. OFL 1.1, ~29,000 stars.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>variable</category>
     </item>
   </channel>
 </rss>
