@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pentas Meong Seru 1.000 — une sans excentrique à petites capitales</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-07-pentas-meong-seru-1-000-une-sans-excentrique-a-petites-capitales</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-07-pentas-meong-seru-1-000-une-sans-excentrique-a-petites-capitales</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Sans pour affiches, titres musicaux et sites, qui tient aussi en texte courant : capitales presque rondes à côté de lettres étroites, vraies petites capitales, K et 4 singuliers. 8 graisses en variable et statiques. Dérivée de Reddit Sans Condensed. OFL ; v1.000 sortie le 7 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Collab Sans 1.000 — Inter aux terminaisons arrondies</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-07-collab-sans-1-000-inter-aux-terminaisons-arrondies</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-07-collab-sans-1-000-inter-aux-terminaisons-arrondies</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Néo-grotesque arrondie dérivée d’Inter : la lisibilité écran d’Inter avec des fins de traits en demi-cercle, plus douce pour une UI ou une identité. 9 graisses + italiques, 2 548 glyphes (latin étendu, cyrillique, grec, vietnamien). OFL ; v1.000 sortie le 3 nov.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>LXGW Marker Gothic KR 1.001 — le feutre passe au coréen</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-07-lxgw-marker-gothic-kr-1-001-le-feutre-passe-au-coreen</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-07-lxgw-marker-gothic-kr-1-001-le-feutre-passe-au-coreen</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Édition coréenne de LXGW Marker Gothic, police au feutre façon affichette (POP) issue de Tanugo : les 2 350 syllabes hangûl et 4 620 hanja de KS X 1001, plus le latin de la version d’origine. Utile pour du titrage manuscrit coréen. OFL ; v1.001 du 5 nov.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Typeshelf 1.0.0 — des fontes qui se mettent à jour seules</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-07-typeshelf-1-0-0-des-fontes-qui-se-mettent-a-jour-seules</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-07-typeshelf-1-0-0-des-fontes-qui-se-mettent-a-jour-seules</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire de fontes Windows 10/11 : activation sans droits admin (permanente ou par session), catalogues Google Fonts et Fontshare avec mises à jour validées et retour arrière, testeur d’axes variables, générateur @font-face. GPL-3.0 ; v1.0.0 du 6 nov., installeur non signé.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>variable</category>
+    </item>
+    <item>
+      <title>Kern 1.1 — gérer et appairer ses fontes sur Mac</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-07-kern-1-1-gerer-et-appairer-ses-fontes-sur-mac</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-07-kern-1-1-gerer-et-appairer-ses-fontes-sur-mac</guid>
+      <pubDate>Sat, 07 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire de fontes macOS : aperçus, axes variables et fonctions OpenType par fonte, comparaison côte à côte, appairage titre + texte avec suggestions et export PNG, activation sans toucher aux fontes système. MIT ; v1.1 du 27 oct., macOS 26 requis, app non notarisée.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
     <item>
       <title>Obel Mono 1.002 — une mono qui masque les clés API</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-06-obel-mono-1-002-une-mono-qui-masque-les-cles-api</link>
@@ -952,55 +1001,6 @@
       <description>Serif de lecture dérivée de Readerly (elle-même issue de Newsreader), retravaillée à la main dans FontForge pour un gris plus calme. Builds pour Kobo, KOReader, Kindle, bureau et web. La 0.31 (9 oct.) ajoute fractions, exposants et espaces Unicode. OFL, en développement actif.</description>
       <category>ofl</category>
       <category>lisibilite</category>
-    </item>
-    <item>
-      <title>Ark Pixel Font 2026.10.16</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-19-ark-pixel-font-2026-10-16</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-19-ark-pixel-font-2026-10-16</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police pixel open source en 10 et 12 px, latin et chinois/japonais/coréen, en version monospace ou proportionnelle avec crénage. Parfaite pour une UI de jeu ou un HUD rétro. Release du 16 oct. (le 16 px est retiré). Fontes OFL 1.1, code MIT, projet actif depuis 2021.</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>Redaction — le serif des documents judiciaires, bientôt sur Google Fonts</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-18-redaction-le-serif-des-documents-judiciaires-bientot-sur-google-fonts</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-18-redaction-le-serif-des-documents-judiciaires-bientot-sur-google-fonts</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Serif de Jeremy Mickel (MCKL), entre Times et Century Schoolbook, en 7 familles : une nette et six de plus en plus « photocopiées » (10 à 100). Idéal pour un titrage texturé ou un rendu d'archive. OFL 1.1, intégration Google Fonts en cours (oct. 2026).</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Fontra Pak 2026.10</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-18-fontra-pak-2026-10</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-18-fontra-pak-2026-10</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
-      <description>L'éditeur de fontes libre qui tourne dans le navigateur, empaqueté pour macOS, Windows et Linux. La 2026.10 (5 oct.) ajoute un vrai menu Fichier et un bouton pour ouvrir directement un .ufo ou un .fontra. GPL 3.0, encore en développement actif, releases mensuelles.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Glyphr Studio 2.10.6</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-18-glyphr-studio-2-10-6</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-18-glyphr-studio-2-10-6</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Éditeur de fontes 100 % web, sans installation ni compte, pensé pour débuter : dessiner un alphabet de titrage ou une police d'icônes en une soirée. La 2.10.6 (2 oct. 2026) corrige l'état des outils et la recherche par plage Unicode. GPL 3.0, gratuit.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Iosevka 34.9</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-18-iosevka-34-9</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-18-iosevka-34-9</guid>
-      <pubDate>Sun, 18 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Monospace étroite et entièrement configurable (variantes de glyphes, build sur mesure), déclinée en Term, Slab, Aile et Etoile. La 34.9 (26 sept. 2026) ajoute des variantes pour ζ, ξ, ς et des dizaines de diacritiques. OFL 1.1, projet très mature depuis 2015.</description>
-      <category>ofl</category>
-      <category>code</category>
     </item>
   </channel>
 </rss>

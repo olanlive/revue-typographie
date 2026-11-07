@@ -1,5 +1,94 @@
 [
  {
+  "date": "2026-11-07",
+  "name": "Pentas Meong Seru 1.000 — une sans excentrique à petites capitales",
+  "name_en": "Pentas Meong Seru 1.000 — a quirky sans with small caps",
+  "summary": "Sans pour affiches, titres musicaux et sites, qui tient aussi en texte courant : capitales presque rondes à côté de lettres étroites, vraies petites capitales, K et 4 singuliers. 8 graisses en variable et statiques. Dérivée de Reddit Sans Condensed. OFL ; v1.000 sortie le 7 nov.",
+  "summary_en": "A sans for posters, music headlines and websites that still works in running text: near-circular capitals beside narrow letters, true small caps, an odd K and 4. Eight weights, variable and static. Derived from Reddit Sans Condensed. OFL; v1.000 out Nov 7.",
+  "url": "https://github.com/Kaleidosium/pentas-meong-seru",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — Kaleidosium/pentas-meong-seru",
+   "label_en": "GitHub — Kaleidosium/pentas-meong-seru",
+   "url": "https://github.com/Kaleidosium/pentas-meong-seru/blob/main/FONTLOG.txt"
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Collab Sans 1.000 — Inter aux terminaisons arrondies",
+  "name_en": "Collab Sans 1.000 — Inter with rounded terminals",
+  "summary": "Néo-grotesque arrondie dérivée d’Inter : la lisibilité écran d’Inter avec des fins de traits en demi-cercle, plus douce pour une UI ou une identité. 9 graisses + italiques, 2 548 glyphes (latin étendu, cyrillique, grec, vietnamien). OFL ; v1.000 sortie le 3 nov.",
+  "summary_en": "A rounded neo-grotesque derived from Inter: Inter's screen legibility with semicircular stroke ends, softer for a UI or a brand. Nine weights plus italics, 2,548 glyphs (Latin Extended, Cyrillic, Greek, Vietnamese). OFL; v1.000 out Nov 3.",
+  "url": "https://yugal.one/collab-sans/",
+  "tags": [
+   "ofl",
+   "ui",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — yugalone/collab-sans",
+   "label_en": "GitHub — yugalone/collab-sans",
+   "url": "https://github.com/yugalone/collab-sans/releases/tag/v1.000"
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "name": "LXGW Marker Gothic KR 1.001 — le feutre passe au coréen",
+  "name_en": "LXGW Marker Gothic KR 1.001 — the marker font goes Korean",
+  "summary": "Édition coréenne de LXGW Marker Gothic, police au feutre façon affichette (POP) issue de Tanugo : les 2 350 syllabes hangûl et 4 620 hanja de KS X 1001, plus le latin de la version d’origine. Utile pour du titrage manuscrit coréen. OFL ; v1.001 du 5 nov.",
+  "summary_en": "Korean edition of LXGW Marker Gothic, a POP-style marker font derived from Tanugo: all 2,350 Hangul syllables and 4,620 Hanja of KS X 1001, plus the original's Latin. Handy for hand-lettered Korean headlines. OFL; v1.001 from Nov 5.",
+  "url": "https://github.com/lxgw/LxgwMarkerGothicKR",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — lxgw/LxgwMarkerGothicKR",
+   "label_en": "GitHub — lxgw/LxgwMarkerGothicKR",
+   "url": "https://github.com/lxgw/LxgwMarkerGothicKR/releases"
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Typeshelf 1.0.0 — des fontes qui se mettent à jour seules",
+  "name_en": "Typeshelf 1.0.0 — fonts that update themselves",
+  "summary": "Gestionnaire de fontes Windows 10/11 : activation sans droits admin (permanente ou par session), catalogues Google Fonts et Fontshare avec mises à jour validées et retour arrière, testeur d’axes variables, générateur @font-face. GPL-3.0 ; v1.0.0 du 6 nov., installeur non signé.",
+  "summary_en": "Font manager for Windows 10/11: activation without admin rights (permanent or per session), Google Fonts and Fontshare catalogs with validated updates and rollback, variable-axis tester, duplicates, @font-face generator. GPL-3.0; v1.0.0 from Nov 6, unsigned installer.",
+  "url": "https://github.com/aashifahd/typeshelf",
+  "tags": [
+   "outil",
+   "libre",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — aashifahd/typeshelf",
+   "label_en": "GitHub — aashifahd/typeshelf",
+   "url": "https://github.com/aashifahd/typeshelf/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Kern 1.1 — gérer et appairer ses fontes sur Mac",
+  "name_en": "Kern 1.1 — manage and pair your fonts on a Mac",
+  "summary": "Gestionnaire de fontes macOS : aperçus, axes variables et fonctions OpenType par fonte, comparaison côte à côte, appairage titre + texte avec suggestions et export PNG, activation sans toucher aux fontes système. MIT ; v1.1 du 27 oct., macOS 26 requis, app non notarisée.",
+  "summary_en": "Font manager for macOS: grid previews, per-font variable axes and OpenType features, side-by-side comparison, heading + body pairing with suggestions and PNG export, activation without touching system fonts. MIT; v1.1 from Oct 27, needs macOS 26, not notarized.",
+  "url": "https://github.com/byaydenrx/Kern",
+  "tags": [
+   "outil",
+   "libre",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — byaydenrx/Kern",
+   "label_en": "GitHub — byaydenrx/Kern",
+   "url": "https://github.com/byaydenrx/Kern/releases/tag/v1.1"
+  }
+ },
+ {
   "date": "2026-11-06",
   "name": "Obel Mono 1.002 — une mono qui masque les clés API",
   "name_en": "Obel Mono 1.002 — a mono that masks API keys",
