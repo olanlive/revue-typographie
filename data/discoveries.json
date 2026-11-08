@@ -1,5 +1,114 @@
 [
  {
+  "date": "2026-11-08",
+  "name": "Arris 1.015 — une sans chanfreinée avec sa mono",
+  "name_en": "Arris 1.015 — a chamfered sans with its own mono",
+  "summary": "Sans géométrique octogonale, chaque angle coupé à 45°, née des chiffres d’un cadran de montre. 9 graisses, italique cursive, variable (wght, GRAD, WTCH) et Arris Mono pour le code : 105 ligatures, Powerline, latin, cyrillique, grec. OFL ; v1.015 sortie le 8 nov.",
+  "summary_en": "An octagonal geometric sans, every corner cut at 45°, grown from a watch face's digits. Nine weights, a cursive italic, variable (wght, GRAD, WTCH) and Arris Mono for code: 105 ligatures, Powerline, Latin, Cyrillic, Greek. OFL; v1.015 out Nov 8.",
+  "url": "https://arristype.com",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — huntrontrakkr/arris-type",
+   "label_en": "GitHub — huntrontrakkr/arris-type",
+   "url": "https://github.com/huntrontrakkr/arris-type/releases/tag/v1.015"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "name": "fontzz — 36 familles variables générées par code",
+  "name_en": "fontzz — 36 variable families generated in code",
+  "summary": "36 familles dessinées par un générateur Python : 12 sans, 12 serifs, 9 display (Didone, Art déco, matrice de points…) et 3 monos, chacune variable de 100 à 900 avec 9 statiques et WOFF2. Latin seul, pas d’italiques ni de hinting. OFL ; annoncées le 2 nov., sans numéro de version.",
+  "summary_en": "36 families drawn by a Python generator: 12 sans, 12 serifs, 9 display (Didone, Art Deco, dot matrix…) and 3 monos, each variable from 100 to 900 with 9 statics and WOFF2. Latin only, no italics or hinting yet. OFL; announced Nov 2, no version number.",
+  "url": "https://fontzz.vercel.app",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — Nutlope/fontzz",
+   "label_en": "GitHub — Nutlope/fontzz",
+   "url": "https://github.com/Nutlope/fontzz"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "name": "Curto Serif 1.001 — un serif éditorial contrasté",
+  "name_en": "Curto Serif 1.001 — a high-contrast editorial serif",
+  "summary": "Serif à fort contraste pour le texte, les titres et l’identité de marque : romain et italique du Regular au Bold, en statiques et en variable (wght), jeu Google Fonts Latin Core avec latin étendu, ponctuation et devises. Compilé avec gftools. OFL ; v1.001 publiée le 5 nov.",
+  "summary_en": "A high-contrast serif for text, headlines and brand identities: roman and italic from Regular to Bold, static and variable (wght), Google Fonts Latin Core glyph set with extended Latin, punctuation and currencies. Built with gftools. OFL; v1.001 published Nov 5.",
+  "url": "https://github.com/dqev/curto",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — dqev/curto",
+   "label_en": "GitHub — dqev/curto",
+   "url": "https://github.com/dqev/curto/tree/main/releases"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "name": "Awami Nastaliq 3.500 — le nastaliq pour les langues du Pakistan",
+  "name_en": "Awami Nastaliq 3.500 — Nastaliq for the languages of Pakistan",
+  "summary": "Police arabe de style nastaliq de SIL pour l’ourdou et les langues minoritaires d’Asie du Sud, avec tous leurs diacritiques et nuqtas. La 3.500 ajoute U+088F et ₹. Limite : moteur Graphite requis (LibreOffice, Firefox…). OFL ; sortie le 5 nov., version OpenType en préparation.",
+  "summary_en": "SIL's Nastaliq-style Arabic font for Urdu and South Asian minority languages, with all their diacritics and nuqtas. 3.500 adds U+088F and ₹. Caveat: it needs the Graphite engine (LibreOffice, Firefox…). OFL; out Nov 5, an OpenType version is in the works.",
+  "url": "https://software.sil.org/awami/",
+  "tags": [
+   "ofl",
+   "libre",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "SIL — Awami Nastaliq Release 3.500",
+   "label_en": "SIL — Awami Nastaliq Release 3.500",
+   "url": "https://software.sil.org/awami/awami-nastaliq-release-3-500/"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "name": "AZ Letter Digger 0.1 — les bons mots pour éprouver une lettre",
+  "name_en": "AZ Letter Digger 0.1 — the right words to proof a letter",
+  "summary": "Plugin Glyphs 3 et 4 qui cherche les mots pour tester une lettre ou un glyphe (é, g k…) et les classe au lieu de les tirer au hasard comme word-o-mat, puis les ouvre dans un onglet d’édition. Gratuit, licence MIT ; v0.1 du 24 oct., renommé le 28 oct. Nécessite Glyphs (payant).",
+  "summary_en": "A Glyphs 3 and 4 plugin that finds words to proof a letter or glyph (é, g k…) and ranks them instead of picking at random like word-o-mat, then opens them in an Edit tab. Free, MIT licence; v0.1 from Oct 24, renamed Oct 28. Requires Glyphs (paid).",
+  "url": "https://github.com/azerty-typefaces/AZ-LetterDigger",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — azerty-typefaces/AZ-LetterDigger",
+   "label_en": "GitHub — azerty-typefaces/AZ-LetterDigger",
+   "url": "https://github.com/azerty-typefaces/AZ-LetterDigger"
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "name": "Glyph Atlas 1.6 — voir toutes les alternates d’une fonte sur Mac",
+  "name_en": "Glyph Atlas 1.6 — see every alternate in a font on Mac",
+  "summary": "App macOS native : on tape du texte, elle montre chaque alternate, substitution contextuelle et ligature de la fonte, avec panneau d’axes variables et bascule des fonctions OpenType. La 1.6 filtre les glyphes par fonction. Gratuite, sans licence déclarée ; macOS 12+, non signée.",
+  "summary_en": "A native macOS app: type text and it shows every alternate, contextual substitution and ligature the font offers, with a variable axes panel and OpenType feature toggles. 1.6 filters glyphs by feature. Free, no licence stated; macOS 12+, unsigned app.",
+  "url": "https://github.com/Zonz-Ly/GlyphAtlas",
+  "tags": [
+   "outil",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — Zonz-Ly/GlyphAtlas",
+   "label_en": "GitHub — Zonz-Ly/GlyphAtlas",
+   "url": "https://github.com/Zonz-Ly/GlyphAtlas/releases/tag/v1.6"
+  }
+ },
+ {
   "date": "2026-11-07",
   "name": "Pentas Meong Seru 1.000 — une sans excentrique à petites capitales",
   "name_en": "Pentas Meong Seru 1.000 — a quirky sans with small caps",

@@ -5,8 +5,69 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arris 1.015 — une sans chanfreinée avec sa mono</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-arris-1-015-une-sans-chanfreinee-avec-sa-mono</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-arris-1-015-une-sans-chanfreinee-avec-sa-mono</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Sans géométrique octogonale, chaque angle coupé à 45°, née des chiffres d’un cadran de montre. 9 graisses, italique cursive, variable (wght, GRAD, WTCH) et Arris Mono pour le code : 105 ligatures, Powerline, latin, cyrillique, grec. OFL ; v1.015 sortie le 8 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>fontzz — 36 familles variables générées par code</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-fontzz-36-familles-variables-generees-par-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-fontzz-36-familles-variables-generees-par-code</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>36 familles dessinées par un générateur Python : 12 sans, 12 serifs, 9 display (Didone, Art déco, matrice de points…) et 3 monos, chacune variable de 100 à 900 avec 9 statiques et WOFF2. Latin seul, pas d’italiques ni de hinting. OFL ; annoncées le 2 nov., sans numéro de version.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Curto Serif 1.001 — un serif éditorial contrasté</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-curto-serif-1-001-un-serif-editorial-contraste</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-curto-serif-1-001-un-serif-editorial-contraste</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Serif à fort contraste pour le texte, les titres et l’identité de marque : romain et italique du Regular au Bold, en statiques et en variable (wght), jeu Google Fonts Latin Core avec latin étendu, ponctuation et devises. Compilé avec gftools. OFL ; v1.001 publiée le 5 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Awami Nastaliq 3.500 — le nastaliq pour les langues du Pakistan</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-awami-nastaliq-3-500-le-nastaliq-pour-les-langues-du-pakistan</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-awami-nastaliq-3-500-le-nastaliq-pour-les-langues-du-pakistan</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Police arabe de style nastaliq de SIL pour l’ourdou et les langues minoritaires d’Asie du Sud, avec tous leurs diacritiques et nuqtas. La 3.500 ajoute U+088F et ₹. Limite : moteur Graphite requis (LibreOffice, Firefox…). OFL ; sortie le 5 nov., version OpenType en préparation.</description>
+      <category>ofl</category>
+      <category>libre</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>AZ Letter Digger 0.1 — les bons mots pour éprouver une lettre</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-az-letter-digger-0-1-les-bons-mots-pour-eprouver-une-lettre</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-az-letter-digger-0-1-les-bons-mots-pour-eprouver-une-lettre</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Plugin Glyphs 3 et 4 qui cherche les mots pour tester une lettre ou un glyphe (é, g k…) et les classe au lieu de les tirer au hasard comme word-o-mat, puis les ouvre dans un onglet d’édition. Gratuit, licence MIT ; v0.1 du 24 oct., renommé le 28 oct. Nécessite Glyphs (payant).</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Glyph Atlas 1.6 — voir toutes les alternates d’une fonte sur Mac</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-08-glyph-atlas-1-6-voir-toutes-les-alternates-dune-fonte-sur-mac</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-08-glyph-atlas-1-6-voir-toutes-les-alternates-dune-fonte-sur-mac</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>App macOS native : on tape du texte, elle montre chaque alternate, substitution contextuelle et ligature de la fonte, avec panneau d’axes variables et bascule des fonctions OpenType. La 1.6 filtre les glyphes par fonction. Gratuite, sans licence déclarée ; macOS 12+, non signée.</description>
+      <category>outil</category>
+      <category>appairage</category>
+    </item>
     <item>
       <title>Pentas Meong Seru 1.000 — une sans excentrique à petites capitales</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-07-pentas-meong-seru-1-000-une-sans-excentrique-a-petites-capitales</link>
@@ -939,68 +1000,6 @@
       <category>variable</category>
       <category>display</category>
       <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Fontspector 1.9</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-fontspector-1-9</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-fontspector-1-9</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Le successeur de Fontbakery, réécrit en Rust : contrôle qualité de fontes en ligne de commande, en module Python ou dans le navigateur (WASM), avec profils Google Fonts, OpenType et universel. La 1.9 (9 oct.) corrige certains défauts directement dans les sources UFO. Apache 2.0.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>LXGW WenKai 1.530</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-20-lxgw-wenkai-1-530</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-20-lxgw-wenkai-1-530</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police chinoise libre de style kai, dérivée de Klee One de Fontworks, très appréciée pour la lecture. La 1.530 (17 oct.) ajoute 50 caractères en petit sceau d'Unicode 18, des symboles de mahjong et de dés, complète les kanji JIS X 0213 et redessine des centaines de glyphes. OFL.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
-    </item>
-    <item>
-      <title>Cal Sans 2.011</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-19-cal-sans-2-011</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-19-cal-sans-2-011</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Le sans géométrique de Cal.com devenu un système variable : graisse 400–700, tailles optiques 8–45 pt, axe GEOM (de A11y à Geo), vraies italiques. La 2.011 (15 oct.) ajoute Cal Sans Phlex, des formes qui se métamorphosent sans avar2. OFL 1.1, Flex encore expérimental.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>Kode Mono 2.003</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-19-kode-mono-2-003</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-19-kode-mono-2-003</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Monospace pour le code avec ligatures et glyphes Powerline. La série 2.0 ajoute deux axes variables, largeur (75–125) et arrondi (ROND 0–100), plus un jeu ss01 qui distingue D/0/O et 8/B. La 2.003 (8 oct.) est en route vers Google Fonts. OFL 1.1, projet mûr depuis 2023.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>variable</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Wavefont et Linefont — des graphiques écrits en texte</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Deux polices variables de Dmitry Iv. : chaque caractère devient une barre (Wavefont : formes d'onde, histogrammes) ou un point de courbe (Linefont : séries temporelles). Idéal pour des mini-graphes dans une UI web sans canvas. Mises à jour sur Google Fonts le 9 oct. OFL 1.1.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>web</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Libron 0.31</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-19-libron-0-31</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-19-libron-0-31</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Serif de lecture dérivée de Readerly (elle-même issue de Newsreader), retravaillée à la main dans FontForge pour un gris plus calme. Builds pour Kobo, KOReader, Kindle, bureau et web. La 0.31 (9 oct.) ajoute fractions, exposants et espaces Unicode. OFL, en développement actif.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
     </item>
   </channel>
 </rss>

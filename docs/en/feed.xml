@@ -5,8 +5,69 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Arris 1.015 — a chamfered sans with its own mono</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-arris-1-015-une-sans-chanfreinee-avec-sa-mono</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-arris-1-015-une-sans-chanfreinee-avec-sa-mono</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>An octagonal geometric sans, every corner cut at 45°, grown from a watch face's digits. Nine weights, a cursive italic, variable (wght, GRAD, WTCH) and Arris Mono for code: 105 ligatures, Powerline, Latin, Cyrillic, Greek. OFL; v1.015 out Nov 8.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>fontzz — 36 variable families generated in code</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-fontzz-36-familles-variables-generees-par-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-fontzz-36-familles-variables-generees-par-code</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>36 families drawn by a Python generator: 12 sans, 12 serifs, 9 display (Didone, Art Deco, dot matrix…) and 3 monos, each variable from 100 to 900 with 9 statics and WOFF2. Latin only, no italics or hinting yet. OFL; announced Nov 2, no version number.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Curto Serif 1.001 — a high-contrast editorial serif</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-curto-serif-1-001-un-serif-editorial-contraste</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-curto-serif-1-001-un-serif-editorial-contraste</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A high-contrast serif for text, headlines and brand identities: roman and italic from Regular to Bold, static and variable (wght), Google Fonts Latin Core glyph set with extended Latin, punctuation and currencies. Built with gftools. OFL; v1.001 published Nov 5.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Awami Nastaliq 3.500 — Nastaliq for the languages of Pakistan</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-awami-nastaliq-3-500-le-nastaliq-pour-les-langues-du-pakistan</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-awami-nastaliq-3-500-le-nastaliq-pour-les-langues-du-pakistan</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>SIL's Nastaliq-style Arabic font for Urdu and South Asian minority languages, with all their diacritics and nuqtas. 3.500 adds U+088F and ₹. Caveat: it needs the Graphite engine (LibreOffice, Firefox…). OFL; out Nov 5, an OpenType version is in the works.</description>
+      <category>ofl</category>
+      <category>libre</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>AZ Letter Digger 0.1 — the right words to proof a letter</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-az-letter-digger-0-1-les-bons-mots-pour-eprouver-une-lettre</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-az-letter-digger-0-1-les-bons-mots-pour-eprouver-une-lettre</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A Glyphs 3 and 4 plugin that finds words to proof a letter or glyph (é, g k…) and ranks them instead of picking at random like word-o-mat, then opens them in an Edit tab. Free, MIT licence; v0.1 from Oct 24, renamed Oct 28. Requires Glyphs (paid).</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Glyph Atlas 1.6 — see every alternate in a font on Mac</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-glyph-atlas-1-6-voir-toutes-les-alternates-dune-fonte-sur-mac</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-08-glyph-atlas-1-6-voir-toutes-les-alternates-dune-fonte-sur-mac</guid>
+      <pubDate>Sun, 08 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A native macOS app: type text and it shows every alternate, contextual substitution and ligature the font offers, with a variable axes panel and OpenType feature toggles. 1.6 filters glyphs by feature. Free, no licence stated; macOS 12+, unsigned app.</description>
+      <category>outil</category>
+      <category>appairage</category>
+    </item>
     <item>
       <title>Pentas Meong Seru 1.000 — a quirky sans with small caps</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-07-pentas-meong-seru-1-000-une-sans-excentrique-a-petites-capitales</link>
@@ -939,68 +1000,6 @@
       <category>variable</category>
       <category>display</category>
       <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Fontspector 1.9</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-20-fontspector-1-9</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-20-fontspector-1-9</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Fontbakery's successor, rewritten in Rust: font quality checks from the command line, as a Python module or right in the browser (WASM), with Google Fonts, OpenType and universal profiles. 1.9 (Oct 9) can fix some issues directly in UFO sources. Apache 2.0.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>LXGW WenKai 1.530</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-20-lxgw-wenkai-1-530</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-20-lxgw-wenkai-1-530</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A free Chinese kai-style font derived from Fontworks' Klee One, popular for reading. 1.530 (Oct 17) adds 50 Unicode 18 small seal script characters, mahjong and dice symbols, completes JIS X 0213 kanji and redraws hundreds of glyphs. OFL 1.1.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
-    </item>
-    <item>
-      <title>Cal Sans 2.011</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-cal-sans-2-011</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-cal-sans-2-011</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Cal.com's geometric sans, now a variable system: weight 400–700, optical sizes 8–45 pt, a GEOM axis (from A11y to Geo), real italics. 2.011 (Oct 15) adds Cal Sans Phlex, morphing letterforms without avar2. OFL 1.1; Flex is still experimental.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>Kode Mono 2.003</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-kode-mono-2-003</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-kode-mono-2-003</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A coding monospace with ligatures and Powerline glyphs. The 2.0 series adds two variable axes, width (75–125) and roundness (ROND 0–100), plus an ss01 set that tells D/0/O and 8/B apart. 2.003 (Oct 8) is heading to Google Fonts. OFL 1.1, mature since 2023.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>variable</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Wavefont and Linefont — charts written as text</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-wavefont-et-linefont-des-graphiques-ecrits-en-texte</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Two variable fonts by Dmitry Iv.: each character becomes a bar (Wavefont: waveforms, histograms) or a curve point (Linefont: time series). Great for tiny charts in a web UI without canvas. Updated on Google Fonts on Oct 9. OFL 1.1.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>web</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Libron 0.31</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-19-libron-0-31</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-19-libron-0-31</guid>
-      <pubDate>Mon, 19 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A reading serif derived from Readerly (itself based on Newsreader), hand-edited in FontForge for a calmer texture. Ready-made builds for Kobo, KOReader, Kindle, desktop and web. 0.31 (Oct 9) adds fractions, superscripts and Unicode spaces. OFL, in active development.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
     </item>
   </channel>
 </rss>
