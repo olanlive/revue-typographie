@@ -1,5 +1,92 @@
 [
  {
+  "date": "2026-11-09",
+  "name": "Wiggle Wiggle 1.000 — un marqueur graffiti qui tremble",
+  "name_en": "Wiggle Wiggle 1.000 — a graffiti marker that wobbles",
+  "summary": "Feutre graffiti en Light, Regular et Bold : trois alternates par glyphe, que calt fait tourner pour que deux lettres identiques ne se ressemblent jamais ; ss01 et ss02 donnent les images d’un effet « boil » à animer en CSS. ASCII complet. OFL ; v1.000 sortie le 7 nov.",
+  "summary_en": "A graffiti felt-tip in Light, Regular and Bold: three alternates per glyph, rotated by calt so no two identical letters match; ss01 and ss02 hold the frames of a boil effect you can animate in CSS. Full ASCII. OFL; v1.000 out Nov 7.",
+  "url": "https://z1han.com/font",
+  "tags": [
+   "ofl",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — bravohenry/wiggle-wiggle",
+   "label_en": "GitHub — bravohenry/wiggle-wiggle",
+   "url": "https://github.com/bravohenry/wiggle-wiggle/releases/tag/v1.000"
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Garamonto Code 1.1 — un Garamond à chasse fixe pour le code",
+  "name_en": "Garamonto Code 1.1 — a fixed-width Garamond for code",
+  "summary": "Mono à empattements tirée d’EB Garamond, avec JetBrains Mono pour les symboles : Regular, Medium, Bold et italiques, 150 ligatures de code à largeur exacte, zéro pointé (ss01 pour le zéro simple), chiffres elzéviriens. Sources FontForge. OFL ; jeune projet, v1.1 du 3 nov.",
+  "summary_en": "A serif mono drawn from EB Garamond, with JetBrains Mono for symbols: Regular, Medium, Bold and italics, 150 exact-width coding ligatures, dotted zero (ss01 for a plain one), old-style figures. FontForge sources. OFL; a young project, v1.1 from Nov 3.",
+  "url": "https://rizese.github.io/garamonto-code/",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — rizese/garamonto-code",
+   "label_en": "GitHub — rizese/garamonto-code",
+   "url": "https://github.com/rizese/garamonto-code/releases/tag/v1.1"
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Monostain 1.0.0 — une mono écrite en code, dans le domaine public",
+  "name_en": "Monostain 1.0.0 — a code-drawn mono in the public domain",
+  "summary": "Mono inspirée de JetBrains Mono, dont chaque glyphe est un tracé central épaissi par skia-pathops. Regular, Bold et italiques, 383 caractères (latin étendu A, flèches, cadres), 0 pointé et 1 l I | bien distincts. Servie par CDN. CC0 ; v1.0.0 du 8 nov.",
+  "summary_en": "A mono inspired by JetBrains Mono, each glyph a centerline stroked by skia-pathops. Regular, Bold and italics, 383 characters (Latin Extended-A, arrows, box drawing), dotted 0 and distinct 1 l I |. Served by CDN. CC0; v1.0.0 from Nov 8.",
+  "url": "https://monostain.pages.dev/",
+  "tags": [
+   "libre",
+   "code",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — PlanetRenox/MonostainFont",
+   "label_en": "GitHub — PlanetRenox/MonostainFont",
+   "url": "https://github.com/PlanetRenox/MonostainFont/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Shalymenov Block 1.102 — un titrage compact latin et cyrillique",
+  "name_en": "Shalymenov Block 1.102 — compact Latin and Cyrillic headlines",
+  "summary": "Display géométrique et anguleuse, compacte, en Light, Regular, Bold et ExtraBold, pour le latin et le cyrillique. Masters UFO éditables, build fontmake reproductible, WOFF2 prêts. Proposée à Google Fonts, pas encore acceptée. OFL sans nom réservé ; v1.102.",
+  "summary_en": "A compact, angular geometric display face in Light, Regular, Bold and ExtraBold, for Latin and Cyrillic. Editable UFO masters, a reproducible fontmake build, ready WOFF2. Submitted to Google Fonts, not yet accepted. OFL with no reserved name; v1.102.",
+  "url": "https://mediadesign.ca/fonts/shalymenov-block/",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — alexander-shalymenov/shalymenov-block",
+   "label_en": "GitHub — alexander-shalymenov/shalymenov-block",
+   "url": "https://github.com/alexander-shalymenov/shalymenov-block"
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Tokenizer Mono 0.2.0 — voir les tokens d’un LLM en tapant",
+  "name_en": "Tokenizer Mono 0.2.0 — see an LLM's tokens as you type",
+  "summary": "Fonte couleur COLR sur IBM Plex Mono : ses règles GSUB imitent 28 tokenizers (GPT-4o, Llama, Qwen…) et surlignent chaque token, sans JavaScript, à ~98 % d’accord mesuré. Sans COLR, reste du Plex Mono. Expérimental ; pas de fichier de licence dans le dépôt.",
+  "summary_en": "A COLR color font on IBM Plex Mono: its GSUB rules mimic 28 tokenizers (GPT-4o, Llama, Qwen…) and highlight each token, no JavaScript, at about 98% measured agreement. Without COLR it stays Plex Mono. Experimental; no license file in the repo.",
+  "url": "https://george.mand.is/2026/11/the-tokenizer-font/",
+  "tags": [
+   "code",
+   "outil"
+  ],
+  "source": {
+   "label": "GitHub — georgemandis/tokenizer-mono",
+   "label_en": "GitHub — georgemandis/tokenizer-mono",
+   "url": "https://github.com/georgemandis/tokenizer-mono/releases/tag/v0.2.0"
+  }
+ },
+ {
   "date": "2026-11-08",
   "name": "Arris 1.015 — une sans chanfreinée avec sa mono",
   "name_en": "Arris 1.015 — a chamfered sans with its own mono",

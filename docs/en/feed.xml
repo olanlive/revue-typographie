@@ -5,8 +5,55 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wiggle Wiggle 1.000 — a graffiti marker that wobbles</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-09-wiggle-wiggle-1-000-un-marqueur-graffiti-qui-tremble</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-09-wiggle-wiggle-1-000-un-marqueur-graffiti-qui-tremble</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A graffiti felt-tip in Light, Regular and Bold: three alternates per glyph, rotated by calt so no two identical letters match; ss01 and ss02 hold the frames of a boil effect you can animate in CSS. Full ASCII. OFL; v1.000 out Nov 7.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Garamonto Code 1.1 — a fixed-width Garamond for code</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-09-garamonto-code-1-1-un-garamond-a-chasse-fixe-pour-le-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-09-garamonto-code-1-1-un-garamond-a-chasse-fixe-pour-le-code</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A serif mono drawn from EB Garamond, with JetBrains Mono for symbols: Regular, Medium, Bold and italics, 150 exact-width coding ligatures, dotted zero (ss01 for a plain one), old-style figures. FontForge sources. OFL; a young project, v1.1 from Nov 3.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Monostain 1.0.0 — a code-drawn mono in the public domain</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-09-monostain-1-0-0-une-mono-ecrite-en-code-dans-le-domaine-public</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-09-monostain-1-0-0-une-mono-ecrite-en-code-dans-le-domaine-public</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A mono inspired by JetBrains Mono, each glyph a centerline stroked by skia-pathops. Regular, Bold and italics, 383 characters (Latin Extended-A, arrows, box drawing), dotted 0 and distinct 1 l I |. Served by CDN. CC0; v1.0.0 from Nov 8.</description>
+      <category>libre</category>
+      <category>code</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Shalymenov Block 1.102 — compact Latin and Cyrillic headlines</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-09-shalymenov-block-1-102-un-titrage-compact-latin-et-cyrillique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-09-shalymenov-block-1-102-un-titrage-compact-latin-et-cyrillique</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A compact, angular geometric display face in Light, Regular, Bold and ExtraBold, for Latin and Cyrillic. Editable UFO masters, a reproducible fontmake build, ready WOFF2. Submitted to Google Fonts, not yet accepted. OFL with no reserved name; v1.102.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Tokenizer Mono 0.2.0 — see an LLM's tokens as you type</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-09-tokenizer-mono-0-2-0-voir-les-tokens-dun-llm-en-tapant</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-09-tokenizer-mono-0-2-0-voir-les-tokens-dun-llm-en-tapant</guid>
+      <pubDate>Mon, 09 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A COLR color font on IBM Plex Mono: its GSUB rules mimic 28 tokenizers (GPT-4o, Llama, Qwen…) and highlight each token, no JavaScript, at about 98% measured agreement. Without COLR it stays Plex Mono. Experimental; no license file in the repo.</description>
+      <category>code</category>
+      <category>outil</category>
+    </item>
     <item>
       <title>Arris 1.015 — a chamfered sans with its own mono</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-08-arris-1-015-une-sans-chanfreinee-avec-sa-mono</link>
@@ -948,58 +995,6 @@
       <category>ofl</category>
       <category>google-fonts</category>
       <category>ui</category>
-    </item>
-    <item>
-      <title>HarfBuzz 14.6.0</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-21-harfbuzz-14-6-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-21-harfbuzz-14-6-0</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
-      <description>The text-shaping engine behind Chrome, Firefox, Android and LibreOffice. 14.6.0 (Oct 5) fixes a regression with out-of-range glyph IDs, and adds the DMAP table and FeatureVariations 1.1 lookup variations. "Old MIT" license, an industry reference.</description>
-      <category>outil</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>glyphsLib 6.16</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-21-glyphslib-6-16</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-21-glyphslib-6-16</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
-      <description>The Python bridge that converts .glyphs sources to UFO and designspace, so you can build with fontmake without opening Glyphs. 6.16 (Oct 8) places corner components like Glyphs 3.5, and 6.16.1 (Oct 16) refines instances and alignment zones. Apache 2.0, mature.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Google Sans Flex 5.000</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-20-google-sans-flex-5-000</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-20-google-sans-flex-5-000</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Google's brand typeface, released as open source: a geometric variable sans on five axes (weight 1–1000, width 25–151, slant, ROND roundness, optical sizes 1–144). 5.000 (Oct 9) drops the GRAD axis and refines tiny sizes. OFL 1.1, merged into the google/fonts repo.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Tiny5 and Tiny5 Duo 2.007 — pixel type goes variable</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-20-tiny5-et-tiny5-duo-2-007-le-pixel-devient-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-20-tiny5-et-tiny5-duo-2-007-le-pixel-devient-variable</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A 5-pixel-tall pixel font, now variable: weight, width, roundness and two rare axes, BLED (ink spread, CRT glow) and JITT (jitter), plus italics. Tiny5 Duo uses 2-pixel stems. Great for HUDs and retro interfaces. OFL, merged into google/fonts on Oct 9.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Firjar — a bilingual Kufic Arabic-Latin typeface</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-20-firjar-un-kufique-bilingue-arabe-latin</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-20-firjar-un-kufique-bilingue-arabe-latin</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A Kufic-inspired sans built like a compass drawing (quarter circles and clean straight lines), pairing Arabic and Latin in one variable family: weight 100–800, width 75–125. For headlines, branding and bilingual UI. By Mestara Type, OFL, added to google/fonts on Oct 15.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>google-fonts</category>
     </item>
   </channel>
 </rss>
