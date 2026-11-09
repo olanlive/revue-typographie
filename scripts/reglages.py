@@ -15,5 +15,5 @@ THEME_COLOR = ''
 PEPITES_HASHTAGS = '#typographie #fontes'
 FEED_MINUTE = 0
 DAY_SEP_STYLE = 'plain'
-COVERED = False
-COVERED_SCOPE = ''
+COVERED = True
+COVERED_SCOPE = 'Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d`), animation (voir `olanlive/revue-animation`), audio/vidéo (voir `olanlive/revue-audio-video`) et outils IT (voir `olanlive/revue-outils-it`) — vérifier aussi leurs `data/discoveries.json` avant d’ajouter. Ici : polices, fonderies, outils d’édition, de test et de diffusion de fontes.\n\n'
