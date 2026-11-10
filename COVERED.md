@@ -7,6 +7,12 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-10 | Sixrow 1.000 — un titrage en lignes de balayage | ofl, variable, display, web | https://www.excellent.so/type | https://olanlive.github.io/revue-typographie/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage |
+| 2026-11-10 | Matte 0.101 — une sans variable redessinée depuis Inter | ofl, variable, ui, web | https://github.com/beamseree/matte | https://olanlive.github.io/revue-typographie/#2026-11-10-matte-0-101-une-sans-variable-redessinee-depuis-inter |
+| 2026-11-10 | Dyekon 1.902 — une famille sans, texte et mono | ofl, ui, code, appairage | https://github.com/yepjules/dyekon-fonts | https://olanlive.github.io/revue-typographie/#2026-11-10-dyekon-1-902-une-famille-sans-texte-et-mono |
+| 2026-11-10 | Satare KUFIC 1.000 — le coufique carré pour l’arabe et le persan | ofl, variable, display | https://github.com/PIIIX-org/satare-kufic | https://olanlive.github.io/revue-typographie/#2026-11-10-satare-kufic-1-000-le-coufique-carre-pour-larabe-et-le-persan |
+| 2026-11-10 | Skrifttype 1.0.0 — activer ses fontes à la demande sous Windows | outil, libre | https://skrifttype.anovelproject.com/ | https://olanlive.github.io/revue-typographie/#2026-11-10-skrifttype-1-0-0-activer-ses-fontes-a-la-demande-sous-windows |
+| 2026-11-10 | Fontarium 1.2.0 — inspecter une fonte d’un F3 dans Total Commander | outil, variable | https://digitalent.dev/en/projects/fontarium/ | https://olanlive.github.io/revue-typographie/#2026-11-10-fontarium-1-2-0-inspecter-une-fonte-dun-f3-dans-total-commander |
 | 2026-11-09 | Wiggle Wiggle 1.000 — un marqueur graffiti qui tremble | ofl, display, web | https://z1han.com/font | https://olanlive.github.io/revue-typographie/#2026-11-09-wiggle-wiggle-1-000-un-marqueur-graffiti-qui-tremble |
 | 2026-11-09 | Garamonto Code 1.1 — un Garamond à chasse fixe pour le code | ofl, code | https://rizese.github.io/garamonto-code/ | https://olanlive.github.io/revue-typographie/#2026-11-09-garamonto-code-1-1-un-garamond-a-chasse-fixe-pour-le-code |
 | 2026-11-09 | Monostain 1.0.0 — une mono écrite en code, dans le domaine public | libre, code, web | https://monostain.pages.dev/ | https://olanlive.github.io/revue-typographie/#2026-11-09-monostain-1-0-0-une-mono-ecrite-en-code-dans-le-domaine-public |

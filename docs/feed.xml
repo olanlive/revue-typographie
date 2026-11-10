@@ -5,8 +5,69 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sixrow 1.000 — un titrage en lignes de balayage</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Capitales dessinées sur six rangées, dont l’écart est un axe variable (SCAN) : à 0 le trait est plein, ouvert il se découpe en lignes. Axes graisse, largeur et pente en escalier, plus une version Mono. Latin Core complet. OFL ; v1.000 du 6 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Matte 0.101 — une sans variable redessinée depuis Inter</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-matte-0-101-une-sans-variable-redessinee-depuis-inter</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-matte-0-101-une-sans-variable-redessinee-depuis-inter</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Sans variable de 100 à 900, partie d’Inter puis redessinée : diagonales droites, f et t à sommet plat, x-height plus basse. Latin avec vietnamien, grec, cyrillique ; chiffres tabulaires, zéro barré, ss01–ss08. OFL ; jeune (0.101 du 8 nov.), formes encore mouvantes.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Dyekon 1.902 — une famille sans, texte et mono</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-dyekon-1-902-une-famille-sans-texte-et-mono</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-dyekon-1-902-une-famille-sans-texte-et-mono</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Trois familles dessinées à la main qui vont ensemble : Dyekon (13 styles dont condensés), Dyekon Text pour la lecture et Dyekon Mono pour le code. TTF, WOFF2 et un fonts.css prêt pour le web. OFL ; v1.902 du 7 nov., fichiers compilés seulement, sans sources.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>code</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Satare KUFIC 1.000 — le coufique carré pour l’arabe et le persan</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-satare-kufic-1-000-le-coufique-carre-pour-larabe-et-le-persan</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-satare-kufic-1-000-le-coufique-carre-pour-larabe-et-le-persan</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Coufique carré sur grille de pixels : on tape du texte normal, les formes contextuelles et les liaisons se font seules. Lettres persanes, chiffres, harakat, alternates salt et ss01–ss05. Six graisses et une variable (wght). OFL ; v1.000 du 7 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Skrifttype 1.0.0 — activer ses fontes à la demande sous Windows</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-skrifttype-1-0-0-activer-ses-fontes-a-la-demande-sous-windows</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-skrifttype-1-0-0-activer-ses-fontes-a-la-demande-sous-windows</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire de fontes local : il catalogue vos dossiers sans rien déplacer, classe serif, sans, mono, script, et active une fonte pour toutes les applis sans l’installer. Collections, comparaison, carte des glyphes. MIT, gratuit ; 1.0.0 du 9 nov., encore quelques aspérités.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Fontarium 1.2.0 — inspecter une fonte d’un F3 dans Total Commander</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-10-fontarium-1-2-0-inspecter-une-fonte-dun-f3-dans-total-commander</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-10-fontarium-1-2-0-inspecter-une-fonte-dun-f3-dans-total-commander</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Plugin Lister pour Total Commander : F3 sur un TTF, OTF ou WOFF2 et on voit la fonte, avec curseurs pour les axes variables, bascule des fonctions OpenType, inspecteur de glyphes et licence. Active et désactive aussi. Gratuiciel, pas libre ; v1.2.0 du 9 nov.</description>
+      <category>outil</category>
+      <category>variable</category>
+    </item>
     <item>
       <title>Wiggle Wiggle 1.000 — un marqueur graffiti qui tremble</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-09-wiggle-wiggle-1-000-un-marqueur-graffiti-qui-tremble</link>
@@ -935,66 +996,6 @@
       <category>variable</category>
       <category>display</category>
       <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Isometra</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-isometra</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-isometra</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Slab serif gras construit sur une grille isométrique à 60°, en une seule graisse. Pour un œil habitué à la 3D, un titrage qui a l'air modélisé : enseignes, logos, titres. OFL 1.1, projet récent (2025) entré sur Google Fonts en septembre 2026.</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Fontaine 1.0.2</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-fontaine-1-0-2</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-fontaine-1-0-2</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Outil JavaScript qui génère des polices de repli calées sur les métriques de la police web, pour éviter le saut de mise en page au chargement. La 1.0.2 (21 oct.) ajoute des replis Liberation compatibles en métriques et repère mieux les polices locales. MIT, projet unjs mûr.</description>
-      <category>outil</category>
-      <category>web</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Capsize</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-capsize</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-capsize</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Outil web et bibliothèque CSS qui rognent l'espace vide au-dessus et sous le texte grâce aux métriques de la police : un titre s'aligne enfin pile sur la grille. La mise à jour des métriques (15 oct.) couvre les nouveautés Google Fonts d'octobre. MIT, stable depuis 2020.</description>
-      <category>outil</category>
-      <category>web</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Lilex 2.630</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-lilex-2-630</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-lilex-2-630</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police de code dérivée d'IBM Plex Mono, avec ligatures et version variable. La 2.630 (5 oct.) ajoute les pictogrammes de contrôle ASCII, le surligné, des virgules et guillemets arrondis (ss05) et corrige ligatures et diacritiques. OFL 1.1, projet actif depuis 2019.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>Sarasa Gothic 1.0.42</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-sarasa-gothic-1-0-42</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-sarasa-gothic-1-0-42</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Une police composite qui marie Inter, Iosevka et Source Han Sans : latin et chinois, japonais, coréen alignés, dont des variantes à chasse fixe pour le terminal et le code. Version 1.0.42 du 26 sept., en TTF, TTC ou SuperTTC. OFL 1.1, projet mûr et très suivi.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>Noto Emoji — Unicode 18</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-21-noto-emoji-unicode-18</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-21-noto-emoji-unicode-18</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 +0200</pubDate>
-      <description>La bibliothèque d'emojis libre de Google passe à Unicode 18 (24 sept.) : police couleur 2D v2.057, déclinaison 3D v3.054 livrée à part, plus les SVG et PNG sources. Une version monochrome variable existe aussi sur Google Fonts. Polices OFL 1.1, outils Apache 2.0.</description>
-      <category>ofl</category>
-      <category>google-fonts</category>
-      <category>ui</category>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,114 @@
 [
  {
+  "date": "2026-11-10",
+  "name": "Sixrow 1.000 — un titrage en lignes de balayage",
+  "name_en": "Sixrow 1.000 — a scanline display face",
+  "summary": "Capitales dessinées sur six rangées, dont l’écart est un axe variable (SCAN) : à 0 le trait est plein, ouvert il se découpe en lignes. Axes graisse, largeur et pente en escalier, plus une version Mono. Latin Core complet. OFL ; v1.000 du 6 nov.",
+  "summary_en": "Capitals drawn on six rows, with the gap between rows as a variable axis (SCAN): solid at 0, split into lines when opened. Weight, width and stair-step slant axes, plus a Mono. Full Latin Core. OFL; v1.000 out Nov 6.",
+  "url": "https://www.excellent.so/type",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — excellent-so/sixrow",
+   "label_en": "GitHub — excellent-so/sixrow",
+   "url": "https://github.com/excellent-so/sixrow/releases/tag/v1.000"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Matte 0.101 — une sans variable redessinée depuis Inter",
+  "name_en": "Matte 0.101 — a variable sans redrawn from Inter",
+  "summary": "Sans variable de 100 à 900, partie d’Inter puis redessinée : diagonales droites, f et t à sommet plat, x-height plus basse. Latin avec vietnamien, grec, cyrillique ; chiffres tabulaires, zéro barré, ss01–ss08. OFL ; jeune (0.101 du 8 nov.), formes encore mouvantes.",
+  "summary_en": "A variable sans from 100 to 900, started from Inter and redrawn: straight diagonals, flat-topped f and t, lower x-height. Latin with Vietnamese, Greek, Cyrillic; tabular figures, slashed zero, ss01–ss08. OFL; early (0.101, Nov 8), shapes may still change.",
+  "url": "https://github.com/beamseree/matte",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — beamseree/matte",
+   "label_en": "GitHub — beamseree/matte",
+   "url": "https://github.com/beamseree/matte/releases/tag/v0.101"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Dyekon 1.902 — une famille sans, texte et mono",
+  "name_en": "Dyekon 1.902 — a sans, text and mono family",
+  "summary": "Trois familles dessinées à la main qui vont ensemble : Dyekon (13 styles dont condensés), Dyekon Text pour la lecture et Dyekon Mono pour le code. TTF, WOFF2 et un fonts.css prêt pour le web. OFL ; v1.902 du 7 nov., fichiers compilés seulement, sans sources.",
+  "summary_en": "Three hand-drawn families that work together: Dyekon (13 styles including condensed), Dyekon Text for reading and Dyekon Mono for code. TTF, WOFF2 and a ready fonts.css for the web. OFL; v1.902 out Nov 7, compiled fonts only, no sources.",
+  "url": "https://github.com/yepjules/dyekon-fonts",
+  "tags": [
+   "ofl",
+   "ui",
+   "code",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — yepjules/dyekon-fonts",
+   "label_en": "GitHub — yepjules/dyekon-fonts",
+   "url": "https://github.com/yepjules/dyekon-fonts/releases/tag/v1.902"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Satare KUFIC 1.000 — le coufique carré pour l’arabe et le persan",
+  "name_en": "Satare KUFIC 1.000 — square Kufic for Arabic and Persian",
+  "summary": "Coufique carré sur grille de pixels : on tape du texte normal, les formes contextuelles et les liaisons se font seules. Lettres persanes, chiffres, harakat, alternates salt et ss01–ss05. Six graisses et une variable (wght). OFL ; v1.000 du 7 nov.",
+  "summary_en": "Square Kufic on a pixel grid: type normal text and the contextual forms and joins happen on their own. Persian letters, digits, harakat, salt and ss01–ss05 alternates. Six weights and a variable (wght). OFL; v1.000 out Nov 7.",
+  "url": "https://github.com/PIIIX-org/satare-kufic",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — PIIIX-org/satare-kufic",
+   "label_en": "GitHub — PIIIX-org/satare-kufic",
+   "url": "https://github.com/PIIIX-org/satare-kufic/releases/tag/v1.000"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Skrifttype 1.0.0 — activer ses fontes à la demande sous Windows",
+  "name_en": "Skrifttype 1.0.0 — activate fonts on demand on Windows",
+  "summary": "Gestionnaire de fontes local : il catalogue vos dossiers sans rien déplacer, classe serif, sans, mono, script, et active une fonte pour toutes les applis sans l’installer. Collections, comparaison, carte des glyphes. MIT, gratuit ; 1.0.0 du 9 nov., encore quelques aspérités.",
+  "summary_en": "A local font manager: it catalogues your folders without moving anything, sorts serif, sans, mono, script, and activates a font for every app without installing it. Collections, comparison, glyph map. MIT, free; 1.0.0 out Nov 9, some rough edges left.",
+  "url": "https://skrifttype.anovelproject.com/",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — amnuts/skrifttype",
+   "label_en": "GitHub — amnuts/skrifttype",
+   "url": "https://github.com/amnuts/skrifttype/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Fontarium 1.2.0 — inspecter une fonte d’un F3 dans Total Commander",
+  "name_en": "Fontarium 1.2.0 — inspect a font with F3 in Total Commander",
+  "summary": "Plugin Lister pour Total Commander : F3 sur un TTF, OTF ou WOFF2 et on voit la fonte, avec curseurs pour les axes variables, bascule des fonctions OpenType, inspecteur de glyphes et licence. Active et désactive aussi. Gratuiciel, pas libre ; v1.2.0 du 9 nov.",
+  "summary_en": "A Lister plugin for Total Commander: press F3 on a TTF, OTF or WOFF2 to see the font, with sliders for variable axes, OpenType feature toggles, a glyph inspector and license details. It also activates fonts. Freeware, not open source; v1.2.0 out Nov 9.",
+  "url": "https://digitalent.dev/en/projects/fontarium/",
+  "tags": [
+   "outil",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — naderi/tc-fontarium",
+   "label_en": "GitHub — naderi/tc-fontarium",
+   "url": "https://github.com/naderi/tc-fontarium/releases/tag/v1.2.0"
+  }
+ },
+ {
   "date": "2026-11-09",
   "name": "Wiggle Wiggle 1.000 — un marqueur graffiti qui tremble",
   "name_en": "Wiggle Wiggle 1.000 — a graffiti marker that wobbles",
