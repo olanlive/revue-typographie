@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FontCraft 1.1.0 — manage, activate and identify your fonts</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Font manager for Windows, macOS and Linux: library kept in your folders, on-demand activation, collections, one-click Google Fonts and Fontshare, and a local font finder that works from a picture. MIT, free; a young project (v1.1.0, Nov 10).</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Font Viewer 0.2.1 — inspect a font inside VS Code</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-font-viewer-0-2-1-inspecter-une-fonte-dans-vs-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-11-font-viewer-0-2-1-inspecter-une-fonte-dans-vs-code</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>VS Code extension: opens TTF, OTF, WOFF2 and TTC, with a slider per variable axis, OpenType feature toggles, a glyph grid, Unicode coverage, the license and a ready @font-face rule. Offline. MIT; viewing is free, Pro tools $19. Young (v0.2.1).</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>RON 1.0.0 — ruler-straight capitals in five skins</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-ron-1-0-0-des-capitales-au-cordeau-en-cinq-habillages</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-11-ron-1-0-0-des-capitales-au-cordeau-en-cinq-habillages</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>All-caps grotesque drawn only at 0°, 45° and 90° from a bitmap grid: Black, fixed-width Mono, Dot, Scan (CRT lines) and Outline on one skeleton. 82 glyphs, no @ = % ? yet. OFL; v1.0.0 out Nov 10.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Threadline 1.0.0 — embroidered letters for games and UI</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-threadline-1-0-0-des-lettres-brodees-pour-le-jeu-et-lui</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-11-threadline-1-0-0-des-lettres-brodees-pour-le-jeu-et-lui</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Stitched-thread family in six styles (Running, Satin, Applique, Plain, Woven, Chain): Woven for big titles, Satin and Plain stay readable at small sizes. 352 characters, Google Fonts Latin Core, TTF and WOFF2. OFL; v1.0.0 out Nov 9.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>OCR-Bitcoin 2.0 — OCR-B as a fixed-width face for readouts</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-ocr-bitcoin-2-0-locr-b-en-chasse-fixe-pour-les-afficheurs</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-11-ocr-bitcoin-2-0-locr-b-en-chasse-fixe-pour-les-afficheurs</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Monospace retraced from OCR-B for terminals and readouts: full Latin-1, all of code page 437 (box drawing, blocks, DOS pictograms), the ₿ sign and 100 Bitcoin icons. 464 glyphs, OTF, TTF and WOFF2 with SHA-256 sums. MIT; v2.0 out Nov 4.</description>
+      <category>code</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Sixrow 1.000 — a scanline display face</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage</link>
@@ -941,60 +991,6 @@
       <category>ofl</category>
       <category>variable</category>
       <category>lisibilite</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Punctum — a variable dot-matrix font</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-punctum-matrice-de-points-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-punctum-matrice-de-points-variable</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A 5x7 dot-matrix font with two axes: dot size (from pinhole LED to touching dots) and shape (round to square pixel). One continuous grid, real descenders, 108 ASCII characters plus arrows. Great for info boards, HUDs or retro posters. OFL 1.1, version 1.000 (Oct 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Furifont 0.6</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-furifont-0-6</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-furifont-0-6</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A Japanese font that shows furigana above kanji by itself, with no ruby markup or JavaScript, using ligatures. Derived from Source Han Sans and Serif, with a variable version and a CLI to build your own variant. Fonts OFL 1.1, code MIT; a young project (0.6.2, Oct 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>web</category>
-      <category>outil</category>
-    </item>
-    <item>
-      <title>Clarity City</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-clarity-city</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-clarity-city</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A geometric sans born at VMware for its Clarity design system, now on Google Fonts (Sep 2026) as a variable font: weights 100 to 900 with italics. A sober interface face for mockups, tools or a website. OFL 1.1, a proven font since 2019.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Libre Caslon Condensed</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-libre-caslon-condensed</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-libre-caslon-condensed</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A narrow Caslon derived from Libre Caslon Text, now on Google Fonts: a variable condensed serif (400 to 700) with italics, rare among free fonts. Ideal for elegant headlines that fit on one line, posters or covers. OFL 1.1, maintained since 2023.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Kripa</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-22-kripa</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-22-kripa</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A geometric sans for Latin and Devanagari sharing one rhythm: variable from 100 to 900, 20 character variants, discretionary ligatures, tabular figures. Handy for a bilingual identity or warm headlines. OFL 1.1, brand new, added to Google Fonts in September.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
       <category>google-fonts</category>
     </item>
   </channel>

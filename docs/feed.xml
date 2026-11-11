@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>FontCraft 1.1.0 — gérer, activer et identifier ses fontes</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire de fontes Windows, macOS et Linux : bibliothèque dans vos dossiers, activation à la demande, collections, Google Fonts et Fontshare en un clic, et un détecteur de fonte à partir d’une image, en local. MIT, gratuit ; projet jeune (v1.1.0 du 10 nov.).</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Font Viewer 0.2.1 — inspecter une fonte dans VS Code</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-11-font-viewer-0-2-1-inspecter-une-fonte-dans-vs-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-11-font-viewer-0-2-1-inspecter-une-fonte-dans-vs-code</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Extension VS Code : ouvre TTF, OTF, WOFF2 et TTC, curseurs pour chaque axe variable, cases pour les features OpenType, grille de glyphes, couverture Unicode, licence et règle @font-face prête. Hors ligne. MIT ; lecture gratuite, outils Pro 19 $. Jeune (v0.2.1).</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>RON 1.0.0 — des capitales au cordeau, en cinq habillages</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-11-ron-1-0-0-des-capitales-au-cordeau-en-cinq-habillages</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-11-ron-1-0-0-des-capitales-au-cordeau-en-cinq-habillages</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Grotesque tout en capitales, tracée uniquement à 0°, 45° et 90° depuis une grille bitmap : Black, Mono à chasse fixe, Dot, Scan (lignes CRT) et Outline sur le même squelette. 82 glyphes, sans @ = % ?. OFL ; v1.0.0 du 10 nov.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Threadline 1.0.0 — des lettres brodées pour le jeu et l’UI</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-11-threadline-1-0-0-des-lettres-brodees-pour-le-jeu-et-lui</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-11-threadline-1-0-0-des-lettres-brodees-pour-le-jeu-et-lui</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Famille au fil cousu en six styles (Running, Satin, Applique, Plain, Woven, Chain) : Woven pour les gros titres, Satin et Plain restent lisibles en petit. 352 caractères, Latin Core de Google Fonts, TTF et WOFF2. OFL ; v1.0.0 du 9 nov.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>OCR-Bitcoin 2.0 — l’OCR-B en chasse fixe pour les afficheurs</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-11-ocr-bitcoin-2-0-locr-b-en-chasse-fixe-pour-les-afficheurs</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-11-ocr-bitcoin-2-0-locr-b-en-chasse-fixe-pour-les-afficheurs</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono retracée d’OCR-B pour terminaux et afficheurs : Latin-1 complet, page de code 437 entière (cadres, blocs, pictos DOS), signe ₿ et 100 icônes Bitcoin. 464 glyphes, OTF, TTF et WOFF2 avec sommes SHA-256. MIT ; v2.0 du 4 nov.</description>
+      <category>code</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Sixrow 1.000 — un titrage en lignes de balayage</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage</link>
@@ -941,60 +991,6 @@
       <category>ofl</category>
       <category>variable</category>
       <category>lisibilite</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Punctum — matrice de points variable</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-punctum-matrice-de-points-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-punctum-matrice-de-points-variable</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police matricielle 5×7 à deux axes : taille des points (de la LED fine aux points jointifs) et forme (rond vers pixel carré). Une seule grille continue, vrais jambages, 108 caractères. Pour écrans d'info, HUD ou affiches rétro. OFL 1.1, version 1.000 (oct. 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Furifont 0.6</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-23-furifont-0-6</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-23-furifont-0-6</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police japonaise affichant seule les furigana au-dessus des kanji, sans balise ruby ni JavaScript, via des ligatures. Dérivée de Source Han Sans et Serif, avec une version variable et une CLI pour créer sa variante. Polices OFL 1.1, code MIT ; jeune projet (0.6.2, oct. 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>web</category>
-      <category>outil</category>
-    </item>
-    <item>
-      <title>Clarity City</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-clarity-city</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-clarity-city</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Sans-serif géométrique née chez VMware pour son design system Clarity, désormais sur Google Fonts (sept. 2026) en variable : graisses 100 à 900 avec italiques. Une police d'interface sobre pour des maquettes, des outils ou un site. OFL 1.1, police éprouvée depuis 2019.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Libre Caslon Condensed</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-libre-caslon-condensed</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-libre-caslon-condensed</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Un Caslon étroit dérivé de Libre Caslon Text, enfin sur Google Fonts : serif condensé variable (400 à 700) avec italiques, rare en libre. Idéal pour des titres élégants qui tiennent sur une ligne, affiches ou couvertures. OFL 1.1, projet suivi depuis 2023.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-      <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Kripa</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-22-kripa</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-22-kripa</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Sans géométrique latin et devanagari au rythme commun : variable de 100 à 900, 20 variantes de caractères, ligatures facultatives, chiffres tabulaires. Utile pour une identité bilingue ou des titres chaleureux. OFL 1.1, toute jeune, arrivée sur Google Fonts en septembre.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
       <category>google-fonts</category>
     </item>
   </channel>

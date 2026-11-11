@@ -1,5 +1,95 @@
 [
  {
+  "date": "2026-11-11",
+  "name": "FontCraft 1.1.0 — gérer, activer et identifier ses fontes",
+  "name_en": "FontCraft 1.1.0 — manage, activate and identify your fonts",
+  "summary": "Gestionnaire de fontes Windows, macOS et Linux : bibliothèque dans vos dossiers, activation à la demande, collections, Google Fonts et Fontshare en un clic, et un détecteur de fonte à partir d’une image, en local. MIT, gratuit ; projet jeune (v1.1.0 du 10 nov.).",
+  "summary_en": "Font manager for Windows, macOS and Linux: library kept in your folders, on-demand activation, collections, one-click Google Fonts and Fontshare, and a local font finder that works from a picture. MIT, free; a young project (v1.1.0, Nov 10).",
+  "url": "https://github.com/bornmedia/FontCraft",
+  "tags": [
+   "outil",
+   "libre",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — bornmedia/FontCraft",
+   "label_en": "GitHub — bornmedia/FontCraft",
+   "url": "https://github.com/bornmedia/FontCraft/releases/tag/v1.1.0"
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "name": "Font Viewer 0.2.1 — inspecter une fonte dans VS Code",
+  "name_en": "Font Viewer 0.2.1 — inspect a font inside VS Code",
+  "summary": "Extension VS Code : ouvre TTF, OTF, WOFF2 et TTC, curseurs pour chaque axe variable, cases pour les features OpenType, grille de glyphes, couverture Unicode, licence et règle @font-face prête. Hors ligne. MIT ; lecture gratuite, outils Pro 19 $. Jeune (v0.2.1).",
+  "summary_en": "VS Code extension: opens TTF, OTF, WOFF2 and TTC, with a slider per variable axis, OpenType feature toggles, a glyph grid, Unicode coverage, the license and a ready @font-face rule. Offline. MIT; viewing is free, Pro tools $19. Young (v0.2.1).",
+  "url": "https://marketplace.visualstudio.com/items?itemName=zovo.font-viewer-vscode",
+  "tags": [
+   "outil",
+   "variable",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — theluckystrike/font-viewer-vscode",
+   "label_en": "GitHub — theluckystrike/font-viewer-vscode",
+   "url": "https://github.com/theluckystrike/font-viewer-vscode"
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "name": "RON 1.0.0 — des capitales au cordeau, en cinq habillages",
+  "name_en": "RON 1.0.0 — ruler-straight capitals in five skins",
+  "summary": "Grotesque tout en capitales, tracée uniquement à 0°, 45° et 90° depuis une grille bitmap : Black, Mono à chasse fixe, Dot, Scan (lignes CRT) et Outline sur le même squelette. 82 glyphes, sans @ = % ?. OFL ; v1.0.0 du 10 nov.",
+  "summary_en": "All-caps grotesque drawn only at 0°, 45° and 90° from a bitmap grid: Black, fixed-width Mono, Dot, Scan (CRT lines) and Outline on one skeleton. 82 glyphs, no @ = % ? yet. OFL; v1.0.0 out Nov 10.",
+  "url": "https://github.com/DERYK-RYLOY/ron",
+  "tags": [
+   "ofl",
+   "display",
+   "code",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — DERYK-RYLOY/ron",
+   "label_en": "GitHub — DERYK-RYLOY/ron",
+   "url": "https://github.com/DERYK-RYLOY/ron/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "name": "Threadline 1.0.0 — des lettres brodées pour le jeu et l’UI",
+  "name_en": "Threadline 1.0.0 — embroidered letters for games and UI",
+  "summary": "Famille au fil cousu en six styles (Running, Satin, Applique, Plain, Woven, Chain) : Woven pour les gros titres, Satin et Plain restent lisibles en petit. 352 caractères, Latin Core de Google Fonts, TTF et WOFF2. OFL ; v1.0.0 du 9 nov.",
+  "summary_en": "Stitched-thread family in six styles (Running, Satin, Applique, Plain, Woven, Chain): Woven for big titles, Satin and Plain stay readable at small sizes. 352 characters, Google Fonts Latin Core, TTF and WOFF2. OFL; v1.0.0 out Nov 9.",
+  "url": "https://github.com/chaosmos-studio/threadline",
+  "tags": [
+   "ofl",
+   "display",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — chaosmos-studio/threadline",
+   "label_en": "GitHub — chaosmos-studio/threadline",
+   "url": "https://github.com/chaosmos-studio/threadline/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "name": "OCR-Bitcoin 2.0 — l’OCR-B en chasse fixe pour les afficheurs",
+  "name_en": "OCR-Bitcoin 2.0 — OCR-B as a fixed-width face for readouts",
+  "summary": "Mono retracée d’OCR-B pour terminaux et afficheurs : Latin-1 complet, page de code 437 entière (cadres, blocs, pictos DOS), signe ₿ et 100 icônes Bitcoin. 464 glyphes, OTF, TTF et WOFF2 avec sommes SHA-256. MIT ; v2.0 du 4 nov.",
+  "summary_en": "Monospace retraced from OCR-B for terminals and readouts: full Latin-1, all of code page 437 (box drawing, blocks, DOS pictograms), the ₿ sign and 100 Bitcoin icons. 464 glyphs, OTF, TTF and WOFF2 with SHA-256 sums. MIT; v2.0 out Nov 4.",
+  "url": "https://github.com/omg21btc/OCR-Bitcoin",
+  "tags": [
+   "code",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — omg21btc/OCR-Bitcoin",
+   "label_en": "GitHub — omg21btc/OCR-Bitcoin",
+   "url": "https://github.com/omg21btc/OCR-Bitcoin/releases/tag/v2.0"
+  }
+ },
+ {
   "date": "2026-11-10",
   "name": "Sixrow 1.000 — un titrage en lignes de balayage",
   "name_en": "Sixrow 1.000 — a scanline display face",

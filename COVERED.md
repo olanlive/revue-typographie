@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-11 | FontCraft 1.1.0 — gérer, activer et identifier ses fontes | outil, libre, appairage | https://github.com/bornmedia/FontCraft | https://olanlive.github.io/revue-typographie/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes |
+| 2026-11-11 | Font Viewer 0.2.1 — inspecter une fonte dans VS Code | outil, variable, web | https://marketplace.visualstudio.com/items?itemName=zovo.font-viewer-vscode | https://olanlive.github.io/revue-typographie/#2026-11-11-font-viewer-0-2-1-inspecter-une-fonte-dans-vs-code |
+| 2026-11-11 | RON 1.0.0 — des capitales au cordeau, en cinq habillages | ofl, display, code, web | https://github.com/DERYK-RYLOY/ron | https://olanlive.github.io/revue-typographie/#2026-11-11-ron-1-0-0-des-capitales-au-cordeau-en-cinq-habillages |
+| 2026-11-11 | Threadline 1.0.0 — des lettres brodées pour le jeu et l’UI | ofl, display, ui | https://github.com/chaosmos-studio/threadline | https://olanlive.github.io/revue-typographie/#2026-11-11-threadline-1-0-0-des-lettres-brodees-pour-le-jeu-et-lui |
+| 2026-11-11 | OCR-Bitcoin 2.0 — l’OCR-B en chasse fixe pour les afficheurs | code, libre | https://github.com/omg21btc/OCR-Bitcoin | https://olanlive.github.io/revue-typographie/#2026-11-11-ocr-bitcoin-2-0-locr-b-en-chasse-fixe-pour-les-afficheurs |
 | 2026-11-10 | Sixrow 1.000 — un titrage en lignes de balayage | ofl, variable, display, web | https://www.excellent.so/type | https://olanlive.github.io/revue-typographie/#2026-11-10-sixrow-1-000-un-titrage-en-lignes-de-balayage |
 | 2026-11-10 | Matte 0.101 — une sans variable redessinée depuis Inter | ofl, variable, ui, web | https://github.com/beamseree/matte | https://olanlive.github.io/revue-typographie/#2026-11-10-matte-0-101-une-sans-variable-redessinee-depuis-inter |
 | 2026-11-10 | Dyekon 1.902 — une famille sans, texte et mono | ofl, ui, code, appairage | https://github.com/yepjules/dyekon-fonts | https://olanlive.github.io/revue-typographie/#2026-11-10-dyekon-1-902-une-famille-sans-texte-et-mono |
