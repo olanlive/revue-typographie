@@ -5,8 +5,60 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Geist Serif 1.003 — Geist's display serif, with a shape axis</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-12-geist-serif-1-003-le-serif-de-titrage-de-geist-a-axe-de-formes</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-12-geist-serif-1-003-le-serif-de-titrage-de-geist-a-axe-de-formes</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0100</pubDate>
+      <description>High-contrast display serif with fine saw-toothed serifs, completing Geist Sans, Mono and Pixel. A variable axis changes dots and terminals: round, square, triangle, heart. OFL 1.1, added to the Google Fonts repository; released Oct 30, v1.003 on Nov 6.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>CoCart Mono 1.0 beta — a mono where every figure stays aligned</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-12-cocart-mono-1-0-beta-une-mono-ou-chaque-chiffre-reste-aligne</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-12-cocart-mono-1-0-beta-une-mono-ou-chaque-chiffre-reste-aligne</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Monospace in 9 weights with true italics and a variable version, all on one grid: aligned figures, distinct 0/O, 1/l/I and rn/m, box drawing and Braille for terminals, API key masking (ss02). Latin, Cyrillic, Greek, Thai… OFL 1.1; beta 1 from Nov 12.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>code</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Saddha, Seela and Viriya 1.001 — three Sinhala faces by Pushpananda Ekanayake</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-12-saddha-seela-et-viriya-1-001-trois-cinghalaises-de-pushpananda-ekanayake</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-12-saddha-seela-et-viriya-1-001-trois-cinghalaises-de-pushpananda-ekanayake</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Three Sinhala families converted to Unicode with full OpenType shaping: Saddha (text, variable 400–800), Seela (classic text) and Viriya (narrow display), with a matching Latin taken from Noto. UFO sources. OFL 1.1; v1.001 from Nov 9.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>tuna-fonts 0.1.0 — a font manager for Windows, no account needed</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-12-tuna-fonts-0-1-0-un-gestionnaire-de-fontes-pour-windows-sans-compte</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-12-tuna-fonts-0-1-0-un-gestionnaire-de-fontes-pour-windows-sans-compte</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0100</pubDate>
+      <description>For Windows 10 and 11: activate and deactivate without deleting, install by drag and drop with no admin rights, Google Fonts catalog, collections, compare 2 to 4 fonts, watched folders. Local, no ads. MIT, free; very young (v0.1.0, Nov 11).</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Kernage — a full font editor in a single HTML file</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-12-kernage-un-editeur-de-fontes-complet-dans-un-seul-fichier-html</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-12-kernage-un-editeur-de-fontes-complet-dans-un-seul-fichier-html</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Draw your letters, set kerning, distort them with effects, then export OTF, TTF, WOFF, variable or colour fonts. Runs offline in the browser, on desktop or phone, with no install. MIT, free; brand new (published Nov 10).</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>FontCraft 1.1.0 — manage, activate and identify your fonts</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-11-fontcraft-1-1-0-gerer-activer-et-identifier-ses-fontes</link>
@@ -940,58 +992,6 @@
       <description>A coding font built on Iosevka, compact and geometric: ten weights, two widths, upright and italic. Three families (editor, terminal, no ligatures) and ready-made Nerd Font builds for VS Code, Zed, kitty or Ghostty. OFL 1.1, v2.2 released Oct 21, 2026.</description>
       <category>ofl</category>
       <category>code</category>
-    </item>
-    <item>
-      <title>Buena Mono 1.240</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-buena-mono-1-240</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-buena-mono-1-240</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A variable monospace designed for writing as much as coding (Markdown, notes): weight axis 100-800 and slant 0 to -10°, 5,406 glyphs, 971 languages, coding ligatures. Derived from Fragment Mono. OFL 1.1, also on npm; a young project (Aug 2026), v1.240 out Oct 7.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>Runebender — a font editor in Rust</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-24-runebender-editeur-de-fontes-en-rust</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-24-runebender-editeur-de-fontes-en-rust</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A free font editor for UFO and designspace sources: outlines, spacing and kerning, variable fonts, OpenType feature code. Runs on macOS and Linux, built from source with Cargo. Apache 2.0, free. Experimental (v0.1), but under very active development.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>libre</category>
-      <category>variable</category>
-    </item>
-    <item>
-      <title>Kerberos 1.4</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-kerberos-1-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-kerberos-1-4</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A text serif in the Kis-Janson line, rare among free fonts: four variable axes (weight 300-700, optical size 8-72 pt, grade, lowercase height), small caps, ligatures, Latin, Greek and Cyrillic. For long reading on screen or in PDFs. OFL 1.1, a young project (Oct 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>lisibilite</category>
-    </item>
-    <item>
-      <title>Vavin 1.1</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-vavin-1-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-vavin-1-1</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A Garamond for screens: derived from EB Garamond, with an x-height raised by 16% (0.72 of the cap height). Nine styles in three families, including a condensed and a display one, 503 Latin languages. Readable at small sizes, still classic. OFL 1.1, version 1.1 out Oct 2026.</description>
-      <category>ofl</category>
-      <category>lisibilite</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Agràve Pro</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-23-agrave-pro</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-23-agrave-pro</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0200</pubDate>
-      <description>A handwriting face designed for longer texts: open counters, even strokes, small caps and figure sets. Variable (weight 100-700), it was just merged into the Google Fonts repository. For a handwritten touch that stays readable. OFL 1.1, version 1.100, a 2026 project.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>lisibilite</category>
-      <category>google-fonts</category>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,97 @@
 [
  {
+  "date": "2026-11-12",
+  "name": "Geist Serif 1.003 — le serif de titrage de Geist, à axe de formes",
+  "name_en": "Geist Serif 1.003 — Geist's display serif, with a shape axis",
+  "summary": "Serif de titrage très contrasté, à empattements fins en dents de scie, qui complète Geist Sans, Mono et Pixel. Un axe variable change les points et terminaisons : rond, carré, triangle, cœur. OFL 1.1, ajouté au dépôt Google Fonts ; sorti le 30 oct., v1.003 du 6 nov.",
+  "summary_en": "High-contrast display serif with fine saw-toothed serifs, completing Geist Sans, Mono and Pixel. A variable axis changes dots and terminals: round, square, triangle, heart. OFL 1.1, added to the Google Fonts repository; released Oct 30, v1.003 on Nov 6.",
+  "url": "https://vercel.com/blog/introducing-geist-serif",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — vercel/geist-font",
+   "label_en": "GitHub — vercel/geist-font",
+   "url": "https://github.com/vercel/geist-font/releases/tag/v1.9.2"
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "name": "CoCart Mono 1.0 bêta — une mono où chaque chiffre reste aligné",
+  "name_en": "CoCart Mono 1.0 beta — a mono where every figure stays aligned",
+  "summary": "Mono en 9 graisses avec vraies italiques et version variable, sur une même grille : chiffres alignés, 0/O, 1/l/I et rn/m bien distincts, cadres et braille pour le terminal, masquage des clés API (ss02). Latin, cyrillique, grec, thaï… OFL 1.1 ; bêta 1 du 12 nov.",
+  "summary_en": "Monospace in 9 weights with true italics and a variable version, all on one grid: aligned figures, distinct 0/O, 1/l/I and rn/m, box drawing and Braille for terminals, API key masking (ss02). Latin, Cyrillic, Greek, Thai… OFL 1.1; beta 1 from Nov 12.",
+  "url": "https://cocart-headless.github.io/cocart-mono-font/",
+  "tags": [
+   "ofl",
+   "variable",
+   "code",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — cocart-headless/cocart-mono-font",
+   "label_en": "GitHub — cocart-headless/cocart-mono-font",
+   "url": "https://github.com/cocart-headless/cocart-mono-font/releases/tag/v1.0.0-beta.1"
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "name": "Saddha, Seela et Viriya 1.001 — trois cinghalaises de Pushpananda Ekanayake",
+  "name_en": "Saddha, Seela and Viriya 1.001 — three Sinhala faces by Pushpananda Ekanayake",
+  "summary": "Trois familles cinghalaises passées en Unicode avec mise en forme OpenType complète : Saddha (texte, variable 400–800), Seela (texte classique), Viriya (titrage étroit), avec un latin assorti tiré de Noto. Sources UFO. OFL 1.1 ; v1.001 du 9 nov.",
+  "summary_en": "Three Sinhala families converted to Unicode with full OpenType shaping: Saddha (text, variable 400–800), Seela (classic text) and Viriya (narrow display), with a matching Latin taken from Noto. UFO sources. OFL 1.1; v1.001 from Nov 9.",
+  "url": "https://github.com/pnfo/sinhala-unicode-fonts",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — pnfo/sinhala-unicode-fonts",
+   "label_en": "GitHub — pnfo/sinhala-unicode-fonts",
+   "url": "https://github.com/pnfo/sinhala-unicode-fonts/releases/tag/v1.001"
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "name": "tuna-fonts 0.1.0 — un gestionnaire de fontes pour Windows, sans compte",
+  "name_en": "tuna-fonts 0.1.0 — a font manager for Windows, no account needed",
+  "summary": "Pour Windows 10 et 11 : activer et désactiver sans supprimer, installer par glisser-déposer sans droits admin, catalogue Google Fonts, collections, comparaison de 2 à 4 fontes, dossiers surveillés. Local, sans pub. MIT, gratuit ; très jeune (v0.1.0 du 11 nov.).",
+  "summary_en": "For Windows 10 and 11: activate and deactivate without deleting, install by drag and drop with no admin rights, Google Fonts catalog, collections, compare 2 to 4 fonts, watched folders. Local, no ads. MIT, free; very young (v0.1.0, Nov 11).",
+  "url": "https://github.com/atunfrito/tuna-fonts",
+  "tags": [
+   "outil",
+   "libre",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — atunfrito/tuna-fonts",
+   "label_en": "GitHub — atunfrito/tuna-fonts",
+   "url": "https://github.com/atunfrito/tuna-fonts/releases/tag/v0.1.0"
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "name": "Kernage — un éditeur de fontes complet dans un seul fichier HTML",
+  "name_en": "Kernage — a full font editor in a single HTML file",
+  "summary": "Dessiner ses lettres, régler le crénage, les déformer avec des effets, puis exporter en OTF, TTF, WOFF, variable ou couleur. Marche hors ligne dans le navigateur, sur ordinateur comme sur téléphone, sans installation. MIT, gratuit ; tout neuf (publié le 10 nov.).",
+  "summary_en": "Draw your letters, set kerning, distort them with effects, then export OTF, TTF, WOFF, variable or colour fonts. Runs offline in the browser, on desktop or phone, with no install. MIT, free; brand new (published Nov 10).",
+  "url": "https://gexhaw.github.io/kernage/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — gexhaw/kernage",
+   "label_en": "GitHub — gexhaw/kernage",
+   "url": "https://github.com/gexhaw/kernage"
+  }
+ },
+ {
   "date": "2026-11-11",
   "name": "FontCraft 1.1.0 — gérer, activer et identifier ses fontes",
   "name_en": "FontCraft 1.1.0 — manage, activate and identify your fonts",
