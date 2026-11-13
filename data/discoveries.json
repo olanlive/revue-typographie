@@ -2572,5 +2572,98 @@
    "label_en": "GitHub — fontforge releases",
    "url": "https://github.com/fontforge/fontforge/releases"
   }
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Goeist Sans et Mono 0.0.2 — Geist aux angles arrondis",
+  "name_en": "Goeist Sans and Mono 0.0.2 — Geist with rounded corners",
+  "summary": "Version arrondie de Geist : mêmes proportions, espacement et fonctions OpenType, mais chaque angle et fin de trait adoucis, pour une UI plus chaleureuse. La Mono garde les ligatures de code de Geist Mono. OFL 1.1, aussi en paquet npm ; aperçu expérimental (v0.0.2 du 12 nov.).",
+  "summary_en": "A rounded take on Geist: same proportions, spacing and OpenType features, with every corner and stroke ending softened for a warmer UI. The Mono keeps Geist Mono's coding ligatures. OFL 1.1, also as an npm package; experimental preview (v0.0.2, Nov 12).",
+  "url": "https://github.com/shadcn-labs/goeist-font",
+  "tags": [
+   "ofl",
+   "ui",
+   "code",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — shadcn-labs/goeist-font",
+   "label_en": "GitHub — shadcn-labs/goeist-font",
+   "url": "https://github.com/shadcn-labs/goeist-font/releases/tag/v0.0.2"
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "name": "DINDOT 0.22.0 — un DIN arrondi pour les tableaux et la signalétique",
+  "name_en": "DINDOT 0.22.0 — a rounded DIN for tables and signage",
+  "summary": "Sans industrielle dérivée de DINish : coins arrondis, points ronds et chiffres tabulaires qui restent alignés dans les tableaux de données. Quatre graisses (400 à 700) avec italiques, en TTF et WOFF2, 949 caractères. OFL 1.1 ; v0.22.0 du 12 nov.",
+  "summary_en": "Industrial sans derived from DINish: rounded corners, circular dots and tabular figures that stay aligned in data tables. Four weights (400 to 700) with italics, as TTF and WOFF2, 949 characters. OFL 1.1; v0.22.0 from Nov 12.",
+  "url": "https://www.getdot.ai/dindot/",
+  "tags": [
+   "ofl",
+   "ui",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — Snowboard-Software/dindot",
+   "label_en": "GitHub — Snowboard-Software/dindot",
+   "url": "https://github.com/Snowboard-Software/dindot/releases/tag/v0.22.0"
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Nottsu Sans JP 1.1.0 — Noto Sans JP en quatre couleurs",
+  "name_en": "Nottsu Sans JP 1.1.0 — Noto Sans JP in four colours",
+  "summary": "Fonte couleur COLRv1 tirée de Noto Sans JP : chaque glyphe est peint en quatre couleurs depuis son centre. Variable de 100 à 900, plus neuf statiques ; table SVG pour Safari. Latin, kana et kanji, pour des titres ludiques. OFL 1.1 ; v1.1.0 du 12 nov.",
+  "summary_en": "COLRv1 colour font based on Noto Sans JP: each glyph is painted in four colours from its centre. Variable from 100 to 900, plus nine statics; SVG table for Safari. Latin, kana and kanji, for playful headings. OFL 1.1; v1.1.0 from Nov 12.",
+  "url": "https://otnc.github.io/Nottsu_Sans_JP/",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — otnc/Nottsu_Sans_JP",
+   "label_en": "GitHub — otnc/Nottsu_Sans_JP",
+   "url": "https://github.com/otnc/Nottsu_Sans_JP/releases/tag/v1.1.0"
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Fontroom — essayer un duo de fontes sur un vrai site et une appli",
+  "name_en": "Fontroom — try a font pairing on a real website and app",
+  "summary": "Pose une paire titre/texte sur une page web et une appli mobile complètes, ou sur ton propre site via son lien. Survol pour essayer, 180 Google Fonts triées ou tes fichiers locaux, lus sans envoi. Donne ensuite le code d’intégration. MIT, gratuit ; tout neuf (12 nov.).",
+  "summary_en": "Puts a heading/body pair on a full web page and mobile app, or on your own site from its link. Hover to try, 180 curated Google Fonts or your local files, read without upload. Then gives you the setup code. MIT, free; brand new (Nov 12).",
+  "url": "https://fontroom.vercel.app",
+  "tags": [
+   "outil",
+   "appairage",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — Tekcify/fontroom",
+   "label_en": "GitHub — Tekcify/fontroom",
+   "url": "https://github.com/Tekcify/fontroom"
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Kernest 0.8.0 — un éditeur de fontes pour Windows, sans compte",
+  "name_en": "Kernest 0.8.0 — a font editor for Windows, no account needed",
+  "summary": "Dessin des glyphes, approche et crénage, masters interpolés, import Glyphs, UFO et designspace, export TTF, OTF, WOFF2 et variable. Hors ligne, installable sans droits admin. Apache 2.0, gratuit ; aperçu très jeune (v0.8.0 du 13 nov.), installeur pas encore signé.",
+  "summary_en": "Glyph drawing, spacing and kerning, interpolated masters, Glyphs, UFO and designspace import, TTF, OTF, WOFF2 and variable export. Offline, installs without admin rights. Apache 2.0, free; very early preview (v0.8.0, Nov 13), installer not yet signed.",
+  "url": "https://github.com/ShaikMoosa/kernest",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — ShaikMoosa/kernest",
+   "label_en": "GitHub — ShaikMoosa/kernest",
+   "url": "https://github.com/ShaikMoosa/kernest/releases/tag/v0.8.0"
+  }
  }
 ]

@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-13 | Goeist Sans et Mono 0.0.2 — Geist aux angles arrondis | ofl, ui, code, appairage | https://github.com/shadcn-labs/goeist-font | https://olanlive.github.io/revue-typographie/#2026-11-13-goeist-sans-et-mono-0-0-2-geist-aux-angles-arrondis |
+| 2026-11-13 | DINDOT 0.22.0 — un DIN arrondi pour les tableaux et la signalétique | ofl, ui, lisibilite | https://www.getdot.ai/dindot/ | https://olanlive.github.io/revue-typographie/#2026-11-13-dindot-0-22-0-un-din-arrondi-pour-les-tableaux-et-la-signaletique |
+| 2026-11-13 | Nottsu Sans JP 1.1.0 — Noto Sans JP en quatre couleurs | ofl, variable, display | https://otnc.github.io/Nottsu_Sans_JP/ | https://olanlive.github.io/revue-typographie/#2026-11-13-nottsu-sans-jp-1-1-0-noto-sans-jp-en-quatre-couleurs |
+| 2026-11-13 | Fontroom — essayer un duo de fontes sur un vrai site et une appli | outil, appairage, web, libre | https://fontroom.vercel.app | https://olanlive.github.io/revue-typographie/#2026-11-13-fontroom-essayer-un-duo-de-fontes-sur-un-vrai-site-et-une-appli |
+| 2026-11-13 | Kernest 0.8.0 — un éditeur de fontes pour Windows, sans compte | outil, edition-fonte, variable, libre | https://github.com/ShaikMoosa/kernest | https://olanlive.github.io/revue-typographie/#2026-11-13-kernest-0-8-0-un-editeur-de-fontes-pour-windows-sans-compte |
 | 2026-11-12 | Geist Serif 1.003 — le serif de titrage de Geist, à axe de formes | ofl, variable, display, appairage | https://vercel.com/blog/introducing-geist-serif | https://olanlive.github.io/revue-typographie/#2026-11-12-geist-serif-1-003-le-serif-de-titrage-de-geist-a-axe-de-formes |
 | 2026-11-12 | CoCart Mono 1.0 bêta — une mono où chaque chiffre reste aligné | ofl, variable, code, ui | https://cocart-headless.github.io/cocart-mono-font/ | https://olanlive.github.io/revue-typographie/#2026-11-12-cocart-mono-1-0-beta-une-mono-ou-chaque-chiffre-reste-aligne |
 | 2026-11-12 | Saddha, Seela et Viriya 1.001 — trois cinghalaises de Pushpananda Ekanayake | ofl, variable, display | https://github.com/pnfo/sinhala-unicode-fonts | https://olanlive.github.io/revue-typographie/#2026-11-12-saddha-seela-et-viriya-1-001-trois-cinghalaises-de-pushpananda-ekanayake |

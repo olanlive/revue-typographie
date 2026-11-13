@@ -5,8 +5,61 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Goeist Sans et Mono 0.0.2 — Geist aux angles arrondis</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-13-goeist-sans-et-mono-0-0-2-geist-aux-angles-arrondis</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-13-goeist-sans-et-mono-0-0-2-geist-aux-angles-arrondis</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Version arrondie de Geist : mêmes proportions, espacement et fonctions OpenType, mais chaque angle et fin de trait adoucis, pour une UI plus chaleureuse. La Mono garde les ligatures de code de Geist Mono. OFL 1.1, aussi en paquet npm ; aperçu expérimental (v0.0.2 du 12 nov.).</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>code</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>DINDOT 0.22.0 — un DIN arrondi pour les tableaux et la signalétique</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-13-dindot-0-22-0-un-din-arrondi-pour-les-tableaux-et-la-signaletique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-13-dindot-0-22-0-un-din-arrondi-pour-les-tableaux-et-la-signaletique</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Sans industrielle dérivée de DINish : coins arrondis, points ronds et chiffres tabulaires qui restent alignés dans les tableaux de données. Quatre graisses (400 à 700) avec italiques, en TTF et WOFF2, 949 caractères. OFL 1.1 ; v0.22.0 du 12 nov.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Nottsu Sans JP 1.1.0 — Noto Sans JP en quatre couleurs</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-13-nottsu-sans-jp-1-1-0-noto-sans-jp-en-quatre-couleurs</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-13-nottsu-sans-jp-1-1-0-noto-sans-jp-en-quatre-couleurs</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Fonte couleur COLRv1 tirée de Noto Sans JP : chaque glyphe est peint en quatre couleurs depuis son centre. Variable de 100 à 900, plus neuf statiques ; table SVG pour Safari. Latin, kana et kanji, pour des titres ludiques. OFL 1.1 ; v1.1.0 du 12 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Fontroom — essayer un duo de fontes sur un vrai site et une appli</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-13-fontroom-essayer-un-duo-de-fontes-sur-un-vrai-site-et-une-appli</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-13-fontroom-essayer-un-duo-de-fontes-sur-un-vrai-site-et-une-appli</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Pose une paire titre/texte sur une page web et une appli mobile complètes, ou sur ton propre site via son lien. Survol pour essayer, 180 Google Fonts triées ou tes fichiers locaux, lus sans envoi. Donne ensuite le code d’intégration. MIT, gratuit ; tout neuf (12 nov.).</description>
+      <category>outil</category>
+      <category>appairage</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Kernest 0.8.0 — un éditeur de fontes pour Windows, sans compte</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-13-kernest-0-8-0-un-editeur-de-fontes-pour-windows-sans-compte</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-13-kernest-0-8-0-un-editeur-de-fontes-pour-windows-sans-compte</guid>
+      <pubDate>Fri, 13 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Dessin des glyphes, approche et crénage, masters interpolés, import Glyphs, UFO et designspace, export TTF, OTF, WOFF2 et variable. Hors ligne, installable sans droits admin. Apache 2.0, gratuit ; aperçu très jeune (v0.8.0 du 13 nov.), installeur pas encore signé.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Geist Serif 1.003 — le serif de titrage de Geist, à axe de formes</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-12-geist-serif-1-003-le-serif-de-titrage-de-geist-a-axe-de-formes</link>
@@ -944,54 +997,6 @@
       <description>Base de données et outil (web, ligne de commande, Python) qui dit quelles langues une fonte couvre vraiment : 783 langues documentées. Pratique avant de choisir une police pour un projet multilingue. La 0.8.2 ajoute des langues du Brésil. Apache 2.0, projet actif.</description>
       <category>outil</category>
       <category>libre</category>
-    </item>
-    <item>
-      <title>FontFreeze — figer une fonte variable</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-25-fontfreeze-figer-une-fonte-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-25-fontfreeze-figer-une-fonte-variable</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Appli web qui fige une position d'axes et des fonctionnalités OpenType (ligatures, variantes) dans une nouvelle fonte TTF ou WOFF2. Utile pour les logiciels qui ne savent choisir qu'une famille et une taille. Tout se fait dans le navigateur. MIT, gratuit, maintenu depuis 2022.</description>
-      <category>outil</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Composite Font Studio</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-25-composite-font-studio</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-25-composite-font-studio</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Compose une fonte mixte CJK + latin à la manière des fontes composites d'InDesign : taille, ligne de base et graisse réglées par classe de caractères. Export CSS ou TTF/OTF/WOFF2, sans envoi des fichiers. MIT, gratuit ; projet très jeune (octobre 2026).</description>
-      <category>outil</category>
-      <category>appairage</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Gen Interface JP 0.8.1</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-25-gen-interface-jp-0-8-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-25-gen-interface-jp-0-8-1</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Fonte d'interface qui marie Inter et Noto Sans JP pour un latin et un japonais harmonisés, en deux familles (texte et titrage) et huit graisses, avec webfonts découpées sur jsDelivr. La 0.8.1 corrige les lignes de base par graisse. Fontes OFL, projet de 2026.</description>
-      <category>ui</category>
-      <category>ofl</category>
-      <category>appairage</category>
-    </item>
-    <item>
-      <title>Nordwand Mono 1.3.4</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-24-nordwand-mono-1-3-4</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-24-nordwand-mono-1-3-4</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Mono compacte néo-grotesque : l'esprit d'Univers dans les proportions de JetBrains Mono. Sept graisses avec italiques, zéro hexagonal et glyphes alternatifs, ligatures discrètes en option, version Nerd Font à compiler. Licence MIT, projet de 2026, versions fréquentes.</description>
-      <category>code</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Ioskeley Mono 2.2</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-24-ioskeley-mono-2-2</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-24-ioskeley-mono-2-2</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0200</pubDate>
-      <description>Police de code bâtie sur Iosevka, compacte et géométrique : dix graisses, deux chasses, romain et italique. Trois familles (éditeur, terminal, sans ligatures) et des versions Nerd Font prêtes à l'emploi pour VS Code, Zed, kitty ou Ghostty. OFL 1.1, v2.2 sortie le 21 oct. 2026.</description>
-      <category>ofl</category>
-      <category>code</category>
     </item>
   </channel>
 </rss>
