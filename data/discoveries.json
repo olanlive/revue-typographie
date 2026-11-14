@@ -2665,5 +2665,57 @@
    "label_en": "GitHub — ShaikMoosa/kernest",
    "url": "https://github.com/ShaikMoosa/kernest/releases/tag/v0.8.0"
   }
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Font Revival 0.5.0 — quarante titrages historiques, sources comprises",
+  "name_en": "Font Revival 0.5.0 — forty historical display faces, sources included",
+  "summary": "Quarante titrages du XIXe siècle (De Vinne, Bruce Fatface, ornements…) revivifiés, avec masters éditables, références historiques et épreuves PDF. Fichiers OTF, TTF, WOFF et WOFF2. MIT ou OFL 1.1, sans nom réservé, gratuit ; v0.5.0 du 8 nov. (53 familles rebuildées, 132 tests).",
+  "summary_en": "Forty nineteenth-century display faces (De Vinne, Bruce Fatface, ornaments and more) revived with editable masters, historical references and PDF proofs. OTF, TTF, WOFF and WOFF2. MIT or OFL 1.1, no reserved names, free; v0.5.0 of Nov 8 (53 families rebuilt, 132 tests).",
+  "url": "https://font-revival.com/",
+  "tags": [
+   "ofl",
+   "display",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — fontrevival/font-revival",
+   "label_en": "GitHub — fontrevival/font-revival",
+   "url": "https://github.com/fontrevival/font-revival/releases/tag/v0.5.0"
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "name": "DenkiChip 1.100 — un pixel gras japonais qui couvre le JIS 1",
+  "name_en": "DenkiChip 1.100 — a bold Japanese pixel font that now covers JIS 1",
+  "summary": "Pixel compact à traits de 2 px, pour l’UI de jeu, les miniatures et les titres. La v1.100 ajoute les 2 965 kanji du JIS niveau 1 et l’écriture verticale. Chiffres à chasse fixe de 6 px, kana 8 px, kanji 10 px. OFL 1.1, sans nom réservé ; v1.000 en fév., v1.100 du 1er nov.",
+  "summary_en": "A compact 2-pixel-stroke font for short game UI copy, thumbnails and headings. Version 1.100 adds the 2,965 JIS Level 1 kanji and vertical writing. 6 px monospaced figures, 8 px kana, 10 px kanji. OFL 1.1, no reserved name; v1.000 in Feb, v1.100 on Nov 1.",
+  "url": "https://github.com/hicchicc/x8y12pxDenkiChip",
+  "tags": [
+   "ofl",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — hicchicc/x8y12pxDenkiChip",
+   "label_en": "GitHub — hicchicc/x8y12pxDenkiChip",
+   "url": "https://github.com/hicchicc/x8y12pxDenkiChip/releases/tag/v1.100"
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Font Manager 0.9.6 — gérer ses fontes sous Linux, sans ligne de commande",
+  "name_en": "Font Manager 0.9.6 — manage your fonts on Linux, no command line needed",
+  "summary": "Prévisualiser, activer ou installer des familles, collections, carte des caractères et catalogue Google Fonts, sur un bureau GTK. La 0.9.5 filtre le mode Parcourir et passe à Unicode 18 ; la 0.9.6 du 5 nov. corrige lenteurs et plantages. GPL-3.0, gratuit ; mature depuis 2015.",
+  "summary_en": "Preview, activate or install families, build collections, and use a character map and the Google Fonts catalog on a GTK desktop. 0.9.5 adds Browse filtering and Unicode 18; 0.9.6 (Nov 5) fixes long load times and crashes. GPL-3.0, free; mature project since 2015.",
+  "url": "https://github.com/FontManager/font-manager",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — FontManager/font-manager",
+   "label_en": "GitHub — FontManager/font-manager",
+   "url": "https://github.com/FontManager/font-manager/releases/tag/0.9.6"
+  }
  }
 ]

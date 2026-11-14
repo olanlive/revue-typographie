@@ -7,6 +7,9 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-14 | Font Revival 0.5.0 — quarante titrages historiques, sources comprises | ofl, display, libre | https://font-revival.com/ | https://olanlive.github.io/revue-typographie/#2026-11-14-font-revival-0-5-0-quarante-titrages-historiques-sources-comprises |
+| 2026-11-14 | DenkiChip 1.100 — un pixel gras japonais qui couvre le JIS 1 | ofl, ui | https://github.com/hicchicc/x8y12pxDenkiChip | https://olanlive.github.io/revue-typographie/#2026-11-14-denkichip-1-100-un-pixel-gras-japonais-qui-couvre-le-jis-1 |
+| 2026-11-14 | Font Manager 0.9.6 — gérer ses fontes sous Linux, sans ligne de commande | outil, libre | https://github.com/FontManager/font-manager | https://olanlive.github.io/revue-typographie/#2026-11-14-font-manager-0-9-6-gerer-ses-fontes-sous-linux-sans-ligne-de-commande |
 | 2026-11-13 | Goeist Sans et Mono 0.0.2 — Geist aux angles arrondis | ofl, ui, code, appairage | https://github.com/shadcn-labs/goeist-font | https://olanlive.github.io/revue-typographie/#2026-11-13-goeist-sans-et-mono-0-0-2-geist-aux-angles-arrondis |
 | 2026-11-13 | DINDOT 0.22.0 — un DIN arrondi pour les tableaux et la signalétique | ofl, ui, lisibilite | https://www.getdot.ai/dindot/ | https://olanlive.github.io/revue-typographie/#2026-11-13-dindot-0-22-0-un-din-arrondi-pour-les-tableaux-et-la-signaletique |
 | 2026-11-13 | Nottsu Sans JP 1.1.0 — Noto Sans JP en quatre couleurs | ofl, variable, display | https://otnc.github.io/Nottsu_Sans_JP/ | https://olanlive.github.io/revue-typographie/#2026-11-13-nottsu-sans-jp-1-1-0-noto-sans-jp-en-quatre-couleurs |

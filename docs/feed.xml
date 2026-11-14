@@ -5,8 +5,36 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Font Revival 0.5.0 — quarante titrages historiques, sources comprises</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-14-font-revival-0-5-0-quarante-titrages-historiques-sources-comprises</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-14-font-revival-0-5-0-quarante-titrages-historiques-sources-comprises</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Quarante titrages du XIXe siècle (De Vinne, Bruce Fatface, ornements…) revivifiés, avec masters éditables, références historiques et épreuves PDF. Fichiers OTF, TTF, WOFF et WOFF2. MIT ou OFL 1.1, sans nom réservé, gratuit ; v0.5.0 du 8 nov. (53 familles rebuildées, 132 tests).</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>DenkiChip 1.100 — un pixel gras japonais qui couvre le JIS 1</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-14-denkichip-1-100-un-pixel-gras-japonais-qui-couvre-le-jis-1</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-14-denkichip-1-100-un-pixel-gras-japonais-qui-couvre-le-jis-1</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Pixel compact à traits de 2 px, pour l’UI de jeu, les miniatures et les titres. La v1.100 ajoute les 2 965 kanji du JIS niveau 1 et l’écriture verticale. Chiffres à chasse fixe de 6 px, kana 8 px, kanji 10 px. OFL 1.1, sans nom réservé ; v1.000 en fév., v1.100 du 1er nov.</description>
+      <category>ofl</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Font Manager 0.9.6 — gérer ses fontes sous Linux, sans ligne de commande</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-14-font-manager-0-9-6-gerer-ses-fontes-sous-linux-sans-ligne-de-commande</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-14-font-manager-0-9-6-gerer-ses-fontes-sous-linux-sans-ligne-de-commande</guid>
+      <pubDate>Sat, 14 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Prévisualiser, activer ou installer des familles, collections, carte des caractères et catalogue Google Fonts, sur un bureau GTK. La 0.9.5 filtre le mode Parcourir et passe à Unicode 18 ; la 0.9.6 du 5 nov. corrige lenteurs et plantages. GPL-3.0, gratuit ; mature depuis 2015.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Goeist Sans et Mono 0.0.2 — Geist aux angles arrondis</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-13-goeist-sans-et-mono-0-0-2-geist-aux-angles-arrondis</link>
@@ -967,35 +995,6 @@
       <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
       <description>Police de titrage reconstruite à partir de photos des touches d'un Commodore 64 : capitales, touches f1 à f12 et les 63 symboles PETSCII, avec testeur en ligne. Parfaite pour un visuel rétro-informatique. Domaine public (CC0), TTF, OTF et WOFF2, projet d'octobre 2026.</description>
       <category>display</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>LXGW Bright 26.10.22</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-26-lxgw-bright-26-10-22</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-26-lxgw-bright-26-10-22</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Fusion prête à l'emploi du latin humaniste Ysabeau et du chinois LXGW WenKai : un appairage latin-CJK déjà équilibré, en versions simplifiée (GB) et traditionnelle (TC). La version du 22 octobre suit WenKai 1.530. OFL 1.1, projet suivi depuis 2022.</description>
-      <category>ofl</category>
-      <category>appairage</category>
-      <category>lisibilite</category>
-    </item>
-    <item>
-      <title>FontGoggles 1.9.5</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-25-fontgoggles-1-9-5</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-25-fontgoggles-1-9-5</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Visionneuse gratuite pour macOS : glisser des fontes (OTF, TTF, variables, UFO, designspace) pour comparer leur rendu, leurs fonctionnalités OpenType et leurs axes. La 1.9.5 passe à HarfBuzz 14.6.0 et ajoute Cmd-R pour tout recharger. Apache 2.0, outil mûr depuis 2019.</description>
-      <category>outil</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Hyperglot 0.8.2</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-25-hyperglot-0-8-2</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-25-hyperglot-0-8-2</guid>
-      <pubDate>Sun, 25 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Base de données et outil (web, ligne de commande, Python) qui dit quelles langues une fonte couvre vraiment : 783 langues documentées. Pratique avant de choisir une police pour un projet multilingue. La 0.8.2 ajoute des langues du Brésil. Apache 2.0, projet actif.</description>
-      <category>outil</category>
       <category>libre</category>
     </item>
   </channel>
