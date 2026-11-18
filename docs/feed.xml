@@ -5,8 +5,70 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inrond 1.0 — Inter avec un axe d’arrondi</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-inrond-1-0-inter-avec-un-axe-darrondi</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-inrond-1-0-inter-avec-un-axe-darrondi</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Inter 4.1 complet (italique, opsz, cyrillique, grec) plus un axe ROND de 0 à 100 qui arrondit fins de traits et coins sans changer une seule chasse : on règle l’arrondi d’une UI sans reflow. Versions figées Soft et Round incluses. OFL 1.1 ; v1.0 du 14 nov., retouchée le 17.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Shake Sans 1.200 — une grotesque variable coréen-latin</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-shake-sans-1-200-une-grotesque-variable-coreen-latin</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-shake-sans-1-200-une-grotesque-variable-coreen-latin</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Le hangeul d’Asta Sans et le latin de Geist accordés en une seule famille : graisses 100 à 900 et largeur 75 à 150 (Condensed, Expanded) en variable, statiques TTF/OTF et WOFF2. Pratique pour une UI ou un titrage bilingue. OFL 1.1 ; projet né le 13 nov., v1.200 du 16 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Reem Kufi 3.0 — la version Ink devient variable</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-reem-kufi-3-0-la-version-ink-devient-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-reem-kufi-3-0-la-version-ink-devient-variable</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Coufique de titrage d’Aliftype (latin tiré de Josefin Sans). La 3.0 du 5 nov. rend variable Reem Kufi Ink, la version couleur, et ajoute des dégradés aux chiffres arabes et à d’autres lettres. Idéal pour tester la couleur en titrage. OFL 1.1, sur Google Fonts ; mûr depuis 2015.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>open-metric-fonts 1.1 — des clones métriques libres d’Aptos et des fontes Office</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-open-metric-fonts-1-1-des-clones-metriques-libres-daptos-et-des-fontes-office</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-open-metric-fonts-1-1-des-clones-metriques-libres-daptos-et-des-fontes-office</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>392 fontes en 81 familles, chacune bâtie sur une libre (Open Sans, Inter, Bitter…) avec les chasses d’une fonte Office : Aptos, Bahnschrift, Century Gothic… Un .docx ou .pptx garde ses coupures sous LibreOffice ou Linux. OFL 1.1 ; projet du 13 nov., v1.1.0 du 18.</description>
+      <category>ofl</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>fontmint 0.1 — figer les variantes d’une fonte et la renommer</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-fontmint-0-1-figer-les-variantes-dune-fonte-et-la-renommer</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-fontmint-0-1-figer-les-variantes-dune-fonte-et-la-renommer</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Rend par défaut un jeu stylistique (zéro barré, ss02…), coupe ligatures, ajuste interligne et approche, renomme la famille et exporte variable ou statiques à n’importe quelle valeur d’axe (TTF, OTF, WOFF2). En CLI ou dans le navigateur, en local. MIT ; tout jeune (v0.1, 17 nov.).</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>FontGet 2.8 — installer ses fontes en ligne de commande, partout</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-18-fontget-2-8-installer-ses-fontes-en-ligne-de-commande-partout</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-18-fontget-2-8-installer-ses-fontes-en-ligne-de-commande-partout</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Un seul binaire pour Windows, macOS et Linux qui cherche, installe, liste et retire des fontes depuis Google Fonts, Nerd Fonts, Fontshare, Fontsource, Font Squirrel… La 2.8 du 15 nov. installe aussi dossiers et archives locaux. MIT, gratuit ; versions suivies depuis 2025.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Font Revival 0.5.0 — quarante titrages historiques, sources comprises</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-14-font-revival-0-5-0-quarante-titrages-historiques-sources-comprises</link>
@@ -934,68 +996,6 @@
       <category>outil</category>
       <category>libre</category>
       <category>google-fonts</category>
-    </item>
-    <item>
-      <title>Counterpunch — éditeur de fontes dans le navigateur</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-counterpunch-editeur-de-fontes-dans-le-navigateur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-counterpunch-editeur-de-fontes-dans-le-navigateur</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Éditeur de fontes variables et d’écritures complexes, sans installation : compilation en direct avec HarfBuzz, texte bidirectionnel, composants éditables sur place. Importe Glyphs, UFO, VFJ, SFD. GPL-3.0, gratuit (IA en option payante). Alpha, préversions quasi quotidiennes.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>bited 0.3.0 — éditeur de fontes bitmap</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-bited-0-3-0-editeur-de-fontes-bitmap</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-bited-0-3-0-editeur-de-fontes-bitmap</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Éditeur de polices pixel (BDF Unicode monochromes) construit avec Godot : outils de dessin composables, aperçu avec textes de test, générateurs, mode clair et sombre. La 0.3.0 passe le cœur bitmap en Rust et refait l'aperçu. MIT, en développement actif depuis 2024.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>display</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Kibernetyk Mono 1.0.1</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-26-kibernetyk-mono-1-0-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-26-kibernetyk-mono-1-0-1</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Monospace géométrique inspirée de l'école cybernétique ukrainienne : 7 graisses, latin et cyrillique, et depuis la 1.0 les 128 caractères de dessin de boîtes et les blocs, utiles en terminal et pour les TUI. OFL 1.1, projet récent (v1.0 le 18 octobre).</description>
-      <category>ofl</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>Shift 0.1.1 — éditeur de fontes multiplateforme</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-26-shift-0-1-1-editeur-de-fontes-multiplateforme</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-26-shift-0-1-1-editeur-de-fontes-multiplateforme</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Éditeur de fontes en Rust et TypeScript pour macOS, Windows et Linux : tracé des contours, fontes variables (axes, sources, instances), composants, import UFO, Designspace et Glyphs, export TrueType variable. Crénage prévu. Apache 2.0, première alpha : travailler sur des copies.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>FontYar 1.0 — gestionnaire de fontes local</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-26-fontyar-1-0-gestionnaire-de-fontes-local</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-26-fontyar-1-0-gestionnaire-de-fontes-local</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Gestionnaire de fontes Tauri/Rust hors ligne (Windows, Linux, macOS) : scan de dossiers TTF, OTF, WOFF2, détection des doublons, aperçu avec son texte, curseur de graisse pour les variables, export @font-face ou ZIP. Interface pensée pour le persan. MIT, v1.0 toute neuve.</description>
-      <category>outil</category>
-      <category>variable</category>
-      <category>web</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>C64 Keyboard 1.112</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-26-c64-keyboard-1-112</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-26-c64-keyboard-1-112</guid>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Police de titrage reconstruite à partir de photos des touches d'un Commodore 64 : capitales, touches f1 à f12 et les 63 symboles PETSCII, avec testeur en ligne. Parfaite pour un visuel rétro-informatique. Domaine public (CC0), TTF, OTF et WOFF2, projet d'octobre 2026.</description>
-      <category>display</category>
-      <category>libre</category>
     </item>
   </channel>
 </rss>

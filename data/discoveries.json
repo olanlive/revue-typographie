@@ -2717,5 +2717,115 @@
    "label_en": "GitHub — FontManager/font-manager",
    "url": "https://github.com/FontManager/font-manager/releases/tag/0.9.6"
   }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "Inrond 1.0 — Inter avec un axe d’arrondi",
+  "name_en": "Inrond 1.0 — Inter with a roundness axis",
+  "summary": "Inter 4.1 complet (italique, opsz, cyrillique, grec) plus un axe ROND de 0 à 100 qui arrondit fins de traits et coins sans changer une seule chasse : on règle l’arrondi d’une UI sans reflow. Versions figées Soft et Round incluses. OFL 1.1 ; v1.0 du 14 nov., retouchée le 17.",
+  "summary_en": "Full Inter 4.1 (italic, opsz, Cyrillic, Greek) plus a ROND axis from 0 to 100 that rounds stroke ends and corners without changing a single advance width: tune a UI’s roundness with no reflow. Frozen Soft and Round builds included. OFL 1.1; v1.0 on Nov 14, refined on Nov 17.",
+  "url": "https://inrond.hairlineui.com",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — Hairline-UI/inrond",
+   "label_en": "GitHub — Hairline-UI/inrond",
+   "url": "https://github.com/Hairline-UI/inrond/releases/tag/v1.0"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "Shake Sans 1.200 — une grotesque variable coréen-latin",
+  "name_en": "Shake Sans 1.200 — a variable Korean-Latin grotesque",
+  "summary": "Le hangeul d’Asta Sans et le latin de Geist accordés en une seule famille : graisses 100 à 900 et largeur 75 à 150 (Condensed, Expanded) en variable, statiques TTF/OTF et WOFF2. Pratique pour une UI ou un titrage bilingue. OFL 1.1 ; projet né le 13 nov., v1.200 du 16 nov.",
+  "summary_en": "Asta Sans’s Hangul and Geist’s Latin tuned into one family: weights 100 to 900 and width 75 to 150 (Condensed, Expanded) as a variable font, plus static TTF/OTF and WOFF2. Handy for bilingual UI or titling. OFL 1.1; project started Nov 13, v1.200 on Nov 16.",
+  "url": "https://fonts.shake.st/sans",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — shake-fonts/shake-sans",
+   "label_en": "GitHub — shake-fonts/shake-sans",
+   "url": "https://github.com/shake-fonts/shake-sans/releases/tag/v1.200"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "Reem Kufi 3.0 — la version Ink devient variable",
+  "name_en": "Reem Kufi 3.0 — the Ink version goes variable",
+  "summary": "Coufique de titrage d’Aliftype (latin tiré de Josefin Sans). La 3.0 du 5 nov. rend variable Reem Kufi Ink, la version couleur, et ajoute des dégradés aux chiffres arabes et à d’autres lettres. Idéal pour tester la couleur en titrage. OFL 1.1, sur Google Fonts ; mûr depuis 2015.",
+  "summary_en": "Aliftype’s display Kufic (Latin taken from Josefin Sans). Version 3.0 (Nov 5) makes Reem Kufi Ink, the color version, variable and adds gradients to Arabic digits and more letters. A good way to try color fonts in titling. OFL 1.1, on Google Fonts; mature project since 2015.",
+  "url": "https://github.com/aliftype/reem-kufi",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — aliftype/reem-kufi",
+   "label_en": "GitHub — aliftype/reem-kufi",
+   "url": "https://github.com/aliftype/reem-kufi/releases/tag/v3.0"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "open-metric-fonts 1.1 — des clones métriques libres d’Aptos et des fontes Office",
+  "name_en": "open-metric-fonts 1.1 — free metric-compatible stand-ins for Aptos and Office fonts",
+  "summary": "392 fontes en 81 familles, chacune bâtie sur une libre (Open Sans, Inter, Bitter…) avec les chasses d’une fonte Office : Aptos, Bahnschrift, Century Gothic… Un .docx ou .pptx garde ses coupures sous LibreOffice ou Linux. OFL 1.1 ; projet du 13 nov., v1.1.0 du 18.",
+  "summary_en": "392 fonts in 81 families, each built on an open font (Open Sans, Inter, Bitter…) with the widths of an Office font: Aptos, Bahnschrift, Century Gothic… A .docx or .pptx keeps its line breaks in LibreOffice or on Linux. OFL 1.1; project from Nov 13, v1.1.0 on Nov 18.",
+  "url": "https://github.com/open-metric-fonts/open-metric-fonts",
+  "tags": [
+   "ofl",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — open-metric-fonts/open-metric-fonts",
+   "label_en": "GitHub — open-metric-fonts/open-metric-fonts",
+   "url": "https://github.com/open-metric-fonts/open-metric-fonts/releases/tag/v1.1.0"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "fontmint 0.1 — figer les variantes d’une fonte et la renommer",
+  "name_en": "fontmint 0.1 — freeze a font’s alternates and rename it",
+  "summary": "Rend par défaut un jeu stylistique (zéro barré, ss02…), coupe ligatures, ajuste interligne et approche, renomme la famille et exporte variable ou statiques à n’importe quelle valeur d’axe (TTF, OTF, WOFF2). En CLI ou dans le navigateur, en local. MIT ; tout jeune (v0.1, 17 nov.).",
+  "summary_en": "Makes a stylistic set the default (slashed zero, ss02…), turns ligatures off, adjusts line height and spacing, renames the family and exports variable or static fonts at any axis value (TTF, OTF, WOFF2). Command line or in-browser, all local. MIT; very new (v0.1, Nov 17).",
+  "url": "https://svipas.github.io/fontmint",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — svipas/fontmint",
+   "label_en": "GitHub — svipas/fontmint",
+   "url": "https://github.com/svipas/fontmint/releases/tag/v0.1.0"
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "name": "FontGet 2.8 — installer ses fontes en ligne de commande, partout",
+  "name_en": "FontGet 2.8 — install fonts from the command line, anywhere",
+  "summary": "Un seul binaire pour Windows, macOS et Linux qui cherche, installe, liste et retire des fontes depuis Google Fonts, Nerd Fonts, Fontshare, Fontsource, Font Squirrel… La 2.8 du 15 nov. installe aussi dossiers et archives locaux. MIT, gratuit ; versions suivies depuis 2025.",
+  "summary_en": "A single binary for Windows, macOS and Linux that searches, installs, lists and removes fonts from Google Fonts, Nerd Fonts, Fontshare, Fontsource, Font Squirrel or the League. Version 2.8 (Nov 15) also installs local folders and archives. MIT, free; regular releases since 2025.",
+  "url": "https://github.com/Graphixa/FontGet",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — Graphixa/FontGet",
+   "label_en": "GitHub — Graphixa/FontGet",
+   "url": "https://github.com/Graphixa/FontGet/releases/tag/v2.8.1"
+  }
  }
 ]

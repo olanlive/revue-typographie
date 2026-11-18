@@ -7,6 +7,12 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-18 | Inrond 1.0 — Inter avec un axe d’arrondi | ofl, variable, ui, web | https://inrond.hairlineui.com | https://olanlive.github.io/revue-typographie/#2026-11-18-inrond-1-0-inter-avec-un-axe-darrondi |
+| 2026-11-18 | Shake Sans 1.200 — une grotesque variable coréen-latin | ofl, variable, ui, web | https://fonts.shake.st/sans | https://olanlive.github.io/revue-typographie/#2026-11-18-shake-sans-1-200-une-grotesque-variable-coreen-latin |
+| 2026-11-18 | Reem Kufi 3.0 — la version Ink devient variable | ofl, variable, display, google-fonts | https://github.com/aliftype/reem-kufi | https://olanlive.github.io/revue-typographie/#2026-11-18-reem-kufi-3-0-la-version-ink-devient-variable |
+| 2026-11-18 | open-metric-fonts 1.1 — des clones métriques libres d’Aptos et des fontes Office | ofl, ui | https://github.com/open-metric-fonts/open-metric-fonts | https://olanlive.github.io/revue-typographie/#2026-11-18-open-metric-fonts-1-1-des-clones-metriques-libres-daptos-et-des-fontes-office |
+| 2026-11-18 | fontmint 0.1 — figer les variantes d’une fonte et la renommer | outil, edition-fonte, variable, libre | https://svipas.github.io/fontmint | https://olanlive.github.io/revue-typographie/#2026-11-18-fontmint-0-1-figer-les-variantes-dune-fonte-et-la-renommer |
+| 2026-11-18 | FontGet 2.8 — installer ses fontes en ligne de commande, partout | outil, libre | https://github.com/Graphixa/FontGet | https://olanlive.github.io/revue-typographie/#2026-11-18-fontget-2-8-installer-ses-fontes-en-ligne-de-commande-partout |
 | 2026-11-14 | Font Revival 0.5.0 — quarante titrages historiques, sources comprises | ofl, display, libre | https://font-revival.com/ | https://olanlive.github.io/revue-typographie/#2026-11-14-font-revival-0-5-0-quarante-titrages-historiques-sources-comprises |
 | 2026-11-14 | DenkiChip 1.100 — un pixel gras japonais qui couvre le JIS 1 | ofl, ui | https://github.com/hicchicc/x8y12pxDenkiChip | https://olanlive.github.io/revue-typographie/#2026-11-14-denkichip-1-100-un-pixel-gras-japonais-qui-couvre-le-jis-1 |
 | 2026-11-14 | Font Manager 0.9.6 — gérer ses fontes sous Linux, sans ligne de commande | outil, libre | https://github.com/FontManager/font-manager | https://olanlive.github.io/revue-typographie/#2026-11-14-font-manager-0-9-6-gerer-ses-fontes-sous-linux-sans-ligne-de-commande |
