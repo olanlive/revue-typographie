@@ -5,8 +5,59 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Allo 1.0.3 — une sans d’interface à axe d’arrondi et taille optique</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-19-allo-1-0-3-une-sans-dinterface-a-axe-darrondi-et-taille-optique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-19-allo-1-0-3-une-sans-dinterface-a-axe-darrondi-et-taille-optique</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Sans pour écrans et UI, partie d’Inter : trois axes (graisse 100 à 900, arrondi ROND 0 à 100, taille optique automatique), oblique dessinée, chiffres tabulaires, flèches tapées, 18 statiques et WOFF2, paquet npm. OFL 1.1, gratuit ; v1.0 du 15 nov., v1.0.3 du 18.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Taquoma, Springald et Smack Dab — Zorin OS remplace Tahoma, Trebuchet et Impact</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-19-taquoma-springald-et-smack-dab-zorin-os-remplace-tahoma-trebuchet-et-impact</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-19-taquoma-springald-et-smack-dab-zorin-os-remplace-tahoma-trebuchet-et-impact</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Trois libres aux chasses identiques : Taquoma (Tahoma, via Fauxdana), Springald (Trebuchet MS, via Cabin), Smack Dab (Impact, via Anton, avec cyrillique). Un document Windows garde sa mise en page sous Linux. OFL 1.1 ; publiés le 15 nov., v1.015 à 1.105, sans release.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>FontNest 0.2 — retrouver une fonte de sa bibliothèque à partir d’une capture</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-19-fontnest-0-2-retrouver-une-fonte-de-sa-bibliotheque-a-partir-dune-capture</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-19-fontnest-0-2-retrouver-une-fonte-de-sa-bibliotheque-a-partir-dune-capture</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Gestionnaire local : on colle une capture, on tape le texte, il cherche les fontes proches parmi celles de ta machine, même non installées. Compare 2 à 6 familles, classe sans déplacer. Pour Windows (Linux non testé). MIT ou Apache 2.0 ; préversion, v0.2.0 du 18 nov.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>FaceTypes — 522 fontes libres triées, avec un identificateur dans le navigateur</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-19-facetypes-522-fontes-libres-triees-avec-un-identificateur-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-19-facetypes-522-fontes-libres-triees-avec-un-identificateur-dans-le-navigateur</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Catalogue de fontes toutes vérifiées pour l’usage commercial (OFL surtout), classées par vraie classification et liées à la source officielle. Son identificateur compare une image à 1 700 familles sans l’envoyer. Gratuit, sans pub ni compte ; site tout neuf (nov. 2026).</description>
+      <category>appairage</category>
+      <category>libre</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>How HarfBuzz Works — comprendre le moteur qui met en forme le texte</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-19-how-harfbuzz-works-comprendre-le-moteur-qui-met-en-forme-le-texte</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-19-how-harfbuzz-works-comprendre-le-moteur-qui-met-en-forme-le-texte</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Livre en ligne (et PDF) sur HarfBuzz 15.1, moteur de Chrome, Firefox, LibreOffice : GSUB, GPOS, variables, couleur, subsetting, exemples exécutés. Pour comprendre une fonte. Gratuit, sans licence indiquée ; brouillon rédigé avec une IA, relu par Behdad Esfahbod.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+    </item>
     <item>
       <title>Inrond 1.0 — Inter avec un axe d’arrondi</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-18-inrond-1-0-inter-avec-un-axe-darrondi</link>
@@ -946,56 +997,6 @@
       <category>ofl</category>
       <category>code</category>
       <category>lisibilite</category>
-    </item>
-    <item>
-      <title>Static to Variable 0.6.2</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-28-static-to-variable-0-6-2</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-28-static-to-variable-0-6-2</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Outil en ligne de commande qui transforme un dossier de graisses statiques en une seule fonte variable : init, build, puis release en TTF et WOFF2, et split pour l’inverse. Demande Node, Python et uv. Licence MIT ; v0.6.2, projet jeune mais actif.</description>
-      <category>outil</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Limn Sans 1.002</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-28-limn-sans-1-002</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-28-limn-sans-1-002</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Sans arrondie dérivée de Quicksand, points en forme d’épingle, neuf graisses statiques de Thin à Black, avec WOFF2 et CSS prêts pour le web et des alternates (ss01, zéro barré). Anglais et symboles seulement. OFL 1.1 ; version stable publiée le 22 octobre.</description>
-      <category>ofl</category>
-      <category>ui</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Sleet Mono 1.00</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-28-sleet-mono-1-00</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-28-sleet-mono-1-00</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Mono de code au style Comic dessiné à la main, retravaillée à partir de Comic Shanns avec les métriques de JetBrains Mono comme repère. Version Nerd Font, cask Homebrew. Licence MIT ; très jeune : un seul style et 103 glyphes, feuille de route publique.</description>
-      <category>libre</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>BRND ProType 1.1</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-brnd-protype-1-1</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-brnd-protype-1-1</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Superfamille néo-grotesque vénézuélienne : 49 styles en Condensed, Normal, Extended et Mono, 7 graisses, italiques, et 3 variables (graisse 300 à 900, chasse 88 à 114,5). La 1.1 ajoute ProDigit (LCD) et ProLed (matrice 5×7). OFL 1.1, publiée le 25 octobre.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>ZFontManager 0.8.1 — gestionnaire de fontes</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-27-zfontmanager-0-8-1-gestionnaire-de-fontes</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-27-zfontmanager-0-8-1-gestionnaire-de-fontes</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Gestionnaire de fontes Tauri/Rust pour Linux, Windows et macOS : aperçus en direct, activation et désactivation en un clic, tags, collections, comparaison côte à côte, spécimens, catalogue Google Fonts intégré. Tout reste en local. GPL-3.0, jeune projet (v0.8.1 du 26 oct.).</description>
-      <category>outil</category>
-      <category>libre</category>
-      <category>google-fonts</category>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,11 @@ Hors périmètre / déjà couvert ailleurs : 3D/VFX (voir `olanlive/revue-oss-3d
 
 | Date | Découverte | Tags | Lien officiel | Ancre sur le site |
 |---|---|---|---|---|
+| 2026-11-19 | Allo 1.0.3 — une sans d’interface à axe d’arrondi et taille optique | ofl, variable, ui, web | https://allo.joshpuckett.me | https://olanlive.github.io/revue-typographie/#2026-11-19-allo-1-0-3-une-sans-dinterface-a-axe-darrondi-et-taille-optique |
+| 2026-11-19 | Taquoma, Springald et Smack Dab — Zorin OS remplace Tahoma, Trebuchet et Impact | ofl, ui, display | https://github.com/ZorinOS/taquoma | https://olanlive.github.io/revue-typographie/#2026-11-19-taquoma-springald-et-smack-dab-zorin-os-remplace-tahoma-trebuchet-et-impact |
+| 2026-11-19 | FontNest 0.2 — retrouver une fonte de sa bibliothèque à partir d’une capture | outil, libre, appairage | https://github.com/C0P1Fur/FontNest | https://olanlive.github.io/revue-typographie/#2026-11-19-fontnest-0-2-retrouver-une-fonte-de-sa-bibliotheque-a-partir-dune-capture |
+| 2026-11-19 | FaceTypes — 522 fontes libres triées, avec un identificateur dans le navigateur | appairage, libre, web | https://facetypes.xyz/ | https://olanlive.github.io/revue-typographie/#2026-11-19-facetypes-522-fontes-libres-triees-avec-un-identificateur-dans-le-navigateur |
+| 2026-11-19 | How HarfBuzz Works — comprendre le moteur qui met en forme le texte | outil, edition-fonte, variable | https://lorp.github.io/how-harfbuzz-works/ | https://olanlive.github.io/revue-typographie/#2026-11-19-how-harfbuzz-works-comprendre-le-moteur-qui-met-en-forme-le-texte |
 | 2026-11-18 | Inrond 1.0 — Inter avec un axe d’arrondi | ofl, variable, ui, web | https://inrond.hairlineui.com | https://olanlive.github.io/revue-typographie/#2026-11-18-inrond-1-0-inter-avec-un-axe-darrondi |
 | 2026-11-18 | Shake Sans 1.200 — une grotesque variable coréen-latin | ofl, variable, ui, web | https://fonts.shake.st/sans | https://olanlive.github.io/revue-typographie/#2026-11-18-shake-sans-1-200-une-grotesque-variable-coreen-latin |
 | 2026-11-18 | Reem Kufi 3.0 — la version Ink devient variable | ofl, variable, display, google-fonts | https://github.com/aliftype/reem-kufi | https://olanlive.github.io/revue-typographie/#2026-11-18-reem-kufi-3-0-la-version-ink-devient-variable |

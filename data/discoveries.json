@@ -2827,5 +2827,96 @@
    "label_en": "GitHub — Graphixa/FontGet",
    "url": "https://github.com/Graphixa/FontGet/releases/tag/v2.8.1"
   }
+ },
+ {
+  "date": "2026-11-19",
+  "name": "Allo 1.0.3 — une sans d’interface à axe d’arrondi et taille optique",
+  "name_en": "Allo 1.0.3 — an interface sans with a roundness axis and optical size",
+  "summary": "Sans pour écrans et UI, partie d’Inter : trois axes (graisse 100 à 900, arrondi ROND 0 à 100, taille optique automatique), oblique dessinée, chiffres tabulaires, flèches tapées, 18 statiques et WOFF2, paquet npm. OFL 1.1, gratuit ; v1.0 du 15 nov., v1.0.3 du 18.",
+  "summary_en": "Screen and UI sans built from Inter: three axes (weight 100 to 900, ROND roundness 0 to 100, automatic optical size), drawn oblique, tabular figures, typed arrows, 18 statics plus WOFF2, npm package. OFL 1.1, free; v1.0 on Nov 15, v1.0.3 on Nov 18.",
+  "url": "https://allo.joshpuckett.me",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — joshpuckett/allo",
+   "label_en": "GitHub — joshpuckett/allo",
+   "url": "https://github.com/joshpuckett/allo/releases/tag/v1.0.3"
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "name": "Taquoma, Springald et Smack Dab — Zorin OS remplace Tahoma, Trebuchet et Impact",
+  "name_en": "Taquoma, Springald and Smack Dab — Zorin OS stand-ins for Tahoma, Trebuchet and Impact",
+  "summary": "Trois libres aux chasses identiques : Taquoma (Tahoma, via Fauxdana), Springald (Trebuchet MS, via Cabin), Smack Dab (Impact, via Anton, avec cyrillique). Un document Windows garde sa mise en page sous Linux. OFL 1.1 ; publiés le 15 nov., v1.015 à 1.105, sans release.",
+  "summary_en": "Three open fonts with identical widths: Taquoma (Tahoma, via Fauxdana), Springald (Trebuchet MS, via Cabin), Smack Dab (Impact, via Anton, with Cyrillic). A Windows document or mockup keeps its layout on Linux. OFL 1.1; published Nov 15, v1.015 to 1.105, no tagged release.",
+  "url": "https://github.com/ZorinOS/taquoma",
+  "tags": [
+   "ofl",
+   "ui",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — ZorinOS",
+   "label_en": "GitHub — ZorinOS",
+   "url": "https://github.com/ZorinOS"
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "name": "FontNest 0.2 — retrouver une fonte de sa bibliothèque à partir d’une capture",
+  "name_en": "FontNest 0.2 — find a font in your own library from a screenshot",
+  "summary": "Gestionnaire local : on colle une capture, on tape le texte, il cherche les fontes proches parmi celles de ta machine, même non installées. Compare 2 à 6 familles, classe sans déplacer. Pour Windows (Linux non testé). MIT ou Apache 2.0 ; préversion, v0.2.0 du 18 nov.",
+  "summary_en": "Local manager: paste a screenshot, type the text, and it looks for close matches among the fonts on your machine, even uninstalled ones. Compares 2 to 6 families, sorts without moving files. For Windows (Linux untested). MIT or Apache 2.0; preview, v0.2.0 on Nov 18.",
+  "url": "https://github.com/C0P1Fur/FontNest",
+  "tags": [
+   "outil",
+   "libre",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — C0P1Fur/FontNest",
+   "label_en": "GitHub — C0P1Fur/FontNest",
+   "url": "https://github.com/C0P1Fur/FontNest/releases/tag/v0.2.0"
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "name": "FaceTypes — 522 fontes libres triées, avec un identificateur dans le navigateur",
+  "name_en": "FaceTypes — 522 sorted free fonts, with an in-browser identifier",
+  "summary": "Catalogue de fontes toutes vérifiées pour l’usage commercial (OFL surtout), classées par vraie classification et liées à la source officielle. Son identificateur compare une image à 1 700 familles sans l’envoyer. Gratuit, sans pub ni compte ; site tout neuf (nov. 2026).",
+  "summary_en": "Catalogue of fonts all checked for commercial use (mostly OFL), sorted by proper classification and linked to the official source. Its identifier compares an image against 1,700+ families without uploading it. Free, no ads or account; brand-new site (November 2026).",
+  "url": "https://facetypes.xyz/",
+  "tags": [
+   "appairage",
+   "libre",
+   "web"
+  ],
+  "source": {
+   "label": "Web — facetypes.xyz",
+   "label_en": "Web — facetypes.xyz",
+   "url": "https://facetypes.xyz/about/"
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "name": "How HarfBuzz Works — comprendre le moteur qui met en forme le texte",
+  "name_en": "How HarfBuzz Works — understanding the engine that shapes text",
+  "summary": "Livre en ligne (et PDF) sur HarfBuzz 15.1, moteur de Chrome, Firefox, LibreOffice : GSUB, GPOS, variables, couleur, subsetting, exemples exécutés. Pour comprendre une fonte. Gratuit, sans licence indiquée ; brouillon rédigé avec une IA, relu par Behdad Esfahbod.",
+  "summary_en": "Online book (and PDF) on HarfBuzz 15.1, the engine in Chrome, Firefox or LibreOffice: GSUB, GPOS, variations, color, subsetting, examples that are actually run. To learn why a font behaves as it does. Free, no license stated; AI-drafted draft, reviewed by Behdad Esfahbod.",
+  "url": "https://lorp.github.io/how-harfbuzz-works/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable"
+  ],
+  "source": {
+   "label": "GitHub — Lorp/how-harfbuzz-works",
+   "label_en": "GitHub — Lorp/how-harfbuzz-works",
+   "url": "https://github.com/Lorp/how-harfbuzz-works"
+  }
  }
 ]
