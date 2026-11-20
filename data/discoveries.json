@@ -2918,5 +2918,115 @@
    "label_en": "GitHub — Lorp/how-harfbuzz-works",
    "url": "https://github.com/Lorp/how-harfbuzz-works"
   }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "Sunday Serif 0.4 — un serif de texte aux effets d’impression variables",
+  "name_en": "Sunday Serif 0.4 — a text serif with variable print effects",
+  "summary": "Serif doux en romain et italique, graisse 400 à 700, plus trois axes d’atelier : surexposition, encre qui bave, usure de presse, réglables en CSS sans changer l’approche. Version Grain à part. Latin étendu A, paquet npm. OFL 1.1 ; jeune projet, v0.4.0 du 16 nov.",
+  "summary_en": "Soft serif in roman and italic, weight 400 to 700, plus three print-shop axes: overexposure, ink bleed and press wear, set in CSS without changing spacing. Separate Grain cut. Latin Extended-A, npm package. OFL 1.1; young project, v0.4.0 on Nov 16.",
+  "url": "https://sunday-serif.kkratter.com",
+  "tags": [
+   "ofl",
+   "variable",
+   "display",
+   "web"
+  ],
+  "source": {
+   "label": "GitHub — kkratterf/sunday-serif",
+   "label_en": "GitHub — kkratterf/sunday-serif",
+   "url": "https://github.com/kkratterf/sunday-serif/releases/tag/v0.4.0"
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "Inter Mono 1.611 — Inter en chasse fixe, pour le code et les sous-titres",
+  "name_en": "Inter Mono 1.611 — Inter in fixed width, for code and captions",
+  "summary": "Adaptation monospace non officielle d’Inter : environ 3 000 signes (latin, grec, cyrillique, filets), 1 l I | et 0 O bien distincts, sans ligatures. Bonus : une version couleur sur bandeau noir façon sous-titres TV. Romain et italique, WOFF2. OFL 1.1 ; v1.611 du 17 nov.",
+  "summary_en": "Unofficial monospaced adaptation of Inter: about 3,000 characters (Latin, Greek, Cyrillic, box drawing), clearly distinct 1 l I | and 0 O, no ligatures. Bonus: a colour version on a black bar, like TV closed captions. Roman and italic, WOFF2. OFL 1.1; v1.611 on Nov 17.",
+  "url": "https://joyouou.github.io/inter-mono/",
+  "tags": [
+   "ofl",
+   "code",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — Joyouou/inter-mono",
+   "label_en": "GitHub — Joyouou/inter-mono",
+   "url": "https://github.com/Joyouou/inter-mono/releases/tag/v1.611"
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "Letterwell 1.000 — un serif variable calqué sur l’écriture des petits",
+  "name_en": "Letterwell 1.000 — a variable serif modelled on children’s handwriting",
+  "summary": "Serif pour supports de la maternelle au CE1 : a et g à un étage comme à l’écrit, lettres souvent confondues (b d p q, I l 1) bien différenciées. Six familles, dont versions espacées et à chasse fixe, graisse 400 à 700, latin GF Core. OFL 1.1 ; v1.000, sans release.",
+  "summary_en": "Serif for reading material from pre-K to grade 2: single-story a and g as children write them, often-confused letters (b d p q, I l 1) drawn apart. Six families, including spaced and fixed-width ones, weight 400 to 700, GF Latin Core. OFL 1.1; v1.000, no tagged release.",
+  "url": "https://github.com/markpaik/letterwell-fonts",
+  "tags": [
+   "ofl",
+   "variable",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — markpaik/letterwell-fonts",
+   "label_en": "GitHub — markpaik/letterwell-fonts",
+   "url": "https://github.com/markpaik/letterwell-fonts"
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "astro-glyphcut 0.2 — ne garder que les glyphes réellement utilisés par un site Astro",
+  "name_en": "astro-glyphcut 0.2 — keep only the glyphs an Astro site actually uses",
+  "summary": "Fournisseur de fontes pour Astro qui découpe au build fontes Fontsource ou locales : on choisit les caractères, les fonctions OpenType et la plage de graisse, sortie WOFF2. Un contrôle signale chaque caractère de page absent. MIT, gratuit ; v0.2.0 du 19 nov.",
+  "summary_en": "Astro font provider that subsets Fontsource or local fonts at build time: you choose the characters, the OpenType features and the weight range, output is WOFF2. A check flags every page character missing from the set. MIT, free; v0.2.0 on Nov 19.",
+  "url": "https://github.com/ecelustka/astro-glyphcut",
+  "tags": [
+   "outil",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — ecelustka/astro-glyphcut",
+   "label_en": "GitHub — ecelustka/astro-glyphcut",
+   "url": "https://github.com/ecelustka/astro-glyphcut/releases/tag/astro-glyphcut%400.2.0"
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "FINT 0.9.3 — ajouter les lettres ukrainiennes à une fonte, dans le navigateur",
+  "name_en": "FINT 0.9.3 — add Ukrainian letters to a font, in the browser",
+  "summary": "On ouvre un TTF ou OTF qui s’arrête au cyrillique russe : FINT construit Ґ, Є, І, Ї à partir des propres formes de la fonte et les insère sans casser crénage ni fonctions OpenType. Tout reste local. Vérifier la licence de la fonte. MIT, gratuit ; v0.9.3.",
+  "summary_en": "Open a TTF or OTF that stops at Russian Cyrillic: FINT builds Ґ, Є, І, Ї from the font’s own shapes and inserts them without breaking kerning or OpenType features. Everything stays local. Check the font’s license first. MIT, free; v0.9.3.",
+  "url": "https://robvagin.github.io/fint/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — robvagin/fint",
+   "label_en": "GitHub — robvagin/fint",
+   "url": "https://github.com/robvagin/fint"
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "name": "fontoxide 0.1 — fontTools réécrit en Rust, jusque dans le navigateur",
+  "name_en": "fontoxide 0.1 — fontTools rewritten in Rust, down to the browser",
+  "summary": "Portage de fontTools 4.68 : mêmes tables, sous-ensembles, instances de variables, fusion, compilation OpenType, mêmes commandes, fichiers identiques à l’octet. Sans dépendance C, compile en WebAssembly. Par l’auteur de FontFreeze. MIT ; v0.1.0 du 11 nov., API encore mouvante.",
+  "summary_en": "Port of fontTools 4.68: same tables, subsetting, variable instancing, merging and feature compilation, same commands and byte-identical output. No C dependencies, compiles to WebAssembly. By the author of FontFreeze. MIT; v0.1.0 on Nov 11, API still changing.",
+  "url": "https://github.com/MuTsunTsai/fontoxide",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — MuTsunTsai/fontoxide",
+   "label_en": "GitHub — MuTsunTsai/fontoxide",
+   "url": "https://github.com/MuTsunTsai/fontoxide/releases/tag/v0.1.0"
+  }
  }
 ]

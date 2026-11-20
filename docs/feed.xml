@@ -5,8 +5,70 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sunday Serif 0.4 — un serif de texte aux effets d’impression variables</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-sunday-serif-0-4-un-serif-de-texte-aux-effets-dimpression-variables</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-sunday-serif-0-4-un-serif-de-texte-aux-effets-dimpression-variables</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Serif doux en romain et italique, graisse 400 à 700, plus trois axes d’atelier : surexposition, encre qui bave, usure de presse, réglables en CSS sans changer l’approche. Version Grain à part. Latin étendu A, paquet npm. OFL 1.1 ; jeune projet, v0.4.0 du 16 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+      <category>web</category>
+    </item>
+    <item>
+      <title>Inter Mono 1.611 — Inter en chasse fixe, pour le code et les sous-titres</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-inter-mono-1-611-inter-en-chasse-fixe-pour-le-code-et-les-sous-titres</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-inter-mono-1-611-inter-en-chasse-fixe-pour-le-code-et-les-sous-titres</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Adaptation monospace non officielle d’Inter : environ 3 000 signes (latin, grec, cyrillique, filets), 1 l I | et 0 O bien distincts, sans ligatures. Bonus : une version couleur sur bandeau noir façon sous-titres TV. Romain et italique, WOFF2. OFL 1.1 ; v1.611 du 17 nov.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Letterwell 1.000 — un serif variable calqué sur l’écriture des petits</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-letterwell-1-000-un-serif-variable-calque-sur-lecriture-des-petits</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-letterwell-1-000-un-serif-variable-calque-sur-lecriture-des-petits</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Serif pour supports de la maternelle au CE1 : a et g à un étage comme à l’écrit, lettres souvent confondues (b d p q, I l 1) bien différenciées. Six familles, dont versions espacées et à chasse fixe, graisse 400 à 700, latin GF Core. OFL 1.1 ; v1.000, sans release.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>astro-glyphcut 0.2 — ne garder que les glyphes réellement utilisés par un site Astro</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-astro-glyphcut-0-2-ne-garder-que-les-glyphes-reellement-utilises-par-un-site-astro</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-astro-glyphcut-0-2-ne-garder-que-les-glyphes-reellement-utilises-par-un-site-astro</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Fournisseur de fontes pour Astro qui découpe au build fontes Fontsource ou locales : on choisit les caractères, les fonctions OpenType et la plage de graisse, sortie WOFF2. Un contrôle signale chaque caractère de page absent. MIT, gratuit ; v0.2.0 du 19 nov.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>FINT 0.9.3 — ajouter les lettres ukrainiennes à une fonte, dans le navigateur</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-fint-0-9-3-ajouter-les-lettres-ukrainiennes-a-une-fonte-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-fint-0-9-3-ajouter-les-lettres-ukrainiennes-a-une-fonte-dans-le-navigateur</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>On ouvre un TTF ou OTF qui s’arrête au cyrillique russe : FINT construit Ґ, Є, І, Ї à partir des propres formes de la fonte et les insère sans casser crénage ni fonctions OpenType. Tout reste local. Vérifier la licence de la fonte. MIT, gratuit ; v0.9.3.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>fontoxide 0.1 — fontTools réécrit en Rust, jusque dans le navigateur</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-20-fontoxide-0-1-fonttools-reecrit-en-rust-jusque-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-20-fontoxide-0-1-fonttools-reecrit-en-rust-jusque-dans-le-navigateur</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Portage de fontTools 4.68 : mêmes tables, sous-ensembles, instances de variables, fusion, compilation OpenType, mêmes commandes, fichiers identiques à l’octet. Sans dépendance C, compile en WebAssembly. Par l’auteur de FontFreeze. MIT ; v0.1.0 du 11 nov., API encore mouvante.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Allo 1.0.3 — une sans d’interface à axe d’arrondi et taille optique</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-19-allo-1-0-3-une-sans-dinterface-a-axe-darrondi-et-taille-optique</link>
@@ -934,69 +996,6 @@
       <category>ofl</category>
       <category>variable</category>
       <category>ui</category>
-    </item>
-    <item>
-      <title>Qu Black 1.3.0</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-29-qu-black-1-3-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-29-qu-black-1-3-0</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Famille bilingue chinois-latin pour le code : Mono sur une grille stricte 2:1 (un hanzi = deux caractères ASCII), Sans proportionnelle pour l’UI et le web, statiques et variables. Fontes sous OFL 1.1 ; version 1.3.0 du 24 octobre, projet jeune.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>code</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>The Mother of All Fonts 4.3</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-29-the-mother-of-all-fonts-4-3</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-29-the-mother-of-all-fonts-4-3</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Polices tirées des cartons de la démo d’Engelbart (1968) : AllCaps, SmallCaps et Humanist, en proportionnel, Mono pour le terminal et coupe Text pour les petites tailles, plus 237 emoji. Pas de grec ni de cyrillique. OFL 1.1 ; version 4.3, 25 octobre.</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>BRANDSWOT Modular 2.100</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-29-brandswot-modular-2-100</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-29-brandswot-modular-2-100</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Pixel de titrage sur grille 5 × 7 dont chaque pixel est maçonné en briques ; la graisse joue sur les joints, pas sur la forme. 7 graisses, italiques, variable wght 300 à 900, latin étendu, CDN et npm. OFL 1.1 ; v2.100 du 27 octobre.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Carry 1.1.0 — une police qui calcule</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-29-carry-1-1-0-une-police-qui-calcule</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-29-carry-1-1-0-une-police-qui-calcule</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Tapez 128+256= et la police affiche 384 : additions, soustractions, multiplications et divisions entières, sans code, uniquement par substitutions OpenType (calt). Une démo étonnante de ce que permettent les fontes. Licence MIT ; v1.1.0 du 25 octobre.</description>
-      <category>libre</category>
-      <category>code</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Medeo — Sans, Mono et Pixel</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-28-medeo-sans-mono-et-pixel</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-28-medeo-sans-mono-et-pixel</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Famille latin-cyrillique de DNF : Sans variable (graisse 100 à 900, axe opsz 14 à 32 pour le texte et le titrage), Mono pour le code, Pixel en cinq formes de points. Italiques, statiques, paquet npm. OFL 1.1 ; release candidate RC4, publiée le 27 octobre.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>code</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>CADR Mono 1.1.0</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-10-28-cadr-mono-1-1-0</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-10-28-cadr-mono-1-1-0</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Mono pour terminal générée en Common Lisp, sans outil de dessin : 935 glyphes, latin, grec, cyrillique, filets, braille et Powerline calculés sur la cellule. Variante Dark allégée pour fond sombre, métriques identiques. OFL 1.1 ; jeune projet, v1.1.0 du 15 octobre.</description>
-      <category>ofl</category>
-      <category>code</category>
-      <category>lisibilite</category>
     </item>
   </channel>
 </rss>
