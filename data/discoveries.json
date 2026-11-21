@@ -3028,5 +3028,95 @@
    "label_en": "GitHub — MuTsunTsai/fontoxide",
    "url": "https://github.com/MuTsunTsai/fontoxide/releases/tag/v0.1.0"
   }
+ },
+ {
+  "date": "2026-11-21",
+  "name": "Noto Serif Mono 2.502 — un serif à chasse fixe pour le code et le terminal",
+  "name_en": "Noto Serif Mono 2.502 — a monospaced serif for code and terminals",
+  "summary": "Noto Serif ramené à une cellule fixe : latin, grec, cyrillique, plus de 2 800 caractères, 0O et 1lI| bien distincts, zéro barré, petites capitales, hinting écran où gras et regular s’alignent au pixel. Quatre styles. OFL, gratuit ; v2.502 du 16 nov., proposé au projet Noto.",
+  "summary_en": "Noto Serif fitted to a fixed cell: Latin, Greek, Cyrillic, 2,800+ characters, distinct 0O and 1lI|, slashed zero, small caps, screen hinting where Bold and Regular line up pixel for pixel. Four styles. OFL, free; v2.502 on Nov 16, submitted to the Noto project.",
+  "url": "https://github.com/wmarklloyd/noto-serif-mono",
+  "tags": [
+   "ofl",
+   "code",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — wmarklloyd/noto-serif-mono",
+   "label_en": "GitHub — wmarklloyd/noto-serif-mono",
+   "url": "https://github.com/wmarklloyd/noto-serif-mono/releases/tag/v2.502"
+  }
+ },
+ {
+  "date": "2026-11-21",
+  "name": "Vazirmatn Soft 1.0 — la Vazirmatn persane, arrondie et variable",
+  "name_en": "Vazirmatn Soft 1.0 — Persian Vazirmatn, rounded and variable",
+  "summary": "Points ronds, fins de traits arrondis, angles adoucis, sans changer chasses ni approches : on la substitue à Vazirmatn sans recomposer. Neuf graisses et une variable 100–900, éditions UI et arabe seul. Pour des interfaces arabe-persan-latin. OFL ; v1.0.0 du 20 nov.",
+  "summary_en": "Round dots, rounded stroke ends and softened corners, with widths and spacing unchanged: it swaps in for Vazirmatn without reflowing text. Nine weights plus a 100–900 variable, UI and Arabic-only editions. For Arabic/Persian/Latin interfaces. OFL; v1.0.0 on Nov 20.",
+  "url": "https://github.com/truthofmatthew/vazirmatn-soft",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — truthofmatthew/vazirmatn-soft",
+   "label_en": "GitHub — truthofmatthew/vazirmatn-soft",
+   "url": "https://github.com/truthofmatthew/vazirmatn-soft/releases/tag/v1.0.0"
+  }
+ },
+ {
+  "date": "2026-11-21",
+  "name": "Mixweight V4 — mélanger les graisses lettre par lettre, en texte vivant",
+  "name_en": "Mixweight V4 — mix weights letter by letter, as live text",
+  "summary": "Dans le navigateur (Chrome, Edge), on mêle les instances de ses fontes variables lettre à lettre, avec hauteurs d’x égalisées et approches ajustées, puis on exporte un script qui recrée le texte éditable dans Illustrator, InDesign ou Photoshop, ou un PNG. MIT, gratuit ; V4.",
+  "summary_en": "In the browser (Chrome, Edge), mix your variable fonts’ instances letter by letter, with matched x-heights and adjusted spacing, then export a script that rebuilds the text as live type in Illustrator, InDesign or Photoshop, or a PNG. MIT, free; V4.",
+  "url": "https://mixweight.pages.dev",
+  "tags": [
+   "outil",
+   "variable",
+   "appairage",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — Z-tfs/Mixweight",
+   "label_en": "GitHub — Z-tfs/Mixweight",
+   "url": "https://github.com/Z-tfs/Mixweight"
+  }
+ },
+ {
+  "date": "2026-11-21",
+  "name": "Colines Gros-romain 1.1 — le romain parisien de 1531, reconstruit depuis l’imprimé",
+  "name_en": "Colines Gros-romain 1.1 — the 1531 Paris roman, rebuilt from print",
+  "summary": "Romain (1531) et italique (1532) de Simon de Colines, moyennés sur des milliers d’empreintes réelles, plus une version « Impression » avec l’encrage. Rien d’inventé : il manque J, U, W. La 1.1 ajoute chiffres et Z. Pour du titrage d’époque. OFL ; v1.1 du 20 nov.",
+  "summary_en": "Simon de Colines’s roman (1531) and italic (1532), averaged from thousands of real impressions, plus an “Impression” version with ink spread. Nothing invented: J, U, W are missing. 1.1 adds figures and Z. For period display work. OFL; v1.1 on Nov 20.",
+  "url": "https://github.com/nathanmsolomon/colines-1531",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — nathanmsolomon/colines-1531",
+   "label_en": "GitHub — nathanmsolomon/colines-1531",
+   "url": "https://github.com/nathanmsolomon/colines-1531/releases/tag/v1.1"
+  }
+ },
+ {
+  "date": "2026-11-21",
+  "name": "Loci 1.000 — des capitales gravées, tout en chanfreins",
+  "name_en": "Loci 1.000 — carved capitals, all chamfers",
+  "summary": "Capitales, chiffres et ponctuation tracés en polylignes d’épaisseur fixe, angles à 45°, aucune courbe : un titrage technique pour logos, titres et compteurs d’interface ou de HUD. Dérivée de Tektur, une seule graisse, pas d’accents. OFL, gratuit ; v1.000 du 17 nov.",
+  "summary_en": "Capitals, figures and punctuation drawn as fixed-width polylines with 45° chamfers and no curves: a technical display face for wordmarks, headings and interface or HUD counters. Derived from Tektur, one weight, no accents. OFL, free; v1.000 on Nov 17.",
+  "url": "https://yang-yibinn.github.io/loci-font/",
+  "tags": [
+   "ofl",
+   "display",
+   "ui"
+  ],
+  "source": {
+   "label": "GitHub — yang-yibinn/loci-font",
+   "label_en": "GitHub — yang-yibinn/loci-font",
+   "url": "https://github.com/yang-yibinn/loci-font/releases/tag/v1.000"
+  }
  }
 ]

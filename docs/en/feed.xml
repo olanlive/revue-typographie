@@ -5,8 +5,58 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Noto Serif Mono 2.502 — a monospaced serif for code and terminals</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-noto-serif-mono-2-502-un-serif-a-chasse-fixe-pour-le-code-et-le-terminal</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-21-noto-serif-mono-2-502-un-serif-a-chasse-fixe-pour-le-code-et-le-terminal</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Noto Serif fitted to a fixed cell: Latin, Greek, Cyrillic, 2,800+ characters, distinct 0O and 1lI|, slashed zero, small caps, screen hinting where Bold and Regular line up pixel for pixel. Four styles. OFL, free; v2.502 on Nov 16, submitted to the Noto project.</description>
+      <category>ofl</category>
+      <category>code</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Vazirmatn Soft 1.0 — Persian Vazirmatn, rounded and variable</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-vazirmatn-soft-1-0-la-vazirmatn-persane-arrondie-et-variable</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-21-vazirmatn-soft-1-0-la-vazirmatn-persane-arrondie-et-variable</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Round dots, rounded stroke ends and softened corners, with widths and spacing unchanged: it swaps in for Vazirmatn without reflowing text. Nine weights plus a 100–900 variable, UI and Arabic-only editions. For Arabic/Persian/Latin interfaces. OFL; v1.0.0 on Nov 20.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+    </item>
+    <item>
+      <title>Mixweight V4 — mix weights letter by letter, as live text</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-mixweight-v4-melanger-les-graisses-lettre-par-lettre-en-texte-vivant</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-21-mixweight-v4-melanger-les-graisses-lettre-par-lettre-en-texte-vivant</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0100</pubDate>
+      <description>In the browser (Chrome, Edge), mix your variable fonts’ instances letter by letter, with matched x-heights and adjusted spacing, then export a script that rebuilds the text as live type in Illustrator, InDesign or Photoshop, or a PNG. MIT, free; V4.</description>
+      <category>outil</category>
+      <category>variable</category>
+      <category>appairage</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Colines Gros-romain 1.1 — the 1531 Paris roman, rebuilt from print</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-colines-gros-romain-1-1-le-romain-parisien-de-1531-reconstruit-depuis-limprime</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-21-colines-gros-romain-1-1-le-romain-parisien-de-1531-reconstruit-depuis-limprime</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Simon de Colines’s roman (1531) and italic (1532), averaged from thousands of real impressions, plus an “Impression” version with ink spread. Nothing invented: J, U, W are missing. 1.1 adds figures and Z. For period display work. OFL; v1.1 on Nov 20.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>Loci 1.000 — carved capitals, all chamfers</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-loci-1-000-des-capitales-gravees-tout-en-chanfreins</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-21-loci-1-000-des-capitales-gravees-tout-en-chanfreins</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Capitals, figures and punctuation drawn as fixed-width polylines with 45° chamfers and no curves: a technical display face for wordmarks, headings and interface or HUD counters. Derived from Tektur, one weight, no accents. OFL, free; v1.000 on Nov 17.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>ui</category>
+    </item>
     <item>
       <title>Sunday Serif 0.4 — a text serif with variable print effects</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-20-sunday-serif-0-4-un-serif-de-texte-aux-effets-dimpression-variables</link>
@@ -951,51 +1001,6 @@
       <category>ofl</category>
       <category>variable</category>
       <category>display</category>
-    </item>
-    <item>
-      <title>On Top 1.001</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-on-top-1-001</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-on-top-1-001</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Wide, very heavy capitals drawn in code from a logo. Latin Core, checked kerning and four stylistic sets (round A, long-leg R, square S and E). For headlines that hit hard. OFL 1.1; brand new, v1.001 released 18 October.</description>
-      <category>ofl</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Digitype — digitize a typewriter</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-digitype-numeriser-une-machine-a-ecrire</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Turns scans of typewriter samples, even dirty or skewed, into an installable monospaced font: box a line, type what it says, and it averages every impression and traces it. Python locally or in the browser. No license stated; project started 22 October.</description>
-      <category>outil</category>
-      <category>edition-fonte</category>
-    </item>
-    <item>
-      <title>Forest Weathered 0.100 — Lao, Thai, Khmer and Latin</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-forest-weathered-0-100-lao-thai-khmer-et-latin</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
-      <description>A display face drawn from a hand-painted sign in Laos, with Latin, Lao, Thai and Khmer in one file: rare for a multilingual Southeast Asian visual. OFL 1.1; beta, several letters still drafts to be redrawn before 1.0.</description>
-      <category>ofl</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Valera Sans 0.6.4 — Cyrillic handwriting</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-valera-sans-0-6-4-une-ecriture-manuscrite-cyrillique</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Handwriting font by artist Valery Isachenkov, Cyrillic and Latin, three weights (Light, Regular, Semibold) in TTF, OTF and WOFF2. Good for captions and posters. Free, commercial use included, with credit and no font changes (custom license); v0.6.4, Oct 22.</description>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Crooli Sans — a friendlier Geist</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-29-crooli-sans-un-geist-plus-amical</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-29-crooli-sans-un-geist-plus-amical</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0100</pubDate>
-      <description>A Geist fork: single-storey a, round dots, simpler R and G, with no redrawing or spacing changes. Variable wght 100 to 900 with italics, Latin, Vietnamese and Cyrillic. A good UI pick. OFL 1.1; brand-new project, published 28 October.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
     </item>
   </channel>
 </rss>
