@@ -3118,5 +3118,116 @@
    "label_en": "GitHub — yang-yibinn/loci-font",
    "url": "https://github.com/yang-yibinn/loci-font/releases/tag/v1.000"
   }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Xmind 1.001 — une sans variable d’interface, arrivée sur Google Fonts",
+  "name_en": "Xmind 1.001 — a variable interface sans, now on Google Fonts",
+  "summary": "La fonte maison de Xmind, entre géométrique et humaniste : axe de graisse 100–900, romain et italique, latin, grec et cyrillique (109 langues), exposants, fractions, formes de capitales. Pour interfaces, sites et présentations. OFL, gratuit ; v1.001.",
+  "summary_en": "Xmind’s house typeface, between geometric and humanist: a 100–900 weight axis, roman and italic, Latin, Greek and Cyrillic (109 languages), superiors, fractions, case-sensitive forms. For interfaces, websites and slides. OFL, free; v1.001.",
+  "url": "https://fonts.google.com/specimen/Xmind",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "Google Fonts — Xmind",
+   "label_en": "Google Fonts — Xmind",
+   "url": "https://github.com/lamzhonghang/xmind"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Daikonic Transit — une famille Johnston pour le texte, l’interface et le code",
+  "name_en": "Daikonic Transit — a Johnston family for text, interface and code",
+  "summary": "Trois familles variables tirées de Metropolitan Line : Sans pour le titrage, System avec axe de taille optique et chiffres tabulaires pour les tableaux de bord, Code en chasse fixe avec ligatures et axe de largeur. Italiques partout. OFL ; Sans 0.111, Code 1.042.",
+  "summary_en": "Three variable families drawn from Metropolitan Line: Sans for headings, System with an optical-size axis and tabular figures for dashboards, Code in fixed width with ligatures and a width axis. Italics throughout. OFL; Sans 0.111, Code 1.042.",
+  "url": "https://github.com/daikonic-org/transit-typeface",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — daikonic-org/transit-typeface",
+   "label_en": "GitHub — daikonic-org/transit-typeface",
+   "url": "https://github.com/daikonic-org/transit-typeface/releases/tag/Transit-2026.11.20"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Typestash 0.3.0 — sa bibliothèque de fontes sur son serveur, consultable partout",
+  "name_en": "Typestash 0.3.0 — your font library on your own server, browsable anywhere",
+  "summary": "Une commande Docker sur un NAS ou un serveur, et toutes ses fontes se parcourent depuis n’importe quel navigateur : testeur avec axes variables et fonctions OpenType, carte des glyphes, comparaison, collections, doublons. Fichiers laissés en place. MIT ; v0.3.0.",
+  "summary_en": "One Docker command on a NAS or server, and your whole font library is browsable from any browser: a tester with variable axes and OpenType features, glyph map, side-by-side compare, collections, duplicates. Files stay in place. MIT; v0.3.0.",
+  "url": "https://typestash.j47.in/",
+  "tags": [
+   "outil",
+   "libre",
+   "variable",
+   "appairage"
+  ],
+  "source": {
+   "label": "X — @jatinkrmalik",
+   "label_en": "X feed — @jatinkrmalik",
+   "url": "https://x.com/jatinkrmalik/status/2124360748554199490"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Fontzie 1.0 — essayer des fontes sur n’importe quel site, puis exporter le CSS",
+  "name_en": "Fontzie 1.0 — try fonts on any live website, then export the CSS",
+  "summary": "Extension Chrome : on pointe un élément ou un sélecteur, on applique une Google Font, une Fontshare libre, une fonte installée ou ses propres fichiers, on règle graisse, axes et interlignage, puis on exporte en CSS, Tailwind v4 ou consigne. Sans compte. MIT ; v1.0.1.",
+  "summary_en": "A Chrome extension: pick an element or a selector, apply a Google font, an open Fontshare family, an installed font or your own files, tune weight, axes and leading, then export as CSS, Tailwind v4 or a prompt. No account. MIT; v1.0.1.",
+  "url": "https://fontzie.app/",
+  "tags": [
+   "outil",
+   "web",
+   "appairage",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — ale-benassi/fontzie",
+   "label_en": "GitHub — ale-benassi/fontzie",
+   "url": "https://github.com/ale-benassi/fontzie/releases/tag/v1.0.1"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Garamontio 1.333 — un Garamond variable, maths comprises",
+  "name_en": "Garamontio 1.333 — a variable Garamond, maths included",
+  "summary": "Dérivé d’EB Garamond avec un italique retravaillé et des opérateurs mathématiques : romain et italique variables, petites capitales, s long, chiffres romains, ornements, une trentaine de variantes OpenType. La 1.333 ajoute des formes finales. OFL ; v1.333 du 21 nov.",
+  "summary_en": "Derived from EB Garamond with a reworked italic and maths operators: variable roman and italic, small caps, long s, Roman numerals, ornaments, some thirty OpenType variants. 1.333 adds terminal forms. OFL; v1.333 on Nov 21.",
+  "url": "https://m-casanova.codeberg.page/Garamontio/",
+  "tags": [
+   "ofl",
+   "variable",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "Mastodon — @mc_wiki",
+   "label_en": "Mastodon — @mc_wiki",
+   "url": "https://codeberg.org/m-casanova/Garamontio/releases/tag/v1.333"
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Christoffel 1768 1.0 — les fontes de Van Dijck, relevées dans le spécimen Enschedé",
+  "name_en": "Christoffel 1768 1.0 — Van Dijck’s founts, taken from the Enschedé specimen",
+  "summary": "Neuf fontes de Christoffel van Dijck (romains, italiques, gothiques) moyennées sur les empreintes du spécimen de 1768, plus une version « Impression ». Partielles par principe : alphabets incomplets, aucun chiffre. Pour du titrage d’époque. OFL ; v1.0 du 20 nov.",
+  "summary_en": "Nine founts by Christoffel van Dijck (romans, italics, blackletter) averaged from impressions in the 1768 specimen, plus an “Impression” version. Partial by design: incomplete alphabets, no figures. For period display work. OFL; v1.0 on Nov 20.",
+  "url": "https://github.com/nathanmsolomon/christoffel-1768",
+  "tags": [
+   "ofl",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — nathanmsolomon/christoffel-1768",
+   "label_en": "GitHub — nathanmsolomon/christoffel-1768",
+   "url": "https://github.com/nathanmsolomon/christoffel-1768/releases/tag/v1.0"
+  }
  }
 ]

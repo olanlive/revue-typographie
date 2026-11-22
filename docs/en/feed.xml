@@ -5,8 +5,71 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xmind 1.001 — a variable interface sans, now on Google Fonts</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-xmind-1-001-une-sans-variable-dinterface-arrivee-sur-google-fonts</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-xmind-1-001-une-sans-variable-dinterface-arrivee-sur-google-fonts</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Xmind’s house typeface, between geometric and humanist: a 100–900 weight axis, roman and italic, Latin, Greek and Cyrillic (109 languages), superiors, fractions, case-sensitive forms. For interfaces, websites and slides. OFL, free; v1.001.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Daikonic Transit — a Johnston family for text, interface and code</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-daikonic-transit-une-famille-johnston-pour-le-texte-linterface-et-le-code</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-daikonic-transit-une-famille-johnston-pour-le-texte-linterface-et-le-code</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Three variable families drawn from Metropolitan Line: Sans for headings, System with an optical-size axis and tabular figures for dashboards, Code in fixed width with ligatures and a width axis. Italics throughout. OFL; Sans 0.111, Code 1.042.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Typestash 0.3.0 — your font library on your own server, browsable anywhere</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-typestash-0-3-0-sa-bibliotheque-de-fontes-sur-son-serveur-consultable-partout</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-typestash-0-3-0-sa-bibliotheque-de-fontes-sur-son-serveur-consultable-partout</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>One Docker command on a NAS or server, and your whole font library is browsable from any browser: a tester with variable axes and OpenType features, glyph map, side-by-side compare, collections, duplicates. Files stay in place. MIT; v0.3.0.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>variable</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Fontzie 1.0 — try fonts on any live website, then export the CSS</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-fontzie-1-0-essayer-des-fontes-sur-nimporte-quel-site-puis-exporter-le-css</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-fontzie-1-0-essayer-des-fontes-sur-nimporte-quel-site-puis-exporter-le-css</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A Chrome extension: pick an element or a selector, apply a Google font, an open Fontshare family, an installed font or your own files, tune weight, axes and leading, then export as CSS, Tailwind v4 or a prompt. No account. MIT; v1.0.1.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>appairage</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>Garamontio 1.333 — a variable Garamond, maths included</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-garamontio-1-333-un-garamond-variable-maths-comprises</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-garamontio-1-333-un-garamond-variable-maths-comprises</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Derived from EB Garamond with a reworked italic and maths operators: variable roman and italic, small caps, long s, Roman numerals, ornaments, some thirty OpenType variants. 1.333 adds terminal forms. OFL; v1.333 on Nov 21.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Christoffel 1768 1.0 — Van Dijck’s founts, taken from the Enschedé specimen</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-christoffel-1768-1-0-les-fontes-de-van-dijck-relevees-dans-le-specimen-enschede</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-22-christoffel-1768-1-0-les-fontes-de-van-dijck-relevees-dans-le-specimen-enschede</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Nine founts by Christoffel van Dijck (romans, italics, blackletter) averaged from impressions in the 1768 specimen, plus an “Impression” version. Partial by design: incomplete alphabets, no figures. For period display work. OFL; v1.0 on Nov 20.</description>
+      <category>ofl</category>
+      <category>display</category>
+    </item>
     <item>
       <title>Noto Serif Mono 2.502 — a monospaced serif for code and terminals</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-21-noto-serif-mono-2-502-un-serif-a-chasse-fixe-pour-le-code-et-le-terminal</link>
@@ -945,62 +1008,6 @@
       <category>outil</category>
       <category>libre</category>
       <category>edition-fonte</category>
-    </item>
-    <item>
-      <title>Punctum Moderne 2.500 — a dot-matrix Didone</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-punctum-moderne-2-500-un-didone-en-matrice-de-points</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-punctum-moderne-2-500-un-didone-en-matrice-de-points</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
-      <description>A dot-matrix Didone, roman and italic: each dot stands for pen pressure. Three axes, 54 named styles, 18 statics, 2 woff2 files. Version 2.500 (Oct 31) grows to 354 characters and 43 languages. OFL 1.1; a young, very active project.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Garamond Mono 1.101</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-garamond-mono-1-101</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-garamond-mono-1-101</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
-      <description>An old-style serif monospace drawn from EB Garamond: Regular, Medium and Bold, each with an italic. For a terminal or code blocks with a bookish feel. OTF, TTF, WOFF2. OFL; v1.101 released Oct 18, maintained since 2024.</description>
-      <category>ofl</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>Balambika Sans 1.000 — Devanagari, IAST and Cyrillic</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-balambika-sans-1-000-devanagari-iast-et-cyrillique</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-balambika-sans-1-000-devanagari-iast-et-cyrillique</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
-      <description>The sans companion to Balambika: Noto Sans Devanagari (Vedic accents) and Source Sans 3 (Latin, full IAST, Bulgarian Cyrillic) merged into one file per style. 6 weights with italics. OFL; first version released Oct 30.</description>
-      <category>ofl</category>
-      <category>appairage</category>
-    </item>
-    <item>
-      <title>Teletext Decoder 1.5</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-teletext-decoder-1-5</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-teletext-decoder-1-5</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
-      <description>A teletext pixel font, inspired by the ETSI documents and decoder ROMs from the late 1980s. Handy for a retro UI or a mosaic info screen. Version 1.5 (Oct 30) adds Cyrillic and moves to OFL 1.1. TTF, FontForge source.</description>
-      <category>ofl</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>foton 0.1.4 — a font package manager for Windows</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-31-foton-0-1-4-gestionnaire-de-paquets-de-fontes-pour-windows</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-31-foton-0-1-4-gestionnaire-de-paquets-de-fontes-pour-windows</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0100</pubDate>
-      <description>Installs, updates, activates and deactivates fonts on Windows without admin rights, from a registry or your own TOML manifests. Install via winget or cargo. MIT or Apache 2.0; a young Rust project, v0.1.4 released Oct 23.</description>
-      <category>outil</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Tünel 1.100 — a variable dot-matrix face</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-10-30-tunel-1-100-matrice-de-points-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-10-30-tunel-1-100-matrice-de-points-variable</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0100</pubDate>
-      <description>A dot-matrix face for LED signs, named after Istanbul's Tünel. Two axes: wght (dot size) and ROND (square to round dot), the grid never changes. 372 characters, Latin Core. TTF, OTF, WOFF2. OFL 1.1; v1.100 released 18 October.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
     </item>
   </channel>
 </rss>
