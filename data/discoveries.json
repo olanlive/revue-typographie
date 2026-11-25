@@ -3229,5 +3229,94 @@
    "label_en": "GitHub — nathanmsolomon/christoffel-1768",
    "url": "https://github.com/nathanmsolomon/christoffel-1768/releases/tag/v1.0"
   }
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Plemio 0.1.1 — une chasse fixe IBM Plex où le CJK fait pile deux colonnes",
+  "name_en": "Plemio 0.1.1 — an IBM Plex monospace where CJK takes exactly two columns",
+  "summary": "Plex Mono et Plex Sans SC/TC/JP/KR fusionnés : idéogrammes exactement deux fois plus larges que le latin, donc code, commentaires et tableaux en japonais restent alignés. Huit graisses avec italiques, variante Nerd pour le terminal. Fontes OFL ; v0.1.1, très jeune.",
+  "summary_en": "Plex Mono merged with Plex Sans SC/TC/JP/KR: ideographs exactly twice as wide as Latin, so code, comments and tables in Japanese stay aligned. Eight weights with italics, a Nerd variant for terminals. Fonts OFL; v0.1.1, very young.",
+  "url": "https://github.com/fang2hou/Plemio",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — fang2hou/Plemio",
+   "label_en": "GitHub — fang2hou/Plemio",
+   "url": "https://github.com/fang2hou/Plemio/releases/tag/v0.1.1"
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Micfong Sans Math 0.10 — des formules en Plex dans Typst et LaTeX",
+  "name_en": "Micfong Sans Math 0.10 — Plex-styled equations in Typst and LaTeX",
+  "summary": "Fonte mathématique OpenType : Lete Sans Math dont lettres et chiffres sont remplacés par ceux d’IBM Plex Sans et Mono, accents et crénage recalculés. Des équations assorties à un texte en Plex, regular et gras, paquet sur le CTAN. Fontes OFL, scripts MIT ; v0.10.",
+  "summary_en": "An OpenType math font: Lete Sans Math with its letters and figures swapped for IBM Plex Sans and Mono, accents and kerning recalculated. Equations that match body text set in Plex, regular and bold, with a package on CTAN. Fonts OFL, scripts MIT; v0.10.",
+  "url": "https://github.com/micfong-z/micfong-sans-math",
+  "tags": [
+   "ofl",
+   "lisibilite",
+   "appairage"
+  ],
+  "source": {
+   "label": "GitHub — micfong-z/micfong-sans-math",
+   "label_en": "GitHub — micfong-z/micfong-sans-math",
+   "url": "https://github.com/micfong-z/micfong-sans-math/releases/tag/v0.10"
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Bitroot 0.3 — une pixel mono de 5×13 qui reste nette en petit",
+  "name_en": "Bitroot 0.3 — a 5×13 pixel monospace that stays sharp at small sizes",
+  "summary": "Fonte pixel à chasse fixe dessinée dans Aseprite : cellule de 5×13 px, avance de 6 px, nette à 10, 20 ou 30 px. ASCII complet et accents Latin-1, donc le français passe (sans Œ ni Æ pour l’instant). TTF et WOFF2 pour HUD, overlays, sites rétro. OFL ; v0.3, glyphes mouvants.",
+  "summary_en": "A monospaced pixel font drawn in Aseprite: 5×13 px cell, 6 px advance, crisp at 10, 20 or 30 px. Full ASCII and Latin-1 accents, so French works (no Œ or Æ yet). TTF and WOFF2 for HUDs, overlays and retro sites. OFL; v0.3, glyphs may still change.",
+  "url": "https://github.com/serialexperimentsrio/bitroot",
+  "tags": [
+   "ofl",
+   "display",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — serialexperimentsrio/bitroot",
+   "label_en": "GitHub — serialexperimentsrio/bitroot",
+   "url": "https://github.com/serialexperimentsrio/bitroot/releases/tag/v0.3"
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "name": "hinting-diff 0.2 — comparer le hinting de deux versions d’une fonte, par Klim",
+  "name_en": "hinting-diff 0.2 — compare the hinting of two versions of a font, from Klim",
+  "summary": "Outil Python de Klim Type Foundry : il génère une page HTML montrant chaque glyphe rendu avec son hinting TrueType, à la taille en pixels voulue, avec bascule ancien/nouveau. Marche sur une famille entière. À ouvrir sous Windows. Apache 2.0, pip install ; v0.2.0.",
+  "summary_en": "A Python tool from Klim Type Foundry: it writes an HTML page showing every glyph rendered with its TrueType hinting at a chosen pixel size, with an old/new toggle. Works on a whole family. Open it on Windows. Apache 2.0, pip install; v0.2.0.",
+  "url": "https://github.com/klim-type-foundry/hinting-diff",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "PyPI — hinting-diff",
+   "label_en": "PyPI — hinting-diff",
+   "url": "https://pypi.org/project/hinting-diff/"
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "name": "font — installer et désinstaller proprement ses fontes en ligne de commande",
+  "name_en": "font — install and cleanly remove fonts from the command line",
+  "summary": "Un script Bash pour macOS et Linux : font install google \"Open Sans\", fontshare, casks Homebrew ou une URL ; il garde la trace des fichiers posés pour lister, vérifier ou désinstaller net, et cherche dans Google Fonts et Fontshare. AGPL 3.0 ; jeune, sans release.",
+  "summary_en": "A Bash script for macOS and Linux: font install google \"Open Sans\", Fontshare, Homebrew casks or a URL; it tracks the files it puts in place to list, check or cleanly uninstall, and searches Google Fonts and Fontshare. AGPL 3.0; young, no release.",
+  "url": "https://github.com/xwmx/font",
+  "tags": [
+   "outil",
+   "libre",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — xwmx/font",
+   "label_en": "GitHub — xwmx/font",
+   "url": "https://github.com/xwmx/font"
+  }
  }
 ]

@@ -5,8 +5,57 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Plemio 0.1.1 — an IBM Plex monospace where CJK takes exactly two columns</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-25-plemio-0-1-1-une-chasse-fixe-ibm-plex-ou-le-cjk-fait-pile-deux-colonnes</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-25-plemio-0-1-1-une-chasse-fixe-ibm-plex-ou-le-cjk-fait-pile-deux-colonnes</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Plex Mono merged with Plex Sans SC/TC/JP/KR: ideographs exactly twice as wide as Latin, so code, comments and tables in Japanese stay aligned. Eight weights with italics, a Nerd variant for terminals. Fonts OFL; v0.1.1, very young.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Micfong Sans Math 0.10 — Plex-styled equations in Typst and LaTeX</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-25-micfong-sans-math-0-10-des-formules-en-plex-dans-typst-et-latex</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-25-micfong-sans-math-0-10-des-formules-en-plex-dans-typst-et-latex</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0100</pubDate>
+      <description>An OpenType math font: Lete Sans Math with its letters and figures swapped for IBM Plex Sans and Mono, accents and kerning recalculated. Equations that match body text set in Plex, regular and bold, with a package on CTAN. Fonts OFL, scripts MIT; v0.10.</description>
+      <category>ofl</category>
+      <category>lisibilite</category>
+      <category>appairage</category>
+    </item>
+    <item>
+      <title>Bitroot 0.3 — a 5×13 pixel monospace that stays sharp at small sizes</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-25-bitroot-0-3-une-pixel-mono-de-513-qui-reste-nette-en-petit</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-25-bitroot-0-3-une-pixel-mono-de-513-qui-reste-nette-en-petit</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A monospaced pixel font drawn in Aseprite: 5×13 px cell, 6 px advance, crisp at 10, 20 or 30 px. Full ASCII and Latin-1 accents, so French works (no Œ or Æ yet). TTF and WOFF2 for HUDs, overlays and retro sites. OFL; v0.3, glyphs may still change.</description>
+      <category>ofl</category>
+      <category>display</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>hinting-diff 0.2 — compare the hinting of two versions of a font, from Klim</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-25-hinting-diff-0-2-comparer-le-hinting-de-deux-versions-dune-fonte-par-klim</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-25-hinting-diff-0-2-comparer-le-hinting-de-deux-versions-dune-fonte-par-klim</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A Python tool from Klim Type Foundry: it writes an HTML page showing every glyph rendered with its TrueType hinting at a chosen pixel size, with an old/new toggle. Works on a whole family. Open it on Windows. Apache 2.0, pip install; v0.2.0.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>font — install and cleanly remove fonts from the command line</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-25-font-installer-et-desinstaller-proprement-ses-fontes-en-ligne-de-commande</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-25-font-installer-et-desinstaller-proprement-ses-fontes-en-ligne-de-commande</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A Bash script for macOS and Linux: font install google "Open Sans", Fontshare, Homebrew casks or a URL; it tracks the files it puts in place to list, check or cleanly uninstall, and searches Google Fonts and Fontshare. AGPL 3.0; young, no release.</description>
+      <category>outil</category>
+      <category>libre</category>
+      <category>google-fonts</category>
+    </item>
     <item>
       <title>Xmind 1.001 — a variable interface sans, now on Google Fonts</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-22-xmind-1-001-une-sans-variable-dinterface-arrivee-sur-google-fonts</link>
@@ -957,57 +1006,6 @@
       <description>Three Chinese fonts in Ming court regular script (guan-ge-ti), each drawn from a different manuscript, 20,992 characters; no Latin. Useful for classical Chinese titling. Fonts OFL, code MIT; active project (v1.7.2, Oct 30).</description>
       <category>ofl</category>
       <category>display</category>
-    </item>
-    <item>
-      <title>Galabir 4.1 — readable Glagolitic</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-galabir-4-1-la-glagolitique-lisible</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-galabir-4-1-la-glagolitique-lisible</guid>
-      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Type in Cyrillic and the text shows in Glagolitic: angular capitals, round lowercase, ascenders borrowed from cursive. Derived from League Spartan, one Light style, TTF and WOFF2. Version 4.1 (Nov 1) adds 84 Unicode Glagolitic code points. OFL 1.1; a brand-new project.</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Chrontor Variable 2.0 — in the spirit of New Alphabet</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-chrontor-variable-2-0-dans-lesprit-du-new-alphabet</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-chrontor-variable-2-0-dans-lesprit-du-new-alphabet</guid>
-      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-      <description>A grid-based modular face inspired by Wim Crouwel’s New Alphabet (1967): straight lines only, 45° diagonals. Version 2.0 (Oct 30) adds a variable width axis, Regular to Extended. Basic Latin, a single OTF file. Sci-fi titling. OFL 1.1; a young project.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Miracle Grove 1.300 — a soft serif drawn from Fraunces</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-miracle-grove-1-300-un-serif-doux-tire-de-fraunces</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-miracle-grove-1-300-un-serif-doux-tire-de-fraunces</guid>
-      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-      <description>A Fraunces derivative frozen at one optical size and softness: 4 weights with italics for headings and short text. Tabular figures, ligatures, alternates, TTF and WOFF2 with ready CSS. Version 1.300 (Oct 29) refines spacing. OFL 1.1; a young project.</description>
-      <category>ofl</category>
-      <category>display</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>Stem 7 1.001 — a pixel font that never blurs</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-stem-7-1-001-un-pixel-qui-ne-floute-jamais</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-stem-7-1-001-un-pixel-qui-ne-floute-jamais</guid>
-      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-      <description>A pixel font on a 7×7 grid, crisp with no grey pixels at 16, 32, 48, 72 and 120 px. Regular, hand-drawn Bold and variable Grid; 120 glyphs, tabular figures, WOFF2 of about 3.4 KB, npm or CDN. Glyphs as text, Python build. OFL 1.1, no reserved name; a young project.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-      <category>web</category>
-    </item>
-    <item>
-      <title>vtt-transfer 0.2.4 — carrying VTT hinting over</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-01-vtt-transfer-0-2-4-reporter-le-hinting-vtt</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-01-vtt-transfer-0-2-4-reporter-le-hinting-vtt</guid>
-      <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Command-line tool (Python 3.11+): carries VTT hinting sources from an old version of a TrueType font, static or variable, to the new one, with an HTML report of glyphs to re-hint. Install with uv or pipx. MIT; a recent project, v0.2.4 on Nov 1.</description>
-      <category>outil</category>
-      <category>libre</category>
-      <category>edition-fonte</category>
     </item>
   </channel>
 </rss>
