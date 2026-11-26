@@ -3318,5 +3318,114 @@
    "label_en": "GitHub — xwmx/font",
    "url": "https://github.com/xwmx/font"
   }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "Cal Sans Text UI 2.020 — la version interface de Cal Sans, pour les petits corps",
+  "name_en": "Cal Sans Text UI 2.020 — the interface cut of Cal Sans, for small sizes",
+  "summary": "Nouvelle famille tirée de Cal Sans (déjà vu le 19 oct.) : coins adoucis, approches ouvertes, l à queue pour ne pas confondre I, l et 1, métriques calées sur les polices système. Variable 400–700 avec italique. OFL ; v2.020, intégrée au dépôt Google Fonts le 24 nov.",
+  "summary_en": "A new family drawn from Cal Sans (seen Oct 19): softer corners, open spacing, a tailed l so I, l and 1 never clash, metrics matched to system fonts. Variable 400–700 with italics. OFL; v2.020, merged into the Google Fonts repository on Nov 24.",
+  "url": "https://github.com/calcom/sans",
+  "tags": [
+   "ofl",
+   "variable",
+   "ui",
+   "google-fonts"
+  ],
+  "source": {
+   "label": "GitHub — google/fonts",
+   "label_en": "GitHub — google/fonts",
+   "url": "https://github.com/google/fonts/pull/11432"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "Confinium Mono 0.2.1 — une chasse fixe géométrique, variable de 100 à 700",
+  "name_en": "Confinium Mono 0.2.1 — a geometric monospace, variable from 100 to 700",
+  "summary": "Mono droite dessinée sur grille, sans contours empruntés : 416 caractères, latin européen et cyrillique. Une variable 100–700 et quatre coupes (Grid, Open, Dense, Hollow), en TTF et WOFF2, avec un explorateur en ligne. OFL ; v0.2.1, builds de revue, pas encore finale.",
+  "summary_en": "An upright monospace drawn on a grid, with no borrowed outlines: 416 characters, European Latin and Cyrillic. One variable font 100–700 and four cuts (Grid, Open, Dense, Hollow) in TTF and WOFF2, with an online explorer. OFL; v0.2.1, review builds, not final yet.",
+  "url": "https://scetrov.github.io/confinium-mono/",
+  "tags": [
+   "ofl",
+   "variable",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — Scetrov/confinium-mono",
+   "label_en": "GitHub — Scetrov/confinium-mono",
+   "url": "https://github.com/Scetrov/confinium-mono/releases/tag/0.2.1"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "allomono 0.1 — Allo calée sur une grille pour le terminal",
+  "name_en": "allomono 0.1 — Allo fitted to a grid for the terminal",
+  "summary": "Allo (déjà vu le 19 nov.) en chasse fixe : regular, gras et italiques à a simple, 996 caractères dont filets de tableaux. Flèches -> et => sans changer la largeur, zéro pointé et 4, 6, 9 ouverts en option. Dessinée pour écrans Retina, hintée pour les autres. OFL ; v0.1.",
+  "summary_en": "Allo (seen Nov 19) made monospaced: regular, bold and italics with a single-story a, 996 characters including box drawing. -> and => arrows that never change width, optional dotted zero and open 4, 6, 9. Drawn for Retina, hinted for ordinary screens. OFL; v0.1.",
+  "url": "https://github.com/sebinsua/allomono",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — sebinsua/allomono",
+   "label_en": "GitHub — sebinsua/allomono",
+   "url": "https://github.com/sebinsua/allomono"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "Petricor 1.000 — une manuscrite variable, en script ou en cursive liée",
+  "name_en": "Petricor 1.000 — a variable handwriting family, in print or joined cursive",
+  "summary": "Deux familles tirées de l’écriture de Mário Lúcio, mêmes capitales et chiffres : Petricor en minuscules détachées (wght 100–900), Petricor Caligrafia en cursive vraiment liée par calt (100–600). GF Latin Core, chiffres tabulaires. OFL ; v1.000 toute neuve.",
+  "summary_en": "Two families from Mário Lúcio’s handwriting sharing capitals and figures: Petricor with separate print lowercase (wght 100–900) and Petricor Caligrafia with a truly joined cursive via calt (100–600). GF Latin Core, tabular figures. OFL; brand-new v1.000.",
+  "url": "https://github.com/marioluciofjr/petricor",
+  "tags": [
+   "ofl",
+   "variable",
+   "display"
+  ],
+  "source": {
+   "label": "GitHub — marioluciofjr/petricor",
+   "label_en": "GitHub — marioluciofjr/petricor",
+   "url": "https://github.com/marioluciofjr/petricor"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "fontra-curvekit 0.1 — ciseaux et mise en compatibilité des masters dans Fontra",
+  "name_en": "fontra-curvekit 0.1 — scissors and master compatibility in Fontra",
+  "summary": "Greffon pour l’éditeur Fontra (déjà vu le 18 oct.) : Scissors coupe ou joint des contours, Matchmaker affiche tous les masters côte à côte et aligne nœuds et points de départ pour qu’une variable s’interpole, Curve Point courbe les segments. MIT ; v0.1.0, sans release.",
+  "summary_en": "A plugin for the Fontra editor (seen Oct 18): Scissors cuts or joins contours, Matchmaker shows every master side by side and aligns nodes and start points so a variable font interpolates, Curve Point bends segments. MIT; v0.1.0, no release yet.",
+  "url": "https://github.com/NightFurySL2001/fontra-curvekit",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "variable",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — NightFurySL2001/fontra-curvekit",
+   "label_en": "GitHub — NightFurySL2001/fontra-curvekit",
+   "url": "https://github.com/NightFurySL2001/fontra-curvekit"
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "name": "cjk-font-trim 0.1 — des fontes chinoises, japonaises, coréennes légères pour un site statique",
+  "name_en": "cjk-font-trim 0.1 — light Chinese, Japanese and Korean web fonts for static sites",
+  "summary": "Script Python + Playwright : il ouvre chaque page du site construit en bureau et mobile, relève les caractères par famille et graisse, et écrit des WOFF2 réduits plus un petit fichier premier écran, avec fonts.css. 82 Mo ramenés à 818 Ko dans l’exemple. MIT ; v0.1.0.",
+  "summary_en": "A Python + Playwright script: it opens every page of the built site at desktop and phone width, records characters per family and weight, and writes trimmed WOFF2s plus a small first-screen file, with fonts.css. 82 MB down to 818 KB in the example. MIT; v0.1.0.",
+  "url": "https://github.com/rumu3fen-dev/cjk-font-trim",
+  "tags": [
+   "outil",
+   "web",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — rumu3fen-dev/cjk-font-trim",
+   "label_en": "GitHub — rumu3fen-dev/cjk-font-trim",
+   "url": "https://github.com/rumu3fen-dev/cjk-font-trim/releases/tag/v0.1.0"
+  }
  }
 ]

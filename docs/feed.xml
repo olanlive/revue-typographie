@@ -5,8 +5,69 @@
     <link>https://olanlive.github.io/revue-typographie/</link>
     <description>Veille typographique libre : polices, fonderies et outils.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cal Sans Text UI 2.020 — la version interface de Cal Sans, pour les petits corps</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-cal-sans-text-ui-2-020-la-version-interface-de-cal-sans-pour-les-petits-corps</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-cal-sans-text-ui-2-020-la-version-interface-de-cal-sans-pour-les-petits-corps</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Nouvelle famille tirée de Cal Sans (déjà vu le 19 oct.) : coins adoucis, approches ouvertes, l à queue pour ne pas confondre I, l et 1, métriques calées sur les polices système. Variable 400–700 avec italique. OFL ; v2.020, intégrée au dépôt Google Fonts le 24 nov.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>ui</category>
+      <category>google-fonts</category>
+    </item>
+    <item>
+      <title>Confinium Mono 0.2.1 — une chasse fixe géométrique, variable de 100 à 700</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-confinium-mono-0-2-1-une-chasse-fixe-geometrique-variable-de-100-a-700</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-confinium-mono-0-2-1-une-chasse-fixe-geometrique-variable-de-100-a-700</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Mono droite dessinée sur grille, sans contours empruntés : 416 caractères, latin européen et cyrillique. Une variable 100–700 et quatre coupes (Grid, Open, Dense, Hollow), en TTF et WOFF2, avec un explorateur en ligne. OFL ; v0.2.1, builds de revue, pas encore finale.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>allomono 0.1 — Allo calée sur une grille pour le terminal</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-allomono-0-1-allo-calee-sur-une-grille-pour-le-terminal</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-allomono-0-1-allo-calee-sur-une-grille-pour-le-terminal</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Allo (déjà vu le 19 nov.) en chasse fixe : regular, gras et italiques à a simple, 996 caractères dont filets de tableaux. Flèches -&gt; et =&gt; sans changer la largeur, zéro pointé et 4, 6, 9 ouverts en option. Dessinée pour écrans Retina, hintée pour les autres. OFL ; v0.1.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Petricor 1.000 — une manuscrite variable, en script ou en cursive liée</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-petricor-1-000-une-manuscrite-variable-en-script-ou-en-cursive-liee</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-petricor-1-000-une-manuscrite-variable-en-script-ou-en-cursive-liee</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Deux familles tirées de l’écriture de Mário Lúcio, mêmes capitales et chiffres : Petricor en minuscules détachées (wght 100–900), Petricor Caligrafia en cursive vraiment liée par calt (100–600). GF Latin Core, chiffres tabulaires. OFL ; v1.000 toute neuve.</description>
+      <category>ofl</category>
+      <category>variable</category>
+      <category>display</category>
+    </item>
+    <item>
+      <title>fontra-curvekit 0.1 — ciseaux et mise en compatibilité des masters dans Fontra</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-fontra-curvekit-0-1-ciseaux-et-mise-en-compatibilite-des-masters-dans-fontra</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-fontra-curvekit-0-1-ciseaux-et-mise-en-compatibilite-des-masters-dans-fontra</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Greffon pour l’éditeur Fontra (déjà vu le 18 oct.) : Scissors coupe ou joint des contours, Matchmaker affiche tous les masters côte à côte et aligne nœuds et points de départ pour qu’une variable s’interpole, Curve Point courbe les segments. MIT ; v0.1.0, sans release.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>variable</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>cjk-font-trim 0.1 — des fontes chinoises, japonaises, coréennes légères pour un site statique</title>
+      <link>https://olanlive.github.io/revue-typographie/#2026-11-26-cjk-font-trim-0-1-des-fontes-chinoises-japonaises-coreennes-legeres-pour-un-site-statique</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-26-cjk-font-trim-0-1-des-fontes-chinoises-japonaises-coreennes-legeres-pour-un-site-statique</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Script Python + Playwright : il ouvre chaque page du site construit en bureau et mobile, relève les caractères par famille et graisse, et écrit des WOFF2 réduits plus un petit fichier premier écran, avec fonts.css. 82 Mo ramenés à 818 Ko dans l’exemple. MIT ; v0.1.0.</description>
+      <category>outil</category>
+      <category>web</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Plemio 0.1.1 — une chasse fixe IBM Plex où le CJK fait pile deux colonnes</title>
       <link>https://olanlive.github.io/revue-typographie/#2026-11-25-plemio-0-1-1-une-chasse-fixe-ibm-plex-ou-le-cjk-fait-pile-deux-colonnes</link>
@@ -946,64 +1007,6 @@
       <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-miorning-goupa-hei-1-1-une-manuscrite-cjk-geante</guid>
       <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
       <description>Manuscrite épaisse et volontairement maladroite pour titres et affiches : vise les 102 998 sinogrammes d’Unicode 17, plus kana, hangeul, latin et grec. Un .ttc à deux faces ; conçue avec assistance IA, sans relecture glyphe par glyphe. Licence OFL ; v1.1.0 (1er nov.).</description>
-      <category>ofl</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>hb-subset-wasm 0.5 — sous-ensembles HarfBuzz côté serveur</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-03-hb-subset-wasm-0-5-sous-ensembles-harfbuzz-cote-serveur</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-03-hb-subset-wasm-0-5-sous-ensembles-harfbuzz-cote-serveur</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Paquet npm qui expose le sous-ensemble HarfBuzz en WebAssembly autonome (Cloudflare Workers, Node) : ne garder que les caractères d’une page, fixer ou réduire les axes d’une variable. Passe à HarfBuzz 15. Licence MIT ; non officiel, v0.5.0 du 1er nov.</description>
-      <category>outil</category>
-      <category>web</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Talha Mono 1.0 bêta — une mono à la plume baroque</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-talha-mono-1-0-beta-une-mono-a-la-plume-baroque</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-talha-mono-1-0-beta-une-mono-a-la-plume-baroque</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Mono pour terminal dérivée de Monaspace Radon, aux lettres redessinées d’après le maître d’écriture Figueiredo (1722). Ligatures de code actives, variantes NF (Nerd Fonts) et Wide. Licence OFL ; encore en bêta (beta.7, 25 oct.).</description>
-      <category>ofl</category>
-      <category>code</category>
-    </item>
-    <item>
-      <title>fontcut 0.1 — tailler une fonte variable pour le web</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-fontcut-0-1-tailler-une-fonte-variable-pour-le-web</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-fontcut-0-1-tailler-une-fonte-variable-pour-le-web</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Outil en ligne de commande (npx, sans Python) : réduit une fonte variable aux axes et caractères utilisés par un site, la découpe en fichiers unicode-range et écrit le @font-face. Sortie reproductible. Licence MIT ; tout jeune (v0.1.0).</description>
-      <category>outil</category>
-      <category>web</category>
-      <category>variable</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>FontFox 1008 — gestionnaire de fontes pour Windows</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-fontfox-1008-gestionnaire-de-fontes-pour-windows</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-fontfox-1008-gestionnaire-de-fontes-pour-windows</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Gestionnaire local pour Windows 10/11 : prévisualiser, filtrer, grouper ses fontes en listes, les activer ou désactiver sans redémarrer Adobe. Documentation en chinois. Licence Apache 2.0 ; très récent (version du 1er nov.).</description>
-      <category>outil</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Protomonster 1.301 — un marqueur de titrage</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-protomonster-1-301-un-marqueur-de-titrage</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-protomonster-1-301-un-marqueur-de-titrage</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Police display façon marqueur pour titres et phrases courtes, latin étendu et cyrillique, variable 400 à 700. Licence maison gratuite, usage personnel et commercial inclus. Récente (1.301, 23 oct.).</description>
-      <category>display</category>
-      <category>variable</category>
-    </item>
-    <item>
-      <title>GuanGe Kai 1.7 — l’écriture de cour des Ming</title>
-      <link>https://olanlive.github.io/revue-typographie/#2026-11-02-guange-kai-1-7-lecriture-de-cour-des-ming</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/#2026-11-02-guange-kai-1-7-lecriture-de-cour-des-ming</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Trois polices chinoises en régulière de cour (guan-ge-ti), chacune tirée d’un manuscrit Ming, 20 992 caractères ; pas de latin. Utile pour un titrage chinois classique. Polices OFL, code MIT ; projet actif (v1.7.2, 30 oct.).</description>
       <category>ofl</category>
       <category>display</category>
     </item>
