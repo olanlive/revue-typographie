@@ -5,8 +5,55 @@
     <link>https://olanlive.github.io/revue-typographie/en/</link>
     <description>Free typography watch: typefaces, foundries and tools.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:00:00 +0100</lastBuildDate>
     <atom:link href="https://olanlive.github.io/revue-typographie/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Varcoda Mono 1.6 — a squared monospace whose ligatures never shift a column</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-28-varcoda-mono-1-6-une-mono-carree-dont-les-ligatures-ne-decalent-jamais-une-colonne</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-28-varcoda-mono-1-6-une-mono-carree-dont-les-ligatures-ne-decalent-jamais-une-colonne</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0100</pubDate>
+      <description>An original coding font: bowls drawn as rounded rectangles, a written italic, 29 ligatures each kept to one cell. 0/O and 1/l/I pairs are tested. Five weights, Latin with accents (no Cyrillic), WOFF2 and a Nerd Font variant. OFL; v1.6.0, a two-day-old project.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Halden 1.1.1 — an interface sans with a “Dark” cut for OLED screens</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-28-halden-1-1-1-une-sans-dinterface-avec-une-coupe-dark-pour-les-ecrans-oled</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-28-halden-1-1-1-une-sans-dinterface-avec-une-coupe-dark-pour-les-ecrans-oled</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0100</pubDate>
+      <description>An Inter derivative for dashboards and UI: Halden (text), Halden Display and Halden Dark, thinner for white on black but with identical widths, so no reflow when switching to dark mode. Tabular figures, Latin, Greek, Cyrillic. OFL; v1.1.1, very recent.</description>
+      <category>ofl</category>
+      <category>ui</category>
+      <category>lisibilite</category>
+    </item>
+    <item>
+      <title>Helix Mono 1.0 — JetBrains Mono reworked by HelixDB, without ligatures</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-28-helix-mono-1-0-jetbrains-mono-retouchee-par-helixdb-sans-ligatures</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-28-helix-mono-1-0-jetbrains-mono-retouchee-par-helixdb-sans-ligatures</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0100</pubDate>
+      <description>JetBrains Mono NL 2.304 with edits from the HelixDB team: rounded V notches, a square-ended r, a symmetric M, lighter &amp; and @. Six weights with italics, Latin, Greek, Cyrillic, TTF and WOFF2, build scripts included. OFL; v1.0, released 26 Nov.</description>
+      <category>ofl</category>
+      <category>code</category>
+    </item>
+    <item>
+      <title>Glyphwriter — a scanned sheet of handwriting becomes a real TTF font, in the browser</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-28-glyphwriter-une-feuille-decriture-scannee-devient-une-vraie-fonte-ttf-dans-le-navigateur</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-28-glyphwriter-une-feuille-decriture-scannee-devient-une-vraie-fonte-ttf-dans-le-navigateur</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0100</pubDate>
+      <description>A single HTML file, nothing is uploaded: print the template, fill it in ink, scan it. Tracing keeps the real ink edge (bleed, grain), with per-glyph tweaks, and missing characters are filled in from a matching Google Font. MIT; young, no release.</description>
+      <category>outil</category>
+      <category>edition-fonte</category>
+      <category>libre</category>
+    </item>
+    <item>
+      <title>SLF63 — single-stroke fonts for pen plotters, laser cutters and CNC</title>
+      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-28-slf63-des-fontes-a-trait-unique-pour-traceur-decoupe-laser-et-cnc</link>
+      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-28-slf63-des-fontes-a-trait-unique-pour-traceur-decoupe-laser-et-cnc</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0100</pubDate>
+      <description>Eight styles (sans, serif, small caps, handwriting, OCR, dingbats) as JSON polylines on a 7×9 grid: no doubled outlines or curves to flatten, ready for a plotter. Full ASCII, partial accents, a p5.js example with SVG export. MIT; brand new, no release.</description>
+      <category>outil</category>
+      <category>libre</category>
+    </item>
     <item>
       <title>Cal Sans Text UI 2.020 — the interface cut of Cal Sans, for small sizes</title>
       <link>https://olanlive.github.io/revue-typographie/en/#2026-11-26-cal-sans-text-ui-2-020-la-version-interface-de-cal-sans-pour-les-petits-corps</link>
@@ -963,52 +1010,6 @@
       <category>ofl</category>
       <category>display</category>
       <category>code</category>
-    </item>
-    <item>
-      <title>Typst.otf 0.1.0 — a font that typesets math</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-04-typst-otf-0-1-0-une-fonte-qui-compose-des-maths</guid>
-      <pubDate>Wed, 04 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Curiosity: a font that embeds Typst as WebAssembly and turns typed code into formulas through HarfBuzz’s experimental Wasm shaper. Works in no app without a rebuilt HarfBuzz; treat it as a demo. MPL-2.0 license; v0.1.0 from Nov 1.</description>
-      <category>outil</category>
-      <category>libre</category>
-    </item>
-    <item>
-      <title>Oneira 0.300 — from dream to lucid</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-03-oneira-0-300-du-reve-a-la-lucidite</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Two-axis variable font: weight 100–900 and Lucidity, from round stroke endings (0) to sharp triangles (100). One file for soft or cutting headlines. Basic Latin and Latin-1 only. OFL license; very young (v0.300, Oct 2026).</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>display</category>
-    </item>
-    <item>
-      <title>Pollen 1.0 — Open Runde goes variable</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-03-pollen-1-0-open-runde-devient-variable</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-03-pollen-1-0-open-runde-devient-variable</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Merges the four Open Runde weights (a rounded Inter) into one variable font: weight 400–700 and a ROND axis, from sharp to soft corners. Latin (incl. Vietnamese), Greek and Cyrillic. Great for a friendly UI. OFL license; v1.0 from Oct 31.</description>
-      <category>ofl</category>
-      <category>variable</category>
-      <category>ui</category>
-    </item>
-    <item>
-      <title>Kubet Mono 0.002 — a monospace drawn by code</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-03-kubet-mono-0-002-une-mono-dessinee-par-le-code</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-03-kubet-mono-0-002-une-mono-dessinee-par-le-code</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Editor and terminal monospace generated by code: 879 characters, Cyrillic, box drawing, braille, Powerline; alternate zero and l (ss01, ss02). Free on your own machines, even for paid work; shipping it (web, app) needs written approval. Custom license; v0.002.</description>
-      <category>code</category>
-    </item>
-    <item>
-      <title>Miorning Goupa Hei 1.1 — a giant handwritten CJK font</title>
-      <link>https://olanlive.github.io/revue-typographie/en/#2026-11-03-miorning-goupa-hei-1-1-une-manuscrite-cjk-geante</link>
-      <guid isPermaLink="true">https://olanlive.github.io/revue-typographie/en/#2026-11-03-miorning-goupa-hei-1-1-une-manuscrite-cjk-geante</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-      <description>Thick, deliberately clumsy handwriting for titles and posters: targets all 102,998 Unicode 17 Han characters, plus kana, Hangul, Latin and Greek. One two-face .ttc; AI-assisted, not proofed glyph by glyph. OFL license; v1.1.0 (Nov 1).</description>
-      <category>ofl</category>
-      <category>display</category>
     </item>
   </channel>
 </rss>

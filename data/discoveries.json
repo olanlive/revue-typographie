@@ -3427,5 +3427,92 @@
    "label_en": "GitHub — rumu3fen-dev/cjk-font-trim",
    "url": "https://github.com/rumu3fen-dev/cjk-font-trim/releases/tag/v0.1.0"
   }
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Varcoda Mono 1.6 — une mono carrée dont les ligatures ne décalent jamais une colonne",
+  "name_en": "Varcoda Mono 1.6 — a squared monospace whose ligatures never shift a column",
+  "summary": "Fonte de code originale : panses en rectangles arrondis, italique écrite, 29 ligatures tenant chacune dans une seule cellule. Paires 0/O, 1/l/I testées. Cinq graisses, latin avec accents (sans cyrillique), WOFF2 et variante Nerd Font. OFL ; v1.6.0, projet de deux jours.",
+  "summary_en": "An original coding font: bowls drawn as rounded rectangles, a written italic, 29 ligatures each kept to one cell. 0/O and 1/l/I pairs are tested. Five weights, Latin with accents (no Cyrillic), WOFF2 and a Nerd Font variant. OFL; v1.6.0, a two-day-old project.",
+  "url": "https://github.com/solomonabraham/Varcoda-Mono",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — solomonabraham/Varcoda-Mono",
+   "label_en": "GitHub — solomonabraham/Varcoda-Mono",
+   "url": "https://github.com/solomonabraham/Varcoda-Mono/releases/tag/1.6.0"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Halden 1.1.1 — une sans d’interface avec une coupe « Dark » pour les écrans OLED",
+  "name_en": "Halden 1.1.1 — an interface sans with a “Dark” cut for OLED screens",
+  "summary": "Dérivée d’Inter pour tableaux de bord et UI : Halden (texte), Halden Display et Halden Dark, plus fine pour le blanc sur noir mais à chasses identiques, donc zéro décalage en passant au thème sombre. Chiffres tabulaires, latin, grec, cyrillique. OFL ; v1.1.1, très récente.",
+  "summary_en": "An Inter derivative for dashboards and UI: Halden (text), Halden Display and Halden Dark, thinner for white on black but with identical widths, so no reflow when switching to dark mode. Tabular figures, Latin, Greek, Cyrillic. OFL; v1.1.1, very recent.",
+  "url": "https://github.com/Paxton0209/halden",
+  "tags": [
+   "ofl",
+   "ui",
+   "lisibilite"
+  ],
+  "source": {
+   "label": "GitHub — Paxton0209/halden",
+   "label_en": "GitHub — Paxton0209/halden",
+   "url": "https://github.com/Paxton0209/halden/releases/tag/v1.1.1"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Helix Mono 1.0 — JetBrains Mono retouchée par HelixDB, sans ligatures",
+  "name_en": "Helix Mono 1.0 — JetBrains Mono reworked by HelixDB, without ligatures",
+  "summary": "JetBrains Mono NL 2.304 avec les retouches de l’éditeur de HelixDB : encoches du V arrondies, r à bout carré, M symétrique, & et @ allégés. Six graisses avec italiques, latin, grec, cyrillique, TTF et WOFF2, scripts de build fournis. OFL ; v1.0, publiée le 26/11.",
+  "summary_en": "JetBrains Mono NL 2.304 with edits from the HelixDB team: rounded V notches, a square-ended r, a symmetric M, lighter & and @. Six weights with italics, Latin, Greek, Cyrillic, TTF and WOFF2, build scripts included. OFL; v1.0, released 26 Nov.",
+  "url": "https://github.com/HelixDB/helix-mono",
+  "tags": [
+   "ofl",
+   "code"
+  ],
+  "source": {
+   "label": "GitHub — HelixDB/helix-mono",
+   "label_en": "GitHub — HelixDB/helix-mono",
+   "url": "https://github.com/HelixDB/helix-mono/releases/tag/v1.0"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Glyphwriter — une feuille d’écriture scannée devient une vraie fonte TTF, dans le navigateur",
+  "name_en": "Glyphwriter — a scanned sheet of handwriting becomes a real TTF font, in the browser",
+  "summary": "Un seul fichier HTML, rien n’est envoyé : on imprime le gabarit, on remplit à l’encre, on scanne. Le tracé garde le vrai bord de l’encre (bavures, grain), réglage par glyphe, et les caractères manquants sont complétés d’après une Google Font proche. MIT ; jeune, sans release.",
+  "summary_en": "A single HTML file, nothing is uploaded: print the template, fill it in ink, scan it. Tracing keeps the real ink edge (bleed, grain), with per-glyph tweaks, and missing characters are filled in from a matching Google Font. MIT; young, no release.",
+  "url": "https://giannacrisha.github.io/glyphwriter/",
+  "tags": [
+   "outil",
+   "edition-fonte",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — giannacrisha/glyphwriter",
+   "label_en": "GitHub — giannacrisha/glyphwriter",
+   "url": "https://github.com/giannacrisha/glyphwriter"
+  }
+ },
+ {
+  "date": "2026-11-28",
+  "name": "SLF63 — des fontes à trait unique pour traceur, découpe laser et CNC",
+  "name_en": "SLF63 — single-stroke fonts for pen plotters, laser cutters and CNC",
+  "summary": "Huit styles (sans, serif, petites capitales, manuscrit, OCR, pictos) en polylignes JSON sur une grille 7×9 : ni contour doublé ni courbe à découper, prêt pour un traceur. ASCII complet, accents partiels, exemple p5.js avec export SVG. MIT ; tout neuf, sans release.",
+  "summary_en": "Eight styles (sans, serif, small caps, handwriting, OCR, dingbats) as JSON polylines on a 7×9 grid: no doubled outlines or curves to flatten, ready for a plotter. Full ASCII, partial accents, a p5.js example with SVG export. MIT; brand new, no release.",
+  "url": "https://github.com/davebollinger/SLF63",
+  "tags": [
+   "outil",
+   "libre"
+  ],
+  "source": {
+   "label": "GitHub — davebollinger/SLF63",
+   "label_en": "GitHub — davebollinger/SLF63",
+   "url": "https://github.com/davebollinger/SLF63"
+  }
  }
 ]
